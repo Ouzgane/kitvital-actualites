@@ -16,3 +16,4 @@ Méthode : `docs/barometre.md` du dépôt du site.
 ## Visuels des réseaux sociaux
 
 - `reseaux/instagram/` : les visuels JPEG (1080 × 1350) des publications Instagram de @kitvital.fr, nommés `<publication>-<numéro de diapositive>.jpg`. Ils sont lus par l'API de publication de Meta, qui exige une adresse publique. Les textes et sources de chaque publication sont tenus dans le projet KitVital (note `reseaux-sociaux.md`).
+- `reseaux/pinterest/` : les visuels JPEG (1000 × 1500) des épingles du compte Pinterest « kitvital », nommés `<épingle>.jpg`. Pinterest les télécharge depuis leur adresse publique au moment de créer l'épingle. Textes, tableaux et liens : projet KitVital (note `reseaux-sociaux.md`).
