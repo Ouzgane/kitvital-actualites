@@ -1,6 +1,16 @@
 {
-  "maj": "2026-11-14T12:57:28Z",
+  "maj": "2026-11-15T05:11:46Z",
   "entrees": [
+    {
+      "date": "2026-11-13",
+      "theme": "sante",
+      "portee": "Nouvelle-Aquitaine",
+      "autorite": "Agence régionale de santé (ARS) Nouvelle-Aquitaine",
+      "titre": "Communiqué de presse 2026 - L'hiver est plus précoce cette année - Le Monoxyde carbone (CO), un danger invisible mais bien réel - 13/11/2026",
+      "resume": "L'ARS rappelle qu'environ 3 000 personnes sont intoxiquées au monoxyde de carbone chaque année en France et qu'une centaine en meurent ; aérer au moins 10 minutes par jour, groupe électrogène dehors, en cas de doute le 15, le 18 ou le 112.",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-lhiver-est-plus-precoce-cette-annee-le-monoxyde-carbone-co-un-danger",
+      "guide": "chauffage-monoxyde-de-carbone"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-13",

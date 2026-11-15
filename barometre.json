@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-14T10:57:53Z",
-  "releve": "2026-11-14",
+  "maj": "2026-11-15T05:11:38Z",
+  "releve": "2026-11-15",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -18,6 +18,14 @@
   },
   "actus": {
     "guerre-europe": [
+      {
+        "date": "2026-11-14",
+        "texte": "Le Kremlin déclare le 14 novembre ne pas vouloir fixer de conditions à l'équipe de négociation européenne, après l'annonce par l'émissaire américain Jared Kushner que la Russie accepte la participation des Européens au prochain cycle de pourparlers, dont la date et le lieu ne sont pas connus.",
+        "source": {
+          "titre": "Moscow says it will not dictate EU delegation's participation in Ukraine talks (Euronews, 14 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks"
+        }
+      },
       {
         "date": "2026-11-13",
         "texte": "Réunis à Dublin, les dirigeants de l'Union forment une équipe européenne commune pour les pourparlers de paix sur l'Ukraine : France, Allemagne, Italie, Pologne et Royaume-Uni, avec le Conseil européen, la Commission et l'OTAN. Aucun envoyé spécial unique n'est désigné.",
@@ -40,14 +48,6 @@
         "source": {
           "titre": "« A restless and difficult night » in the Baltics as NATO fighter jets fail to shoot down drone (Euronews, 11 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron"
-        }
-      },
-      {
-        "date": "2026-11-11",
-        "texte": "Les pourparlers d'Abou Dhabi entre Ukrainiens, Russes et Américains s'achèvent sur un accord de principe pour un important échange de prisonniers, environ 1 000 de chaque côté, peut-être 1 500. Moscou refuse un cessez-le-feu immédiat.",
-        "source": {
-          "titre": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin (Euronews, 11 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
         }
       },
       {
@@ -95,10 +95,10 @@
     ],
     "energie": [
       {
-        "date": "2026-11-13",
-        "texte": "Le 13 novembre à 7 h, 9 % des stations-service de France manquent d'au moins un carburant, gazole ou essence, contre 12 % le 11 novembre ; 19 % dans le Grand Est, la région la plus touchée, selon le relevé du site gouvernemental.",
+        "date": "2026-11-14",
+        "texte": "Le 14 novembre à 9 h, 7 % des stations-service de France manquent d'au moins un carburant, gazole ou essence, contre 9 % le 12 novembre à 17 h ; 16 % dans le Grand Est, la région la plus touchée, contre 19 % le 12 novembre, selon le relevé du site gouvernemental.",
         "source": {
-          "titre": "Disponibilités carburants, relevé du 13 novembre 2026 à 7 h (prix-carburants.gouv.fr, site gouvernemental)",
+          "titre": "Disponibilités carburants, relevé du 14 novembre 2026 à 9 h (prix-carburants.gouv.fr, site gouvernemental)",
           "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
         }
       },
@@ -137,10 +137,10 @@
     ],
     "epidemies": [
       {
-        "date": "2026-11-12",
-        "texte": "Ebola (virus Bundibugyo) : 11 114 cas confirmés, dont 5 433 décès, en République démocratique du Congo. Au Kenya, 7 des 9 malades sont guéris et tous les contacts ont terminé leur quarantaine de 21 jours. L'ECDC juge le risque très faible pour les habitants de l'Union.",
+        "date": "2026-11-13",
+        "texte": "Ebola (virus Bundibugyo) : 11 197 cas confirmés, dont 5 471 décès, en République démocratique du Congo au 12 novembre, où la transmission se poursuit. Au Kenya, 7 des 9 malades sont guéris et tous les contacts ont terminé leur suivi de 21 jours. L'ECDC juge le risque très faible pour les habitants de l'Union.",
         "source": {
-          "titre": "Ebola disease: Multi-country outbreak 2026 (ECDC, mise à jour du 12 novembre 2026)",
+          "titre": "Ebola disease: Multi-country outbreak 2026 (ECDC, mise à jour du 13 novembre 2026)",
           "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
         }
       },
@@ -290,43 +290,43 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-14",
-      "texte": "Après l'accord de principe d'Abou Dhabi sur un échange de prisonniers, les émissaires américains ont rencontré le président russe à Moscou le 12 novembre, sans cessez-le-feu ; le 13, les dirigeants européens réunis à Dublin ont formé une équipe commune pour les négociations. Dans la nuit du 10 au 11, des drones et des ballons ont survolé les pays baltes, qui ont demandé à leurs habitants de se mettre à l'abri. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
-      "aSurveiller": "Un cessez-le-feu effectif, qui ferait baisser le palier de la guerre en Ukraine, l'échange de prisonniers annoncé et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
+      "date": "2026-11-15",
+      "texte": "Les pourparlers sur l'Ukraine se poursuivent sans cessez-le-feu : le 14 novembre, le Kremlin a dit ne pas vouloir fixer de conditions à l'équipe de négociation européenne formée la veille à Dublin, après l'annonce américaine d'une participation des Européens au prochain cycle, dont la date n'est pas connue. Dans l'Union, aucune nouvelle incursion n'a été relevée depuis les drones et ballons repérés au-dessus des pays baltes dans la nuit du 10 au 11 novembre. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
+      "aSurveiller": "Un cessez-le-feu effectif, qui ferait baisser le palier de la guerre en Ukraine, la date du prochain cycle de pourparlers avec les Européens et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
     },
     "climat": {
-      "date": "2026-11-14",
-      "texte": "Le temps devient plus frais : Météo-France prévoit des gelées parfois fortes samedi sur le nord-est, jusqu'à -5 °C localement, puis une nouvelle perturbation pluvieuse dimanche sur tout le pays. La COP31 se poursuit à Antalya, avec son segment de haut niveau prévu du 16 au 19 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas. Les tempêtes et les pluies d'automne et d'hiver restent le risque le plus probable pour un foyer français dans les semaines qui viennent.",
-      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas) et l'issue de la COP31, dont la clôture est prévue le 20 novembre."
+      "date": "2026-11-15",
+      "texte": "Après des gelées samedi sur le nord-est, une nouvelle perturbation pluvieuse traverse le pays ce dimanche, avec du vent ; pour la semaine qui vient, Météo-France prévoit plusieurs perturbations et un risque de coup de vent à surveiller. La COP31 se poursuit à Antalya, avec son segment de haut niveau prévu du 16 au 19 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas.",
+      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas), dont un éventuel coup de vent dans la semaine, et l'issue de la COP31, dont la clôture est prévue le 20 novembre."
     },
     "energie": {
-      "date": "2026-11-14",
-      "texte": "Le pétrole a reflué, à 92 $ le baril le 11 novembre contre près de 124 $ en moyenne en octobre, mais sa moyenne depuis janvier atteint environ 96 $ : c'est ce repère, mis à jour, qui fait passer le score du domaine de 57 à 59. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, 9 % des stations manquaient d'au moins un carburant le 13 novembre au matin, 19 % dans le Grand Est, sans pénurie déclarée par les autorités ; le prix repère du gaz augmentera de 5,8 % au 1er décembre.",
+      "date": "2026-11-15",
+      "texte": "Le pétrole a reflué, à 92 $ le baril le 11 novembre contre près de 124 $ en moyenne en octobre, mais sa moyenne depuis janvier reste d'environ 96 $ : le score du domaine ne change pas. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, les difficultés en station reculent : 7 % des stations manquaient d'au moins un carburant le 14 novembre au matin, 16 % dans le Grand Est, sans pénurie déclarée par les autorités ; le prix repère du gaz augmentera de 5,8 % au 1er décembre.",
       "aSurveiller": "Les signaux Ecowatt de RTE en cas de vague de froid, la disponibilité des carburants en station et la situation du détroit d'Ormuz."
     },
     "epidemies": {
-      "date": "2026-11-14",
-      "texte": "L'épidémie d'Ebola due au virus Bundibugyo dépasse 11 000 cas confirmés en RDC : l'OMS la maintient en urgence de santé publique de portée internationale et note des signes de ralentissement dans certaines zones, alors que de nouveaux foyers apparaissent ailleurs. Au Kenya, le dernier malade est sorti le 11 novembre. L'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
+      "date": "2026-11-15",
+      "texte": "L'épidémie d'Ebola due au virus Bundibugyo approche 11 200 cas confirmés en RDC, où la transmission se poursuit : l'OMS la maintient en urgence de santé publique de portée internationale. Au Kenya, 7 des 9 malades sont guéris et tous les contacts ont terminé leur suivi. L'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
       "aSurveiller": "Un cas confirmé en Europe en dehors d'une évacuation sanitaire, la levée de l'urgence par l'OMS, et le début des épidémies de grippe et de bronchiolite en France."
     },
     "conflits-monde": {
-      "date": "2026-11-14",
-      "texte": "Les tensions autour de l'Iran repartent à la hausse : le 13 novembre, les Gardiens de la révolution ont affirmé avoir détruit un radar américain à Bahreïn, ce que Washington dément, et Donald Trump avait déclaré la veille ne plus avoir besoin d'un accord avec Téhéran. Le détroit d'Ormuz reste presque fermé, avec des passages environ 65 % sous leur niveau d'avant-guerre selon les données citées par l'ONU. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
+      "date": "2026-11-15",
+      "texte": "Le détroit d'Ormuz reste quasiment fermé, selon l'ONU, dont le Conseil de sécurité s'est réuni le 13 novembre à la demande de Bahreïn, sans accord à ce stade ; le même jour, les Gardiens de la révolution ont revendiqué la destruction d'un radar américain à Bahreïn, ce que Washington dément. Au Soudan, le Programme alimentaire mondial réduit son aide faute de financement. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
       "aSurveiller": "Une reprise des frappes entre les États-Unis et l'Iran, ou au contraire un accord rouvrant le détroit d'Ormuz, qui pèserait aussitôt sur l'énergie et les prix."
     },
     "nucleaire": {
-      "date": "2026-11-14",
-      "texte": "En Iran, des députés et l'Assemblée des experts appellent à examiner un retrait du traité de non-prolifération, sans vote à ce stade ; le ministère des Affaires étrangères affirme que le pays reste attaché au traité. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit, et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Le score ne change pas : aucun repère chiffré n'a bougé.",
+      "date": "2026-11-15",
+      "texte": "Aucun fait nouveau n'a été relevé depuis le débat de députés iraniens, le 13 novembre, sur un retrait du traité de non-prolifération : aucun texte n'a été voté et le ministère iranien des Affaires étrangères affirme que le pays reste attaché au traité. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Le score ne change pas.",
       "aSurveiller": "Un vote du Parlement iranien sur le retrait du traité de non-prolifération, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
     },
     "cyberattaques": {
-      "date": "2026-11-14",
-      "texte": "Le 13 novembre, une panne de télécommunications a obligé l'aviation civile américaine à suspendre tous les départs du pays pendant plus de quatre heures, avec des milliers de vols annulés ; les autorités disent n'avoir relevé à ce stade aucun signe de cyberattaque et mettent en cause des équipements anciens surchargés. En France, aucune nouvelle attaque d'ampleur n'a été relevée depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
+      "date": "2026-11-15",
+      "texte": "Aucune nouvelle attaque d'ampleur n'a été relevée en France ou en Europe depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Aux États-Unis, les autorités mettaient en cause des équipements anciens surchargés, sans signe de cyberattaque à ce stade, dans la panne de télécommunications qui a arrêté tous les départs d'avions pendant plus de quatre heures le 13 novembre. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
       "aSurveiller": "Les conclusions de l'enquête sur la panne américaine, d'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-14",
-      "texte": "Aucun nouvel attentat ni projet déjoué n'a été relevé ces derniers jours. Le plan Vigipirate reste au stade « vigilance renforcée » sur tout le territoire, une posture qui couvre aussi les sites touristiques et lieux d'affluence de Noël. La menace reste réelle : attentat à motivation raciste à Trappes en octobre, projet d'attentat à Paris en mars. À l'échelle de l'Union, Europol a recensé moins d'attentats en 2025 qu'en 2024 ; le score ne change pas.",
+      "date": "2026-11-15",
+      "texte": "Aucun nouvel attentat ni projet déjoué n'a été relevé en France ou dans l'Union ces derniers jours. Le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël et des fêtes de fin d'année. La menace reste réelle : attentat à motivation raciste à Trappes en octobre, projet d'attentat à Paris en mars. À l'échelle de l'Union, Europol a recensé moins d'attentats en 2025 qu'en 2024 ; le score ne change pas.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
   },
@@ -361,6 +361,20 @@
     },
     {
       "date": "2026-11-14",
+      "global": 65.3,
+      "dimensions": {
+        "guerre-europe": 85.22,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-15",
       "global": 65.3,
       "dimensions": {
         "guerre-europe": 85.22,
