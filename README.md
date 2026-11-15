@@ -12,3 +12,7 @@ Méthode et règles : `docs/actualites.md` du dépôt du site. Les textes sont d
 - `barometre.json` : le relevé quotidien du baromètre lu par la page https://kitvital.fr/barometre-des-risques et par l'accueil. Écrit chaque matin (vers 6 h, heure de Paris) par le script `npm run barometre:releve` du dépôt du site : valeurs de l'année en cours, actualité et analyse de chaque domaine, historique des scores, dernière alerte. Les scores sont toujours recalculés par le site avec sa méthode fixe.
 
 Méthode : `docs/barometre.md` du dépôt du site.
+
+## Visuels des réseaux sociaux
+
+- `reseaux/instagram/` : les visuels JPEG (1080 × 1350) des publications Instagram de @kitvital.fr, nommés `<publication>-<numéro de diapositive>.jpg`. Ils sont lus par l'API de publication de Meta, qui exige une adresse publique. Les textes et sources de chaque publication sont tenus dans le projet KitVital (note `reseaux-sociaux.md`).
