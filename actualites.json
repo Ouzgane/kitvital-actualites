@@ -1,6 +1,35 @@
 {
-  "maj": "2026-11-16T05:13:39Z",
+  "maj": "2026-11-16T12:59:13Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-16",
+      "theme": "conflit",
+      "portee": "Moyen-Orient",
+      "autorite": "Euronews",
+      "titre": "Les États-Unis et l'Iran glissent vers une nouvelle guerre ouverte à mesure que les échanges de tirs s'intensifient",
+      "resume": "Page en anglais, titre traduit. Frappes américaines dans le sud de l'Iran dimanche soir ; selon les Gardiens de la révolution, six pétroliers ont pris feu à Ormuz depuis dimanche, sans confirmation indépendante. Le pétrole a monté lundi.",
+      "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
+    },
+    {
+      "date": "2026-11-16",
+      "theme": "penurie",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (énergie)",
+      "titre": "Le groupe de coordination pour l'électricité estime le marché européen de l'électricité préparé pour l'hiver",
+      "resume": "Page en anglais, titre traduit. Réuni le 12 novembre, le groupe juge que l'UE devrait disposer de ressources suffisantes pour couvrir sa demande d'électricité de l'hiver 2026-2027, tout en continuant à surveiller le marché de près.",
+      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-15",
+      "theme": "conflit",
+      "portee": "Estonie",
+      "autorite": "Euronews",
+      "titre": "Un fabricant estonien de drones visé par une tentative de sabotage « commanditée par le GRU », selon le Premier ministre",
+      "resume": "Page en anglais, titre traduit. La tentative visait samedi à provoquer explosion et incendie chez l'entreprise Threod ; les auteurs présumés sont détenus et l'Estonie se prépare à une possible fermeture de sa frontière avec la Russie.",
+      "url": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-15",
@@ -20,6 +49,15 @@
       "titre": "Les forces de l'Union abordent en Méditerranée un pétrolier soupçonné d'appartenir à la flotte fantôme russe, selon Kaja Kallas",
       "resume": "Page en anglais, titre traduit. Selon la cheffe de la diplomatie de l'Union, les forces de l'opération européenne Irini ont abordé le pétrolier MV Midag, qui naviguait sous un faux pavillon.",
       "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "penurie",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (énergie)",
+      "titre": "Le groupe de coordination pour le pétrole confirme la stabilité de l'approvisionnement dans l'Union",
+      "resume": "Page en anglais, titre traduit. Réunis avec l'AIE et l'OTAN, les experts jugent l'approvisionnement pétrolier de l'UE stable pour l'instant ; les prix restent nettement au-dessus de leur niveau d'avant le conflit et le marché reste tendu.",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en"
     },
     {
       "date": "2026-11-13",
