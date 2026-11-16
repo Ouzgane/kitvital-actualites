@@ -1,6 +1,35 @@
 {
-  "maj": "2026-11-15T12:57:58Z",
+  "maj": "2026-11-16T05:13:39Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-15",
+      "theme": "conflit",
+      "portee": "Roumanie",
+      "autorite": "Euronews",
+      "titre": "Trois navires commerciaux touchés par des drones au large de la côte roumaine de la mer Noire, selon le Premier ministre",
+      "resume": "Page en anglais, titre traduit. Touchés le 14 novembre au soir près du canal de Sulina, sans blessé ; Bucarest y voit l'effet de la guerre russe en Ukraine et a fait décoller des chasseurs, la Russie dément viser les voisins de l'Ukraine.",
+      "url": "https://euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-15",
+      "theme": "conflit",
+      "portee": "Union européenne",
+      "autorite": "Euronews",
+      "titre": "Les forces de l'Union abordent en Méditerranée un pétrolier soupçonné d'appartenir à la flotte fantôme russe, selon Kaja Kallas",
+      "resume": "Page en anglais, titre traduit. Selon la cheffe de la diplomatie de l'Union, les forces de l'opération européenne Irini ont abordé le pétrolier MV Midag, qui naviguait sous un faux pavillon.",
+      "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Déclaration de la quarante-sixième réunion du comité d'urgence du Règlement sanitaire international sur la poliomyélite",
+      "resume": "Page en anglais, titre traduit. Le comité juge à l'unanimité que la propagation internationale des poliovirus reste une urgence de santé publique de portée internationale ; les recommandations temporaires aux voyageurs sont reconduites.",
+      "url": "https://who.int/news/item/13-11-2026-statement-of-the-forty-sixth-meeting-of-the-polio-ihr-emergency-committee"
+    },
     {
       "date": "2026-11-13",
       "theme": "sante",

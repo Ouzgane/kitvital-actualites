@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-15T05:11:38Z",
-  "releve": "2026-11-15",
+  "maj": "2026-11-16T05:13:25Z",
+  "releve": "2026-11-16",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -19,27 +19,27 @@
   "actus": {
     "guerre-europe": [
       {
+        "date": "2026-11-15",
+        "texte": "La cheffe de la diplomatie de l'Union, Kaja Kallas, annonce que les forces de l'opération européenne Irini ont abordé en Méditerranée le pétrolier MV Midag, soupçonné d'appartenir à la flotte fantôme russe et naviguant sous un faux pavillon.",
+        "source": {
+          "titre": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says (Euronews, 15 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+        }
+      },
+      {
         "date": "2026-11-14",
-        "texte": "Le Kremlin déclare le 14 novembre ne pas vouloir fixer de conditions à l'équipe de négociation européenne, après l'annonce par l'émissaire américain Jared Kushner que la Russie accepte la participation des Européens au prochain cycle de pourparlers, dont la date et le lieu ne sont pas connus.",
+        "texte": "Le 14 novembre au soir, trois navires commerciaux sont touchés par des drones près du canal de Sulina, au large de la côte roumaine de la mer Noire, sans blessé. La Roumanie, qui a fait décoller des avions de chasse, y voit l'effet de la guerre russe en Ukraine ; la Russie dément viser les pays voisins de l'Ukraine.",
         "source": {
-          "titre": "Moscow says it will not dictate EU delegation's participation in Ukraine talks (Euronews, 14 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks"
+          "titre": "Three commercial vessels struck by drones near Romania's black sea, PM says (Euronews, 15 novembre 2026)",
+          "url": "https://euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says"
         }
       },
       {
-        "date": "2026-11-13",
-        "texte": "Réunis à Dublin, les dirigeants de l'Union forment une équipe européenne commune pour les pourparlers de paix sur l'Ukraine : France, Allemagne, Italie, Pologne et Royaume-Uni, avec le Conseil européen, la Commission et l'OTAN. Aucun envoyé spécial unique n'est désigné.",
+        "date": "2026-11-14",
+        "texte": "Selon Volodymyr Zelensky, les États-Unis ont pour la première fois évoqué une adhésion de l'Ukraine à l'OTAN en échange d'un retrait du Donbass ; il dit ne pas pouvoir en décider seul et vouloir consulter les Ukrainiens. La diplomatie russe affirme que la question n'a pas été abordée lors des pourparlers.",
         "source": {
-          "titre": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot (Euronews, 13 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
-        }
-      },
-      {
-        "date": "2026-11-12",
-        "texte": "Les émissaires américains Steve Witkoff et Jared Kushner rencontrent Vladimir Poutine à Moscou, sans annonce de cessez-le-feu. Moscou conditionne la participation des Européens aux pourparlers à l'arrêt de leur aide militaire à l'Ukraine.",
-        "source": {
-          "titre": "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough (Euronews, 12 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+          "titre": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy (Euronews, 14 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
         }
       },
       {
@@ -60,6 +60,14 @@
       }
     ],
     "climat": [
+      {
+        "date": "2026-11-14",
+        "texte": "À mi-parcours de la COP31 d'Antalya, le secrétaire exécutif de l'ONU Climat, Simon Stiell, estime qu'il n'y aura « pas de succès collectif sans compromis de chaque partie ».",
+        "source": {
+          "titre": "COP 31 live updates archive (ONU Climat, 13 et 14 novembre 2026)",
+          "url": "https://unfccc.int/cop-31-live-updates-archive"
+        }
+      },
       {
         "date": "2026-11-13",
         "texte": "Météo-France prévoit pour samedi 14 novembre des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les premières hauteurs du Massif central, puis une nouvelle perturbation pluvieuse sur l'ensemble du pays dimanche.",
@@ -290,42 +298,42 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-15",
-      "texte": "Les pourparlers sur l'Ukraine se poursuivent sans cessez-le-feu : le 14 novembre, le Kremlin a dit ne pas vouloir fixer de conditions à l'équipe de négociation européenne formée la veille à Dublin, après l'annonce américaine d'une participation des Européens au prochain cycle, dont la date n'est pas connue. Dans l'Union, aucune nouvelle incursion n'a été relevée depuis les drones et ballons repérés au-dessus des pays baltes dans la nuit du 10 au 11 novembre. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
-      "aSurveiller": "Un cessez-le-feu effectif, qui ferait baisser le palier de la guerre en Ukraine, la date du prochain cycle de pourparlers avec les Européens et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
+      "date": "2026-11-16",
+      "texte": "Les pourparlers sur l'Ukraine se poursuivent sans cessez-le-feu : selon Volodymyr Zelensky, Washington a évoqué une adhésion à l'OTAN en échange d'un retrait du Donbass, ce que Moscou dit ne pas avoir discuté. Le 14 novembre au soir, trois navires commerciaux ont été touchés par des drones au large de la Roumanie, sans blessé ; le 15, l'Union a annoncé l'abordage en Méditerranée d'un pétrolier soupçonné d'appartenir à la flotte fantôme russe. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
+      "aSurveiller": "Un cessez-le-feu effectif, de nouveaux incidents de drones visant un pays de l'Union comme la Roumanie, et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
     },
     "climat": {
-      "date": "2026-11-15",
-      "texte": "Après des gelées samedi sur le nord-est, une nouvelle perturbation pluvieuse traverse le pays ce dimanche, avec du vent ; pour la semaine qui vient, Météo-France prévoit plusieurs perturbations et un risque de coup de vent à surveiller. La COP31 se poursuit à Antalya, avec son segment de haut niveau prévu du 16 au 19 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas.",
-      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas), dont un éventuel coup de vent dans la semaine, et l'issue de la COP31, dont la clôture est prévue le 20 novembre."
+      "date": "2026-11-16",
+      "texte": "Pour cette semaine, Météo-France prévoit plusieurs perturbations successives, avec de la pluie en plaine, de la neige en montagne et un risque de coup de vent à surveiller ; son bulletin du 15 novembre ne plaçait aucun département en vigilance orange ou rouge pour ce lundi. À mi-parcours de la COP31 d'Antalya, dont la clôture est prévue le 20 novembre, l'ONU Climat appelle chaque partie au compromis. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas.",
+      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas) avec les perturbations de la semaine, et l'issue de la COP31, attendue le 20 novembre."
     },
     "energie": {
-      "date": "2026-11-15",
-      "texte": "Le pétrole a reflué, à 92 $ le baril le 11 novembre contre près de 124 $ en moyenne en octobre, mais sa moyenne depuis janvier reste d'environ 96 $ : le score du domaine ne change pas. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, les difficultés en station reculent : 7 % des stations manquaient d'au moins un carburant le 14 novembre au matin, 16 % dans le Grand Est, sans pénurie déclarée par les autorités ; le prix repère du gaz augmentera de 5,8 % au 1er décembre.",
+      "date": "2026-11-16",
+      "texte": "Le pétrole a reflué depuis octobre, quand le Brent a atteint près de 124 $ en moyenne mensuelle, mais sa moyenne depuis janvier reste d'environ 96 $ : le score du domaine ne change pas. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, le dernier relevé officiel, le 14 novembre au matin, comptait 7 % des stations manquant d'au moins un carburant, 16 % dans le Grand Est, sans pénurie déclarée ; le prix repère du gaz augmentera de 5,8 % au 1er décembre.",
       "aSurveiller": "Les signaux Ecowatt de RTE en cas de vague de froid, la disponibilité des carburants en station et la situation du détroit d'Ormuz."
     },
     "epidemies": {
-      "date": "2026-11-15",
-      "texte": "L'épidémie d'Ebola due au virus Bundibugyo approche 11 200 cas confirmés en RDC, où la transmission se poursuit : l'OMS la maintient en urgence de santé publique de portée internationale. Au Kenya, 7 des 9 malades sont guéris et tous les contacts ont terminé leur suivi. L'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
+      "date": "2026-11-16",
+      "texte": "L'épidémie d'Ebola due au virus Bundibugyo approche 11 200 cas confirmés en RDC, où la transmission se poursuit ; ni l'OMS ni l'ECDC n'ont publié de nouveau point depuis le 13 novembre. L'OMS la maintient en urgence de santé publique de portée internationale, avec un risque mondial jugé faible, et l'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
       "aSurveiller": "Un cas confirmé en Europe en dehors d'une évacuation sanitaire, la levée de l'urgence par l'OMS, et le début des épidémies de grippe et de bronchiolite en France."
     },
     "conflits-monde": {
-      "date": "2026-11-15",
-      "texte": "Le détroit d'Ormuz reste quasiment fermé, selon l'ONU, dont le Conseil de sécurité s'est réuni le 13 novembre à la demande de Bahreïn, sans accord à ce stade ; le même jour, les Gardiens de la révolution ont revendiqué la destruction d'un radar américain à Bahreïn, ce que Washington dément. Au Soudan, le Programme alimentaire mondial réduit son aide faute de financement. Le score ne bouge pas : il repose sur les chiffres annuels de 2025, ceux de 2026 paraîtront à l'été 2027.",
+      "date": "2026-11-16",
+      "texte": "Aucun fait nouveau n'a été relevé depuis le 13 novembre, quand le Conseil de sécurité de l'ONU s'est réuni sur la sécurité dans le Golfe : les passages dans le détroit d'Ormuz restaient environ 65 % sous leur niveau d'avant-guerre, et les Gardiens de la révolution revendiquaient la destruction d'un radar américain à Bahreïn, démentie par Washington. Au Soudan, le Programme alimentaire mondial réduit son aide faute de financement. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
       "aSurveiller": "Une reprise des frappes entre les États-Unis et l'Iran, ou au contraire un accord rouvrant le détroit d'Ormuz, qui pèserait aussitôt sur l'énergie et les prix."
     },
     "nucleaire": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "texte": "Aucun fait nouveau n'a été relevé depuis le débat de députés iraniens, le 13 novembre, sur un retrait du traité de non-prolifération : aucun texte n'a été voté et le ministère iranien des Affaires étrangères affirme que le pays reste attaché au traité. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Le score ne change pas.",
       "aSurveiller": "Un vote du Parlement iranien sur le retrait du traité de non-prolifération, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
     },
     "cyberattaques": {
-      "date": "2026-11-15",
-      "texte": "Aucune nouvelle attaque d'ampleur n'a été relevée en France ou en Europe depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Aux États-Unis, les autorités mettaient en cause des équipements anciens surchargés, sans signe de cyberattaque à ce stade, dans la panne de télécommunications qui a arrêté tous les départs d'avions pendant plus de quatre heures le 13 novembre. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
+      "date": "2026-11-16",
+      "texte": "Aucune nouvelle attaque d'ampleur n'a été relevée en France ou en Europe depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Aux États-Unis, aucune suite n'a été relevée sur la panne de télécommunications qui a arrêté tous les départs d'avions pendant plus de quatre heures le 13 novembre ; les autorités mettaient alors en cause des équipements anciens surchargés, sans signe de cyberattaque. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
       "aSurveiller": "Les conclusions de l'enquête sur la panne américaine, d'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "texte": "Aucun nouvel attentat ni projet déjoué n'a été relevé en France ou dans l'Union ces derniers jours. Le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël et des fêtes de fin d'année. La menace reste réelle : attentat à motivation raciste à Trappes en octobre, projet d'attentat à Paris en mars. À l'échelle de l'Union, Europol a recensé moins d'attentats en 2025 qu'en 2024 ; le score ne change pas.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
@@ -375,6 +383,20 @@
     },
     {
       "date": "2026-11-15",
+      "global": 65.3,
+      "dimensions": {
+        "guerre-europe": 85.22,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-16",
       "global": 65.3,
       "dimensions": {
         "guerre-europe": 85.22,
