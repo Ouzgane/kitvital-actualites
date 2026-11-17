@@ -1,6 +1,26 @@
 {
-  "maj": "2026-11-16T12:59:13Z",
+  "maj": "2026-11-17T05:03:59Z",
   "entrees": [
+    {
+      "date": "2026-11-16",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : défilé de perturbations cette semaine",
+      "resume": "Météo-France annonce une succession de perturbations océaniques cette semaine : pluies parfois soutenues, rafales pouvant atteindre ou dépasser 80 à 100 km/h mardi dans le nord-ouest, neige sur le relief, surtout dans les Alpes.",
+      "url": "https://meteofrance.com/actualites/meteo-defile-de-perturbations-cette-semaine",
+      "guide": "tempete"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-16",
+      "theme": "conflit",
+      "portee": "Estonie",
+      "autorite": "Euronews",
+      "titre": "L'Estonie va fermer sa frontière avec la Russie après une tentative de « sabotage » contre un fabricant de drones, selon son ministre des Affaires étrangères",
+      "resume": "Page en anglais, titre traduit. L'Estonie fermera tous ses points de passage avec la Russie le 1er décembre, après un sabotage déjoué le 14 novembre que Tallinn attribue au renseignement militaire russe ; Moscou dit vouloir vérifier.",
+      "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-16",
@@ -19,6 +39,15 @@
       "titre": "Le groupe de coordination pour l'électricité estime le marché européen de l'électricité préparé pour l'hiver",
       "resume": "Page en anglais, titre traduit. Réuni le 12 novembre, le groupe juge que l'UE devrait disposer de ressources suffisantes pour couvrir sa demande d'électricité de l'hiver 2026-2027, tout en continuant à surveiller le marché de près.",
       "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
+    },
+    {
+      "date": "2026-11-15",
+      "theme": "sante",
+      "portee": "République démocratique du Congo",
+      "autorite": "Organisation mondiale de la santé (OMS), bureau régional de l'Afrique",
+      "titre": "Six mois après, l'accès aux communautés difficiles à atteindre est essentiel pour enrayer l'épidémie d'Ebola",
+      "resume": "Page en anglais, titre traduit. Six mois après le début de l'épidémie due au virus Bundibugyo, l'OMS compte plus de 11 000 cas et 5 400 décès en RDC, avec 400 à 500 nouveaux cas encore signalés chaque semaine.",
+      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
     },
     {
       "nature": "evenement",
