@@ -1,6 +1,15 @@
 {
-  "maj": "2026-11-18T05:02:24Z",
+  "maj": "2026-11-18T12:58:14Z",
   "entrees": [
+    {
+      "date": "2026-11-18",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "titre": "Une action urgente est nécessaire pour préserver l'efficacité des antibiotiques",
+      "resume": "Page en anglais, titre traduit. Consommation humaine d'antibiotiques en 2025 : 5 % sous 2019, objectif moins 20 % en 2030 ; infections à K. pneumoniae résistant aux carbapénèmes : plus 72 %. Antibiotiques sur prescription seulement.",
+      "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
+    },
     {
       "date": "2026-11-17",
       "theme": "sante",
@@ -66,8 +75,8 @@
       "theme": "conflit",
       "portee": "Ukraine",
       "autorite": "Euronews",
-      "titre": "Des frappes russes touchent deux grands ponts de la capitale ukrainienne, selon le maire de la ville",
-      "resume": "Page en anglais, titre traduit. Selon Vitali Klitschko, les ponts Nord et Sud de Kyiv ont été touchés le 16 au soir ; chauffage et eau sont perturbés dans des quartiers. En Crimée, la circulation sur le pont vers la Russie est suspendue.",
+      "titre": "La Russie va tenir une réunion d'urgence après qu'une attaque contre le pont de Crimée a provoqué l'effondrement d'une section",
+      "resume": "Page en anglais, titre traduit. Une attaque ukrainienne a fait s'effondrer une section du pont de 19 km reliant la Russie à la Crimée ; le gouvernement russe annonce une réunion de crise. À Kyiv, deux ponts ont été touchés le 16 au soir.",
       "url": "https://www.euronews.com/2026/11/17/russian-strikes-hit-two-major-bridges-in-ukraines-capital-citys-mayor-says"
     },
     {
