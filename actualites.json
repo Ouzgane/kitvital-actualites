@@ -1,6 +1,45 @@
 {
-  "maj": "2026-11-17T13:06:07Z",
+  "maj": "2026-11-18T05:02:24Z",
   "entrees": [
+    {
+      "date": "2026-11-17",
+      "theme": "sante",
+      "portee": "République démocratique du Congo",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Allocution d'ouverture du directeur général de l'OMS à la troisième réunion du comité d'urgence du RSI sur l'épidémie de maladie à virus Bundibugyo en République démocratique du Congo",
+      "resume": "Page en anglais, titre traduit. Plus de 11 000 cas et 5 400 décès en RDC, dans 67 zones de santé de huit provinces, et 400 à 500 nouveaux cas par semaine ; le Kenya compte neuf cas, le Nigeria un cas importé. Le comité d'urgence est réuni.",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-third-ihr-emergency-committee-meeting-on-bundibugyo-virus-disease-epidemic-in-the-democratic-republic-of-the-congo---17-november-2026"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-17",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Mission de surveillance des droits de l'homme des Nations unies en Ukraine",
+      "titre": "En Ukraine, les civils meurent à un rythme alarmant sous des attaques qui s'intensifient, selon les responsables des droits de l'homme de l'ONU",
+      "resume": "Page en anglais, titre traduit. La mission de l'ONU compte au moins 372 civils tués et 1 981 blessés en octobre, 95 % de victimes de plus qu'en octobre 2025 ; en dix mois, 2026 a fait plus de morts civils que toute l'année 2025.",
+      "url": "https://ukraine.un.org/en/326337-ukraine-civilians-die-alarming-rates-amid-intensifying-attacks-un-human-rights-officials-say"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-17",
+      "theme": "conflit",
+      "portee": "Bulgarie",
+      "autorite": "Euronews",
+      "titre": "19 personnes secourues après qu'un gazier a été « touché » en mer Noire",
+      "resume": "Page en anglais, titre traduit. Le Gas Husky, gazier libérien chargé de 3 400 tonnes de GPL pour la Roumanie, a été touché le 17 novembre à environ 50 milles nautiques de la côte bulgare, sans cause établie ; ses 19 marins sont secourus.",
+      "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-17",
+      "theme": "conflit",
+      "portee": "Moyen-Orient",
+      "autorite": "Euronews",
+      "titre": "Les États-Unis frappent des cibles sur l'île de Qeshm après que des mines iraniennes ont touché cinq navires à Ormuz",
+      "resume": "Page en anglais, titre traduit. Au moins cinq navires ont heurté des mines à Ormuz sur des routes que l'Iran juge non autorisées ; des responsables américains confirment des frappes sur des sites de lancement de missiles à Qeshm.",
+      "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
+    },
     {
       "date": "2026-11-17",
       "theme": "meteo",

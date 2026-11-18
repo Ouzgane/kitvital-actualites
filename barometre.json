@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-17T05:03:46Z",
-  "releve": "2026-11-17",
+  "maj": "2026-11-18T05:03:37Z",
+  "releve": "2026-11-18",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -19,19 +19,35 @@
   "actus": {
     "guerre-europe": [
       {
+        "date": "2026-11-17",
+        "texte": "La mission de l'ONU compte au moins 372 civils tués et 1 981 blessés en Ukraine en octobre, 95 % de victimes de plus qu'en octobre 2025. Les dix premiers mois de 2026 ont fait plus de morts civils que toute l'année 2025.",
+        "source": {
+          "titre": "En Ukraine, les civils meurent à un rythme alarmant sous des attaques qui s'intensifient (mission de l'ONU en Ukraine, 17 novembre 2026)",
+          "url": "https://ukraine.un.org/en/326337-ukraine-civilians-die-alarming-rates-amid-intensifying-attacks-un-human-rights-officials-say"
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "texte": "Le gazier libérien Gas Husky, qui transportait 3 400 tonnes de GPL vers la Roumanie, est touché le 17 novembre dans la zone économique bulgare de la mer Noire, au lendemain du chavirage d'un cargo de blé dans la même zone. Ses 19 marins sont secourus ; la cause n'est pas établie.",
+        "source": {
+          "titre": "19 personnes secourues après qu'un gazier a été touché en mer Noire (Euronews, 17 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea"
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "texte": "Dans la nuit du 16 au 17 novembre, des frappes russes touchent les ponts Nord et Sud de Kyiv, perturbant le chauffage et l'eau dans des quartiers, selon le maire. En Crimée, la circulation est suspendue sur le pont vers la Russie, frappé par l'Ukraine selon les autorités installées par Moscou.",
+        "source": {
+          "titre": "Des frappes russes touchent deux grands ponts de Kyiv, selon le maire (Euronews, 17 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/17/russian-strikes-hit-two-major-bridges-in-ukraines-capital-citys-mayor-says"
+        }
+      },
+      {
         "date": "2026-11-16",
         "texte": "L'Estonie fermera tous ses points de passage avec la Russie au 1er décembre, après une tentative de sabotage déjouée le 14 novembre contre un fabricant de drones près de Tallinn, que son gouvernement attribue au renseignement militaire russe. Huit personnes ont été arrêtées ; Moscou dit vouloir vérifier.",
         "source": {
           "titre": "Estonia to close Russia border after 'sabotage' bid on drone maker, foreign minister says (Euronews, 16 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
-        }
-      },
-      {
-        "date": "2026-11-15",
-        "texte": "La cheffe de la diplomatie de l'Union, Kaja Kallas, annonce que les forces de l'opération européenne Irini ont abordé en Méditerranée le pétrolier MV Midag, soupçonné d'appartenir à la flotte fantôme russe et naviguant sous un faux pavillon.",
-        "source": {
-          "titre": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says (Euronews, 15 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
         }
       },
       {
@@ -41,38 +57,22 @@
           "titre": "Three commercial vessels struck by drones near Romania's black sea, PM says (Euronews, 15 novembre 2026)",
           "url": "https://euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says"
         }
-      },
-      {
-        "date": "2026-11-14",
-        "texte": "Selon Volodymyr Zelensky, les États-Unis ont pour la première fois évoqué une adhésion de l'Ukraine à l'OTAN en échange d'un retrait du Donbass ; il dit ne pas pouvoir en décider seul et vouloir consulter les Ukrainiens. La diplomatie russe affirme que la question n'a pas été abordée lors des pourparlers.",
-        "source": {
-          "titre": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy (Euronews, 14 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
-        }
-      },
-      {
-        "date": "2026-10-16",
-        "texte": "La mission de l'ONU compte 328 civils tués et 2 105 blessés en Ukraine en septembre, 85 % de victimes de plus qu'en septembre 2025. De janvier à septembre, 2 570 civils ont été tués : déjà plus que sur toute l'année 2025.",
-        "source": {
-          "titre": "Ukraine : 2 570 civils tués de janvier à septembre 2026, selon la mission de l'ONU (Stars and Stripes, 16 octobre 2026)",
-          "url": "https://www.stripes.com/theaters/europe/2026-10-16/ukraine-civilian-casualties-rise-23173114.html"
-        }
       }
     ],
     "climat": [
       {
-        "date": "2026-11-16",
-        "texte": "Météo-France annonce une succession de perturbations océaniques cette semaine : pluies parfois soutenues, rafales pouvant atteindre ou dépasser 80 à 100 km/h mardi dans le nord-ouest, neige sur le relief, surtout dans les Alpes.",
+        "date": "2026-11-17",
+        "texte": "Météo-France prévoit des rafales de 90 à 110 km/h mardi dans le nord-ouest, 50 à 100 mm de pluie en moins de 48 h mercredi entre la baie de Somme et le Pas-de-Calais, puis jeudi plus de 150 km/h, voire 170 km/h, dans la région du Cap corse.",
         "source": {
-          "titre": "Météo : défilé de perturbations cette semaine (Météo-France, 16 novembre 2026)",
-          "url": "https://meteofrance.com/actualites/meteo-defile-de-perturbations-cette-semaine"
+          "titre": "Météo : vent fort et pluies soutenues cette semaine (Météo-France, 17 novembre 2026)",
+          "url": "https://meteofrance.com/actualites/meteo-vent-fort-et-pluies-soutenues-cette-semaine"
         }
       },
       {
-        "date": "2026-11-14",
-        "texte": "À mi-parcours de la COP31 d'Antalya, le secrétaire exécutif de l'ONU Climat, Simon Stiell, estime qu'il n'y aura « pas de succès collectif sans compromis de chaque partie ».",
+        "date": "2026-11-16",
+        "texte": "À la COP31 d'Antalya, la présidence publie un premier projet de décision chapeau, issu de ses consultations avec les pays ; le segment de haut niveau, avec les interventions des ministres, reprend les 17 et 18 novembre.",
         "source": {
-          "titre": "COP 31 live updates archive (ONU Climat, 13 et 14 novembre 2026)",
+          "titre": "COP31, fil des mises à jour (ONU Climat, 16 et 17 novembre 2026)",
           "url": "https://unfccc.int/cop-31-live-updates-archive"
         }
       },
@@ -95,10 +95,10 @@
     ],
     "energie": [
       {
-        "date": "2026-11-15",
-        "texte": "Le 15 novembre à 9 h, 8 % des stations-service de France n'ont plus aucun gazole ou plus aucune essence, contre 7 % le 14 novembre à 17 h ; 19 % dans le Grand Est, la région la plus touchée, contre 17 %, selon le relevé du site gouvernemental.",
+        "date": "2026-11-16",
+        "texte": "Le 16 novembre à 9 h, 10 % des stations-service de France manquent d'au moins un carburant, gazole ou essence, comme la veille au soir ; 22 % dans le Grand Est et 19 % en Île-de-France, contre 17 % et 10 % le 14 novembre à 17 h, selon le relevé du site gouvernemental.",
         "source": {
-          "titre": "Disponibilités carburants, relevé du 15 novembre 2026 à 9 h (prix-carburants.gouv.fr, site gouvernemental)",
+          "titre": "Disponibilité des carburants en station, relevé du 16 novembre 2026 à 9 h (prix-carburants.gouv.fr)",
           "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
         }
       },
@@ -137,19 +137,27 @@
     ],
     "epidemies": [
       {
+        "date": "2026-11-17",
+        "texte": "L'OMS réunit pour la troisième fois son comité d'urgence sur l'épidémie d'Ebola due au virus Bundibugyo : plus de 11 000 cas et 5 400 décès en RDC, dans huit provinces, et encore 400 à 500 nouveaux cas par semaine. Le Kenya compte neuf cas, dont deux décès, et le Nigeria un cas importé.",
+        "source": {
+          "titre": "Allocution du directeur général de l'OMS à la troisième réunion du comité d'urgence sur le virus Bundibugyo (OMS, 17 novembre 2026)",
+          "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-third-ihr-emergency-committee-meeting-on-bundibugyo-virus-disease-epidemic-in-the-democratic-republic-of-the-congo---17-november-2026"
+        }
+      },
+      {
+        "date": "2026-11-16",
+        "texte": "Selon l'ECDC, la RDC compte 11 376 cas confirmés d'Ebola, dont 5 568 décès, au 15 novembre. Quatre malades ont été évacués ou importés dans l'Union depuis mai, dont un en France en juillet ; le risque reste jugé très faible pour la population européenne.",
+        "source": {
+          "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026, point du 16 novembre (ECDC)",
+          "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+        }
+      },
+      {
         "date": "2026-11-15",
         "texte": "Six mois après le début de l'épidémie d'Ebola, l'OMS compte en RDC plus de 11 000 cas et 5 400 décès ; 400 à 500 nouveaux cas sont encore signalés chaque semaine, même si la transmission a ralenti dans les premiers foyers. Les enfants représentent plus d'un quart des cas confirmés et un tiers des décès.",
         "source": {
           "titre": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak (OMS Afrique, 15 novembre 2026)",
           "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
-        }
-      },
-      {
-        "date": "2026-11-13",
-        "texte": "Ebola (virus Bundibugyo) : 11 197 cas confirmés, dont 5 471 décès, en République démocratique du Congo au 12 novembre, où la transmission se poursuit. Au Kenya, 7 des 9 malades sont guéris et tous les contacts ont terminé leur suivi de 21 jours. L'ECDC juge le risque très faible pour les habitants de l'Union.",
-        "source": {
-          "titre": "Ebola disease: Multi-country outbreak 2026 (ECDC, mise à jour du 13 novembre 2026)",
-          "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
         }
       },
       {
@@ -159,17 +167,25 @@
           "titre": "Infections respiratoires aiguës, bulletin du 12 novembre 2026 (Santé publique France)",
           "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
         }
-      },
-      {
-        "date": "2026-11-11",
-        "texte": "L'OMS maintient l'urgence de santé publique de portée internationale : près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces, avec des signes de ralentissement dans certaines zones. Au Kenya, le dernier malade est sorti, ouvrant un délai de 42 jours avant la fin déclarée de l'épidémie.",
-        "source": {
-          "titre": "Allocution du directeur général de l'OMS au point d'information des États membres sur Ebola en RDC (OMS, 11 novembre 2026)",
-          "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
-        }
       }
     ],
     "conflits-monde": [
+      {
+        "date": "2026-11-17",
+        "texte": "Au moins cinq navires heurtent des mines dans le détroit d'Ormuz en empruntant des routes que l'Iran juge non autorisées ; des responsables américains confirment des frappes sur des sites de lancement de missiles de l'île iranienne de Qeshm. L'armée iranienne exige que tout passage soit coordonné avec elle.",
+        "source": {
+          "titre": "Les États-Unis frappent l'île de Qeshm après que des mines ont touché cinq navires à Ormuz (Euronews, 17 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "texte": "Les Gardiens de la révolution disent avoir visé un radar américain à Bahreïn, troisième attaque en cinq jours ; Bahreïn et le commandement américain disent avoir intercepté les drones, sans dégât. Le Qatar, médiateur, rencontre des responsables iraniens et juge que l'escalade menace les chances d'un accord.",
+        "source": {
+          "titre": "Le Qatar juge l'escalade dans le Golfe dangereuse et annonce de nouvelles discussions avec l'Iran (Euronews, 17 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran"
+        }
+      },
       {
         "date": "2026-11-16",
         "texte": "Les 14 et 15 novembre, l'Iran vise deux fois Bahreïn, dont une base américaine, et des pétroliers à Ormuz ; les États-Unis frappent le sud de l'Iran le 15 au soir. Les Gardiens de la révolution disent que six pétroliers ont été touchés depuis, sans confirmation indépendante ; l'UKMTO confirme un incident, sans victime.",
@@ -180,26 +196,10 @@
       },
       {
         "date": "2026-11-13",
-        "texte": "Les Gardiens de la révolution iraniens affirment avoir détruit un radar américain d'alerte avancée à Bahreïn, après une attaque contre une tour de télécommunications dans le sud de l'Iran. Washington dément : selon le commandement américain, les deux drones lancés vers Bahreïn ont été abattus, sans blessé ni dégât.",
-        "source": {
-          "titre": "Les États-Unis démentent la destruction d'un radar américain à Bahreïn revendiquée par les Gardiens de la révolution (Euronews, 13 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
-        }
-      },
-      {
-        "date": "2026-11-13",
         "texte": "Le Conseil de sécurité de l'ONU se réunit sur la sécurité dans le Golfe, à la demande de Bahreïn. Selon les données maritimes britanniques (UKMTO), les passages dans le détroit d'Ormuz restent environ 65 % sous leur niveau d'avant-guerre ; octobre a compté le plus d'incidents depuis le début de la guerre.",
         "source": {
           "titre": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount (ONU Info, 13 novembre 2026)",
           "url": "https://news.un.org/en/story/2026/11/1168804"
-        }
-      },
-      {
-        "date": "2026-11-12",
-        "texte": "Au Soudan, faute de financement, le Programme alimentaire mondial ne nourrit plus qu'un peu plus de 3 millions de personnes, contre plus de 4 millions en août. Il demande 520 millions de dollars pour aider 5,4 millions de personnes jusqu'en avril 2027.",
-        "source": {
-          "titre": "Aid is the 'only hope' for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis (ONU Info, 12 novembre 2026)",
-          "url": "https://news.un.org/en/story/2026/11/1168793"
         }
       },
       {
@@ -324,43 +324,43 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-17",
-      "texte": "L'Estonie fermera tous ses points de passage avec la Russie au 1er décembre, après une tentative de sabotage déjouée près de Tallinn qu'elle attribue au renseignement militaire russe ; Moscou dit vouloir vérifier. Ce fait s'ajoute aux drones qui ont touché trois navires au large de la Roumanie le 14 novembre, sans blessé. Les pourparlers sur l'Ukraine se poursuivent sans cessez-le-feu. Le score ne change pas : la guerre reste ouverte et le bilan de l'ONU pour octobre n'est pas encore paru.",
-      "aSurveiller": "Un cessez-le-feu effectif, de nouveaux incidents visant un pays de l'Union, et le bilan des victimes civiles d'octobre publié par la mission de l'ONU."
+      "date": "2026-11-18",
+      "texte": "La mission de l'ONU a publié le 17 novembre son point d'octobre : au moins 372 civils tués et 1 981 blessés en Ukraine, et plus de morts civils en dix mois qu'en toute l'année 2025. Les frappes se poursuivent, sur les ponts de Kyiv comme sur le pont de Crimée, et un deuxième navire a été touché en deux jours dans la zone économique bulgare de la mer Noire, sans victime. Le score ne change pas : le cumul de janvier à octobre n'est pas encore publié en chiffre et la guerre reste ouverte, sans cessez-le-feu.",
+      "aSurveiller": "Le cumul des civils tués de janvier à octobre dans le rapport mensuel de l'ONU, de nouveaux incidents en mer Noire près des côtes de l'Union, et un éventuel cessez-le-feu."
     },
     "climat": {
-      "date": "2026-11-17",
-      "texte": "Météo-France annonce cette semaine une succession de perturbations, avec des pluies parfois soutenues, des rafales pouvant atteindre 80 à 100 km/h mardi dans le nord-ouest et de la neige en montagne. Le 16 novembre après-midi, la vigilance crues ne dépassait pas le jaune, avec une crue en cours sur le Vistre, dans le Gard. La COP31 d'Antalya entre dans sa deuxième semaine, avant sa clôture prévue le 20 novembre. Selon Copernicus, 2026 sera très probablement la première année au-dessus de 1,5 °C ; le score ne change pas.",
-      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, neige-verglas) avec les perturbations de la semaine, et l'issue de la COP31, attendue le 20 novembre."
+      "date": "2026-11-18",
+      "texte": "Météo-France prévoit une semaine agitée : 50 à 100 mm de pluie en moins de 48 heures entre la baie de Somme et le Pas-de-Calais, puis jeudi des rafales pouvant dépasser 150 km/h dans la région du Cap corse. Le 17 novembre après-midi, la vigilance crues ne dépassait pas le jaune, des débordements localisés étant possibles dans les Hauts-de-France. À la COP31 d'Antalya, un premier projet de décision chapeau est sur la table avant la clôture prévue le 20 novembre. Le score ne change pas.",
+      "aSurveiller": "Les vigilances orange et rouge de Météo-France, pour la pluie dans les Hauts-de-France et le vent en Corse jeudi, et l'issue de la COP31, attendue le 20 novembre."
     },
     "energie": {
-      "date": "2026-11-17",
-      "texte": "Le Brent s'est échangé entre 90 et 108 $ du 2 au 11 novembre, après près de 124 $ en moyenne en octobre ; sa moyenne depuis janvier, calculée sur les prix quotidiens jusqu'au 11 novembre, est d'environ 96 $. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans. En France, 8 % des stations n'avaient plus de gazole ou plus d'essence le 15 novembre au matin, 19 % dans le Grand Est, sans pénurie déclarée. Le score du domaine reste à 59.",
-      "aSurveiller": "Les signaux Ecowatt de RTE en cas de vague de froid, la disponibilité des carburants en station et la situation du détroit d'Ormuz."
+      "date": "2026-11-18",
+      "texte": "En France, 10 % des stations-service manquaient d'au moins un carburant le 16 novembre au matin, 22 % dans le Grand Est et 19 % en Île-de-France, sans pénurie déclarée par les autorités. La moyenne du Brent depuis janvier reste d'environ 96 $, la série quotidienne publiée s'arrêtant au 11 novembre. Les stocks de gaz de l'Union, à près de 75 % au 1er novembre, restent les plus bas depuis plus de dix ans, et au moins cinq navires ont heurté des mines à Ormuz le 17 novembre. Le score du domaine reste à 59.",
+      "aSurveiller": "La disponibilité des carburants en station, surtout dans le Grand Est et en Île-de-France, les signaux Ecowatt de RTE en cas de froid, et la sécurité du passage à Ormuz."
     },
     "epidemies": {
-      "date": "2026-11-17",
-      "texte": "Six mois après le début de l'épidémie d'Ebola due au virus Bundibugyo, l'OMS compte en RDC plus de 11 000 cas et 5 400 décès, avec encore 400 à 500 nouveaux cas par semaine, même si la transmission a ralenti dans les premiers foyers. Aucune levée de l'urgence de santé publique de portée internationale n'a été annoncée, et l'ECDC juge le risque très faible pour les habitants de l'Union : le score ne change pas. En France, le covid-19 est en hausse, la grippe et la bronchiolite restent à leur niveau de base, sauf exceptions régionales.",
-      "aSurveiller": "Un cas confirmé en Europe en dehors d'une évacuation sanitaire, la levée de l'urgence par l'OMS, et le prochain bulletin de Santé publique France sur la grippe et la bronchiolite."
+      "date": "2026-11-18",
+      "texte": "L'OMS a réuni le 17 novembre, pour la troisième fois, son comité d'urgence sur l'épidémie d'Ebola due au virus Bundibugyo : plus de 11 000 cas et 5 400 décès en RDC, avec encore 400 à 500 nouveaux cas par semaine. Son avis sur le maintien de l'urgence de santé publique de portée internationale n'était pas encore publié, et l'ECDC juge le risque très faible pour la population de l'Union : le score ne change pas. En France, le dernier bulletin de Santé publique France montrait un covid-19 en hausse et une grippe à son niveau de base.",
+      "aSurveiller": "L'avis du comité d'urgence de l'OMS sur le maintien de l'urgence sanitaire mondiale, et le prochain bulletin de Santé publique France sur la grippe, la bronchiolite et le covid-19."
     },
     "conflits-monde": {
-      "date": "2026-11-17",
-      "texte": "Les échanges de tirs entre les États-Unis et l'Iran ont repris le week-end des 14 et 15 novembre : l'Iran a visé Bahreïn et des pétroliers à Ormuz, les États-Unis ont frappé le sud de l'Iran. Selon les Gardiens de la révolution, six pétroliers ont été touchés depuis le 15 novembre, ce qu'aucune source indépendante ne confirme ; l'organisme maritime britannique UKMTO a confirmé un incident, sans victime. Au Soudan, le Programme alimentaire mondial réduit son aide faute de financement. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
-      "aSurveiller": "Une reprise durable des frappes entre les États-Unis et l'Iran, ou au contraire un accord rouvrant le détroit d'Ormuz, qui pèserait aussitôt sur l'énergie et les prix."
+      "date": "2026-11-18",
+      "texte": "Les affrontements entre les États-Unis et l'Iran se poursuivent autour du Golfe : le 17 novembre, au moins cinq navires ont heurté des mines dans le détroit d'Ormuz et des avions américains ont frappé des sites de lancement de missiles sur l'île de Qeshm. Les drones lancés vers Bahreïn ont été interceptés sans dégât, selon Bahreïn et le commandement américain, et le Qatar poursuit sa médiation avec l'Iran. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
+      "aSurveiller": "La sécurité du passage dans le détroit d'Ormuz, qui pèse aussitôt sur l'énergie et les prix, et l'issue de la médiation du Qatar entre les États-Unis et l'Iran."
     },
     "nucleaire": {
-      "date": "2026-11-17",
-      "texte": "Aucun fait nouveau n'a été relevé depuis le débat de députés iraniens, le 13 novembre, sur un retrait du traité de non-prolifération : aucun vote n'a été signalé depuis. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. La reprise des échanges de tirs entre les États-Unis et l'Iran ne modifie aucun repère chiffré : le score ne change pas.",
+      "date": "2026-11-18",
+      "texte": "Aucun fait nouveau n'a été relevé sur les repères du domaine : aucun vote n'a été signalé en Iran sur un retrait du traité de non-prolifération depuis le débat de députés du 13 novembre. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février, l'horloge de l'Apocalypse n'a jamais été aussi proche de minuit et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Les nouvelles frappes autour d'Ormuz ne modifient aucun repère chiffré : le score ne change pas.",
       "aSurveiller": "Un vote du Parlement iranien sur le retrait du traité de non-prolifération, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
     },
     "cyberattaques": {
-      "date": "2026-11-17",
-      "texte": "Aucune nouvelle attaque informatique d'ampleur n'a été relevée en France ou en Europe depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Aux États-Unis, la panne de télécommunications qui a arrêté tous les départs d'avions pendant plus de quatre heures le 13 novembre était attribuée par les autorités à des équipements anciens surchargés, sans signe de cyberattaque. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
+      "date": "2026-11-18",
+      "texte": "Aucune nouvelle attaque informatique d'ampleur n'a été relevée en France ou en Europe depuis l'attribution à l'Iran, le 9 novembre, du sabotage des chaînes du froid de quelque 700 magasins. Aux États-Unis, la panne de télécommunications qui a arrêté tous les départs d'avions pendant plus de quatre heures le 13 novembre était attribuée par les autorités à des équipements surchargés, sans signe de cyberattaque. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
       "aSurveiller": "Les conclusions de l'enquête sur la panne américaine, d'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-17",
-      "texte": "Le 7 novembre, une fusillade a fait six morts et quinze blessés sur la place du Marché de Cracovie, en Pologne ; le parquet national polonais la qualifie d'infraction terroriste. En France, aucun changement de la posture Vigipirate n'a été relevé : elle reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël. Europol a recensé moins d'attentats dans l'Union en 2025 qu'en 2024 ; le score ne change pas, faute de nouveau chiffre.",
+      "date": "2026-11-18",
+      "texte": "Aucun nouvel attentat dans l'Union n'a été relevé depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet national polonais (six morts, quinze blessés). En France, aucun changement de la posture Vigipirate n'a été relevé : elle reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël. Europol a recensé moins d'attentats dans l'Union en 2025 qu'en 2024 ; le score ne change pas, faute de nouveau chiffre.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
   },
@@ -437,6 +437,20 @@
     },
     {
       "date": "2026-11-17",
+      "global": 65.3,
+      "dimensions": {
+        "guerre-europe": 85.22,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.73,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-18",
       "global": 65.3,
       "dimensions": {
         "guerre-europe": 85.22,
