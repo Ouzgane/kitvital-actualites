@@ -1,6 +1,16 @@
 {
-  "maj": "2026-11-19T05:10:29Z",
+  "maj": "2026-11-19T13:03:56Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-19",
+      "theme": "infrastructures",
+      "portee": "Union européenne",
+      "autorite": "Euronews",
+      "titre": "La Commission européenne frappée par une cyberattaque d'ampleur, l'éventuelle fuite de données reste inconnue",
+      "resume": "Page en anglais, titre traduit. Selon Euronews, les systèmes Sysper (ressources humaines) et JSIS (assurance maladie) de la Commission ont été visés ; CERT-EU évalue si l'auteur, non identifié, a eu accès aux données personnelles.",
+      "url": "https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown"
+    },
     {
       "date": "2026-11-18",
       "theme": "sante",
