@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-18T12:58:14Z",
+  "maj": "2026-11-19T05:10:29Z",
   "entrees": [
     {
       "date": "2026-11-18",
@@ -9,6 +9,36 @@
       "titre": "Une action urgente est nécessaire pour préserver l'efficacité des antibiotiques",
       "resume": "Page en anglais, titre traduit. Consommation humaine d'antibiotiques en 2025 : 5 % sous 2019, objectif moins 20 % en 2030 ; infections à K. pneumoniae résistant aux carbapénèmes : plus 72 %. Antibiotiques sur prescription seulement.",
       "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : vent fort et pluies soutenues cette semaine",
+      "resume": "Météo-France prévoit jeudi 19 novembre plus de 150 km/h, voire 170 km/h, de rafales dans la région du Cap corse et jusqu'à 100 mm de pluie dans l'intérieur de l'île, après 50 à 100 mm en 48 h entre la baie de Somme et le Pas-de-Calais.",
+      "url": "https://meteofrance.com/actualites/meteo-vent-fort-et-pluies-soutenues-cette-semaine",
+      "guide": "tempete"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-17",
+      "theme": "conflit",
+      "portee": "Moldavie",
+      "autorite": "Euronews",
+      "titre": "La Moldavie ferme son espace aérien après la détection d'un drone se dirigeant vers Chișinău",
+      "resume": "Page en anglais, titre traduit. La Moldavie a fermé son espace aérien le 17 novembre à 16 h 27 après la détection d'un drone de type Shahed vers Chișinău ; la présidente parle de plusieurs drones russes, sans dégât signalé.",
+      "url": "https://www.euronews.com/2026/11/17/moldova-closes-airspace-after-shahed-type-drone-detected-heading-towards-chisinau"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-17",
+      "theme": "infrastructures",
+      "portee": "Monde",
+      "autorite": "Euronews (avec l'AFP)",
+      "titre": "178 sites internet, dont Zoom, la BBC, IKEA et CNN, visés par une cyberattaque : 7 000 dollars volés en 9 heures",
+      "resume": "Page en turc, titre traduit. Un code malveillant placé dans un outil d'Optimizely visait les cartes bancaires et cryptoactifs des visiteurs de 178 sites, dont Air France-KLM et IKEA ; Optimizely dit l'incident maîtrisé.",
+      "url": "https://tr.euronews.com/2026/11/17/zoom-bbc-ikea-ve-cnn-dahil-178-internet-sitesi-siber-saldirinin-hedefi-oldu-9-saatte-7-bin"
     },
     {
       "date": "2026-11-17",
@@ -48,16 +78,6 @@
       "titre": "Les États-Unis frappent des cibles sur l'île de Qeshm après que des mines iraniennes ont touché cinq navires à Ormuz",
       "resume": "Page en anglais, titre traduit. Au moins cinq navires ont heurté des mines à Ormuz sur des routes que l'Iran juge non autorisées ; des responsables américains confirment des frappes sur des sites de lancement de missiles à Qeshm.",
       "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
-    },
-    {
-      "date": "2026-11-17",
-      "theme": "meteo",
-      "portee": "France",
-      "autorite": "Météo-France",
-      "titre": "Météo : vent fort et pluies soutenues cette semaine",
-      "resume": "Météo-France prévoit des rafales de 90 à 110 km/h mardi dans le nord-ouest, 50 à 100 mm de pluie en moins de 48 h entre la baie de Somme et le Pas-de-Calais, puis plus de 150 km/h jeudi dans la région du Cap corse.",
-      "url": "https://meteofrance.com/actualites/meteo-vent-fort-et-pluies-soutenues-cette-semaine",
-      "guide": "tempete"
     },
     {
       "date": "2026-11-17",
