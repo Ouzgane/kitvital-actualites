@@ -1,6 +1,26 @@
 {
-  "maj": "2026-11-19T13:03:56Z",
+  "maj": "2026-11-20T05:08:58Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-19",
+      "theme": "penurie",
+      "portee": "Monde",
+      "autorite": "Euronews (avec l'AFP)",
+      "titre": "Le conflit au Moyen-Orient est la plus grande menace pour la sécurité énergétique mondiale de l'histoire, avertit l'AIE",
+      "resume": "Page en anglais, titre traduit. Dans son World Energy Outlook, l'Agence internationale de l'énergie juge que la crise d'Ormuz dépasse les chocs pétroliers des années 1970 : prix plus élevés et, parfois, manques d'approvisionnement.",
+      "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-19",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Euronews",
+      "titre": "L'ambassade des Pays-Bas à Kyiv endommagée par la chute d'un projectile à proximité",
+      "resume": "Page en anglais, titre traduit. Le 19 novembre, un projectile a frappé la zone derrière l'ambassade : dégâts légers et aucun blessé selon le ministre néerlandais ; l'Ukraine accuse la Russie, La Haye enquête sur l'origine.",
+      "url": "https://www.euronews.com/2026/11/19/dutch-embassy-in-kyiv-damaged-by-a-projectile-crash-nearby"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-19",
@@ -10,6 +30,15 @@
       "titre": "La Commission européenne frappée par une cyberattaque d'ampleur, l'éventuelle fuite de données reste inconnue",
       "resume": "Page en anglais, titre traduit. Selon Euronews, les systèmes Sysper (ressources humaines) et JSIS (assurance maladie) de la Commission ont été visés ; CERT-EU évalue si l'auteur, non identifié, a eu accès aux données personnelles.",
       "url": "https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown"
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "sante",
+      "portee": "France",
+      "autorite": "Santé publique France",
+      "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 18 novembre 2026.",
+      "resume": "Semaine du 9 au 15 novembre : grippe en pré-épidémie en Île-de-France et dans les Hauts-de-France, bronchiolite aussi en Normandie ; covid-19 en nette hausse, avec un impact encore faible sur les soins et les décès.",
+      "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-11/bullnat_ira_20261118.pdf"
     },
     {
       "date": "2026-11-18",

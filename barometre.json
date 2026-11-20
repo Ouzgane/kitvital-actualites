@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-19T05:09:58Z",
-  "releve": "2026-11-19",
+  "maj": "2026-11-20T05:08:44Z",
+  "releve": "2026-11-20",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -28,11 +28,19 @@
   "actus": {
     "guerre-europe": [
       {
-        "date": "2026-11-18",
-        "texte": "Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent en Chine le 18 novembre, première rencontre entre Trump et Poutine depuis août 2025. Trump juge un règlement de la guerre en Ukraine « très proche » ; aucun accord ni cessez-le-feu n'est annoncé.",
+        "date": "2026-11-19",
+        "texte": "Après sa rencontre avec Donald Trump et Xi Jinping en Chine, Vladimir Poutine dit le 19 novembre que la Russie ne négociera pas de cessez-le-feu limité après les frappes ukrainiennes sur le pont de Crimée et annonce une riposte. Le compte rendu de la Maison-Blanche ne mentionne pas l'Ukraine.",
         "source": {
-          "titre": "Trump et Poutine se serrent la main avant un sommet à trois en Chine (Euronews, 18 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+          "titre": "Poutine : pas de cessez-le-feu limité avec l'Ukraine après la frappe sur le pont de Crimée (CBS News, 19 novembre 2026)",
+          "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/"
+        }
+      },
+      {
+        "date": "2026-11-19",
+        "texte": "Le 19 novembre, un projectile frappe la zone située derrière l'ambassade des Pays-Bas à Kyiv : dégâts légers et aucun blessé selon le ministre néerlandais des Affaires étrangères. L'Ukraine accuse la Russie ; le maire de Kyiv fait état de frappes de drones massives et de quatre blessés.",
+        "source": {
+          "titre": "L'ambassade des Pays-Bas à Kyiv endommagée par la chute d'un projectile (Euronews, 19 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/19/dutch-embassy-in-kyiv-damaged-by-a-projectile-crash-nearby"
         }
       },
       {
@@ -41,14 +49,6 @@
         "source": {
           "titre": "La Moldavie ferme son espace aérien après la détection d'un drone se dirigeant vers Chișinău (Euronews, 17 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/17/moldova-closes-airspace-after-shahed-type-drone-detected-heading-towards-chisinau"
-        }
-      },
-      {
-        "date": "2026-11-17",
-        "texte": "Le gazier libérien Gas Husky, qui transportait 3 400 tonnes de GPL vers la Roumanie, est touché le 17 novembre dans la zone économique bulgare de la mer Noire, au lendemain du chavirage d'un cargo de blé dans la même zone. Ses 19 marins sont secourus ; la cause n'est pas établie.",
-        "source": {
-          "titre": "19 personnes secourues après qu'un gazier a été touché en mer Noire (Euronews, 17 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea"
         }
       },
       {
@@ -104,6 +104,14 @@
     ],
     "energie": [
       {
+        "date": "2026-11-19",
+        "texte": "Dans son World Energy Outlook, l'Agence internationale de l'énergie juge que la crise du détroit d'Ormuz est la plus grande menace pour la sécurité énergétique de l'histoire, au-delà des chocs pétroliers des années 1970 : les États ont subi des prix plus élevés et parfois des manques d'approvisionnement.",
+        "source": {
+          "titre": "Le conflit au Moyen-Orient, plus grande menace de l'histoire pour la sécurité énergétique selon l'AIE (Euronews, avec l'AFP, 19 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns"
+        }
+      },
+      {
         "date": "2026-11-18",
         "texte": "RTE estime que la sécurité d'approvisionnement en électricité ne nécessite pas de vigilance particulière pour l'hiver 2026-2027 et juge le risque de déséquilibre faible, malgré des stocks hydrauliques sous 50 % début novembre, contre 70 % en moyenne ; le nucléaire disposerait de 48,5 GW en moyenne de novembre à mars.",
         "source": {
@@ -128,14 +136,6 @@
         }
       },
       {
-        "date": "2026-11-06",
-        "texte": "L'indice FAO des prix alimentaires fléchit légèrement en octobre, à 133,9 points, soit 1,2 % de moins qu'en septembre. Il reste au-dessus de sa moyenne de 2025 (127,2 points).",
-        "source": {
-          "titre": "Indice FAO des prix des produits alimentaires (FAO)",
-          "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/fr"
-        }
-      },
-      {
         "date": "2026-11-02",
         "texte": "Au 1er novembre, les stocks de gaz de l'Union sont remplis à près de 75 %, ceux de l'Allemagne à 61,5 %. Le prix du gaz européen a dépassé 100 € le mégawattheure pour la première fois depuis quatre ans. Berlin assure que l'approvisionnement est garanti pour l'hiver.",
         "source": {
@@ -145,6 +145,14 @@
       }
     ],
     "epidemies": [
+      {
+        "date": "2026-11-18",
+        "texte": "Santé publique France, semaine du 9 au 15 novembre : la grippe est en phase pré-épidémique en Île-de-France et dans les Hauts-de-France, la bronchiolite aussi en Normandie ; le covid-19 est en nette hausse, avec un recours aux soins et un impact sur les décès encore faibles.",
+        "source": {
+          "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19), bulletin du 18 novembre 2026 (Santé publique France)",
+          "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-11/bullnat_ira_20261118.pdf"
+        }
+      },
       {
         "date": "2026-11-17",
         "texte": "L'OMS réunit pour la troisième fois son comité d'urgence sur l'épidémie d'Ebola due au virus Bundibugyo : plus de 11 000 cas et 5 400 décès en RDC, dans huit provinces, et encore 400 à 500 nouveaux cas par semaine. Le Kenya compte neuf cas, dont deux décès, et le Nigeria un cas importé.",
@@ -168,17 +176,25 @@
           "titre": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak (OMS Afrique, 15 novembre 2026)",
           "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
         }
-      },
-      {
-        "date": "2026-11-12",
-        "texte": "Santé publique France : le covid-19 est en hausse, avec un faible impact sur les soins ; la grippe et la bronchiolite restent à leur niveau de base, sauf la bronchiolite en Martinique (épidémie) et en Île-de-France (pré-épidémie).",
-        "source": {
-          "titre": "Infections respiratoires aiguës, bulletin du 12 novembre 2026 (Santé publique France)",
-          "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
-        }
       }
     ],
     "conflits-monde": [
+      {
+        "date": "2026-11-19",
+        "texte": "Les Gardiens de la révolution affirment le 19 novembre que deux pétroliers de plus ont heurté des mines dans le détroit d'Ormuz, sans confirmation indépendante. ADNOC compte 11 blessés et un disparu dans l'équipage d'un de ses pétroliers frappé dans le détroit le 17 novembre au soir.",
+        "source": {
+          "titre": "Guerre en Iran, le direct du 19 novembre 2026 (CBS News)",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        }
+      },
+      {
+        "date": "2026-11-19",
+        "texte": "À Riyad, une tour du centre financier est touchée le 19 novembre par une attaque des Houthis : dégâts matériels, sans blessé selon la défense civile saoudienne. Selon des médias américains cités par CBS News, de nouvelles frappes contre l'Iran sont envisagées, sans décision de Donald Trump.",
+        "source": {
+          "titre": "Guerre en Iran, le direct du 19 novembre 2026 (CBS News)",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        }
+      },
       {
         "date": "2026-11-18",
         "texte": "Le chef de l'armée iranienne promet une riposte « sans limite géographique » en cas de nouvelle attaque américaine. L'armée iranienne dit avoir détruit un drone américain MQ-9 à l'est d'Ormuz, sans commentaire de Washington ; le commandement américain confirme l'arrivée d'un troisième porte-avions dans la région.",
@@ -196,22 +212,6 @@
         }
       },
       {
-        "date": "2026-11-17",
-        "texte": "Les Gardiens de la révolution disent avoir visé un radar américain à Bahreïn, troisième attaque en cinq jours ; Bahreïn et le commandement américain disent avoir intercepté les drones, sans dégât. Le Qatar, médiateur, rencontre des responsables iraniens et juge que l'escalade menace les chances d'un accord.",
-        "source": {
-          "titre": "Le Qatar juge l'escalade dans le Golfe dangereuse et annonce de nouvelles discussions avec l'Iran (Euronews, 17 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran"
-        }
-      },
-      {
-        "date": "2026-11-16",
-        "texte": "Les 14 et 15 novembre, l'Iran vise deux fois Bahreïn, dont une base américaine, et des pétroliers à Ormuz ; les États-Unis frappent le sud de l'Iran le 15 au soir. Les Gardiens de la révolution disent que six pétroliers ont été touchés depuis, sans confirmation indépendante ; l'UKMTO confirme un incident, sans victime.",
-        "source": {
-          "titre": "US and Iran slide closer to fresh all-out war as new exchange of fire increases (Euronews, 16 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
-        }
-      },
-      {
         "date": "2026-06-09",
         "texte": "L'UCDP compte 65 conflits impliquant un État en 2025, le plus haut niveau depuis 1946, dont 8 conflits entre États. Environ 244 600 personnes ont été tuées dans des violences organisées.",
         "source": {
@@ -221,6 +221,14 @@
       }
     ],
     "nucleaire": [
+      {
+        "date": "2026-11-19",
+        "texte": "Le représentant de l'Iran auprès des organisations internationales à Vienne, Reza Najafi, dit le 19 novembre que son pays n'acceptera pas une coopération inconditionnelle et illimitée avec l'AIEA tant que les bombardements continuent.",
+        "source": {
+          "titre": "Guerre en Iran, le direct du 19 novembre 2026 (CBS News)",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        }
+      },
       {
         "date": "2026-11-13",
         "texte": "En Iran, des députés plaident pour une révision de la doctrine nucléaire et un retrait du traité de non-prolifération ; le 12 novembre, l'Assemblée des experts a jugé cet examen devenu nécessaire. Aucun texte n'a été voté, et le ministère des Affaires étrangères affirme que l'Iran reste attaché au traité.",
@@ -256,6 +264,14 @@
     ],
     "cyberattaques": [
       {
+        "date": "2026-11-19",
+        "texte": "Les systèmes de ressources humaines de la Commission européenne sont visés par une cyberattaque : Sysper est rétabli le 19 novembre après plusieurs jours d'arrêt, JSIS, l'assurance maladie du personnel, reste indisponible selon un responsable. CERT-EU cherche à savoir si des données personnelles ont été volées.",
+        "source": {
+          "titre": "La Commission européenne frappée par une cyberattaque d'ampleur (Euronews, 19 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown"
+        }
+      },
+      {
         "date": "2026-11-16",
         "texte": "Un code malveillant placé dans un outil du prestataire Optimizely vise les numéros de cartes bancaires et les cryptoactifs des visiteurs de 178 sites, dont ceux d'Air France-KLM, d'IKEA et de la BBC. Optimizely dit l'incident maîtrisé ; selon le chercheur qui l'a révélé, 7 040 dollars de cryptoactifs ont été détournés.",
         "source": {
@@ -277,14 +293,6 @@
         "source": {
           "titre": "Déclaration d'attribution à l'Iran de cyberattaques visant la France (ministère de l'Europe et des Affaires étrangères, 9 novembre 2026)",
           "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france"
-        }
-      },
-      {
-        "date": "2026-11-02",
-        "texte": "Nouvelle vague dans la nuit du 1er au 2 novembre : des installations frigorifiques sont visées dans 14 pays européens, dont des chambres froides de l'Établissement français du sang, sans conséquence grave selon le ministère de la Santé.",
-        "source": {
-          "titre": "Une seconde vague d'attaques contre les chaînes du froid en Europe (Le Grand Continent, novembre 2026)",
-          "url": "https://legrandcontinent.eu/fr/?p=368598"
         }
       },
       {
@@ -333,42 +341,42 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-19",
-      "texte": "Selon le point d'octobre de la mission de l'ONU, publié le 16 novembre, 2 957 civils ont été tués en Ukraine de janvier à octobre, 63 % de victimes de plus qu'un an plus tôt : ce repère monte et le score du domaine passe d'environ 85 à 90. Les frappes se poursuivent, et un drone de type Shahed a conduit la Moldavie à fermer son espace aérien le 17 novembre. Trump, Xi et Poutine se sont retrouvés en Chine le 18 novembre, sans accord ni cessez-le-feu annoncé.",
-      "aSurveiller": "Ce qui sortira de la rencontre de Trump, Xi et Poutine sur l'Ukraine, de nouveaux incidents de drones en mer Noire ou en Moldavie, et un éventuel cessez-le-feu, qui ferait baisser le score."
+      "date": "2026-11-20",
+      "texte": "La rencontre de Donald Trump, Xi Jinping et Vladimir Poutine en Chine n'a pas débouché sur un cessez-le-feu : le président russe refuse d'en négocier un, même limité, après les frappes ukrainiennes sur le pont de Crimée, et annonce une riposte. À Kyiv, un projectile a légèrement endommagé l'ambassade des Pays-Bas le 19 novembre, sans faire de blessé. Le score du domaine reste à 90, porté par les 2 957 civils tués en Ukraine de janvier à octobre selon l'ONU.",
+      "aSurveiller": "La riposte russe annoncée après les frappes sur le pont de Crimée, de nouveaux incidents touchant des pays de l'Union ou leurs ambassades, et un éventuel cessez-le-feu, qui ferait baisser le score."
     },
     "climat": {
-      "date": "2026-11-19",
-      "texte": "Selon la vigilance de Météo-France diffusée le 18 novembre à 6 h, la Somme et le Pas-de-Calais sont en orange pluie-inondation jusqu'à jeudi ; le soir, Vigicrues signalait des débordements localisés sur l'Aa et la Lys amont, sans dépasser le jaune. Jeudi, Météo-France prévoit des rafales de plus de 150 km/h, voire 170 km/h, dans la région du Cap corse. La COP31 d'Antalya doit se clore le 20 novembre. Le score ne change pas.",
-      "aSurveiller": "Les vigilances orange et rouge de Météo-France, pour la pluie dans les Hauts-de-France et le vent en Corse ce jeudi, les crues dans le Pas-de-Calais, et l'issue de la COP31, attendue le 20 novembre."
+      "date": "2026-11-20",
+      "texte": "Météo-France prévoyait pour le 19 novembre des rafales de plus de 150 km/h, voire 170 km/h, dans la région du Cap corse et jusqu'à 100 mm de pluie dans l'intérieur de l'île, après 50 à 100 mm en 48 heures entre la baie de Somme et le Pas-de-Calais ; elle annonce un vendredi 20 novembre encore perturbé. La COP31 d'Antalya doit se clore ce 20 novembre. Le score ne change pas.",
+      "aSurveiller": "Les vigilances orange et rouge de Météo-France (vent, pluie-inondation, crues) pour ce vendredi encore perturbé, et l'issue de la COP31, attendue le 20 novembre."
     },
     "energie": {
-      "date": "2026-11-19",
-      "texte": "RTE ne juge pas nécessaire de vigilance particulière pour l'électricité cet hiver, avec un risque de déséquilibre faible malgré des réserves hydrauliques sous 50 % début novembre. Les difficultés en station reculent : 6 % des stations manquaient d'au moins un carburant le 18 novembre au matin, 16 % dans le Grand Est. Les stocks de gaz de l'Union restent les plus bas depuis plus de dix ans et le Brent, publié jusqu'au 11 novembre, est à 96 $ en moyenne depuis janvier : le score du domaine reste à 59.",
+      "date": "2026-11-20",
+      "texte": "L'Agence internationale de l'énergie juge, dans son World Energy Outlook, que la crise d'Ormuz est la plus grande menace de l'histoire pour la sécurité énergétique. En France, RTE ne prévoit pas de vigilance particulière pour l'électricité cet hiver, et 6 % des stations manquaient d'au moins un carburant le 18 novembre au matin, 16 % dans le Grand Est. Les stocks de gaz de l'Union restent les plus bas depuis plus de dix ans et le Brent, publié jusqu'au 11 novembre, est à 96 $ en moyenne depuis janvier : le score du domaine reste à 59.",
       "aSurveiller": "La disponibilité des carburants en station, surtout dans le Grand Est, les signaux Ecowatt de RTE en cas de froid, et la sécurité du passage à Ormuz."
     },
     "epidemies": {
-      "date": "2026-11-19",
-      "texte": "L'avis du comité d'urgence de l'OMS, réuni le 17 novembre sur l'épidémie d'Ebola due au virus Bundibugyo, n'était pas encore publié le 19 novembre au matin : l'urgence de santé publique de portée internationale reste en vigueur, avec un risque mondial jugé faible par l'OMS. L'ECDC compte 11 376 cas confirmés et 5 568 décès en RDC au 15 novembre et juge le risque très faible pour la population de l'Union. Le score ne change pas.",
-      "aSurveiller": "L'avis du comité d'urgence de l'OMS sur le maintien de l'urgence sanitaire mondiale, et le prochain bulletin de Santé publique France sur la grippe, la bronchiolite et le covid-19."
+      "date": "2026-11-20",
+      "texte": "L'avis du comité d'urgence de l'OMS, réuni le 17 novembre sur l'épidémie d'Ebola due au virus Bundibugyo, n'était toujours pas publié le 20 novembre au matin : l'urgence de santé publique de portée internationale reste en vigueur. L'ECDC compte 11 376 cas confirmés et 5 568 décès en RDC au 15 novembre et juge le risque très faible pour l'Union. En France, grippe et bronchiolite sont en pré-épidémie dans plusieurs régions et le covid-19 en nette hausse, avec un impact encore faible. Le score ne change pas.",
+      "aSurveiller": "L'avis du comité d'urgence de l'OMS sur le maintien de l'urgence sanitaire mondiale, et un éventuel passage de la grippe ou de la bronchiolite en phase épidémique en France."
     },
     "conflits-monde": {
-      "date": "2026-11-19",
-      "texte": "Les tensions restent fortes autour du Golfe : le chef de l'armée iranienne promet une riposte sans limite géographique en cas de nouvelle attaque, l'Iran dit avoir détruit un drone américain près d'Ormuz, sans commentaire de Washington, et un troisième porte-avions américain est arrivé dans la région. La guerre en Iran devait être abordée lors de la rencontre de Trump, Xi et Poutine en Chine le 18 novembre. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
-      "aSurveiller": "La sécurité du passage dans le détroit d'Ormuz, qui pèse aussitôt sur l'énergie et les prix, et ce qui sortira de la rencontre de Trump, Xi et Poutine sur la guerre en Iran."
+      "date": "2026-11-20",
+      "texte": "Les incidents se multiplient autour du Golfe : selon les Gardiens de la révolution, deux pétroliers de plus ont heurté des mines à Ormuz le 19 novembre, et une tour de Riyad a été touchée par une attaque des Houthis, sans blessé. L'Agence internationale de l'énergie juge la crise d'Ormuz plus grave que les chocs pétroliers des années 1970. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
+      "aSurveiller": "La sécurité du passage dans le détroit d'Ormuz, une éventuelle décision américaine sur de nouvelles frappes contre l'Iran, et les attaques visant les pays du Golfe."
     },
     "nucleaire": {
-      "date": "2026-11-19",
-      "texte": "Aucun fait nouveau n'a été vérifié sur les repères du domaine depuis le débat de députés iraniens du 13 novembre sur un retrait du traité de non-prolifération. Les questions nucléaires devaient être abordées lors de la rencontre de Trump, Xi et Poutine en Chine le 18 novembre, sans annonce à ce stade. Les garde-fous restent affaiblis : plus aucun traité ne limite les arsenaux russe et américain depuis février et l'AIEA ne peut plus vérifier le stock d'uranium enrichi de l'Iran. Le score ne change pas.",
-      "aSurveiller": "Une annonce sur le contrôle des armes après la rencontre en Chine, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
+      "date": "2026-11-20",
+      "texte": "L'Iran a redit le 19 novembre qu'il n'accepterait pas une coopération inconditionnelle et illimitée avec l'AIEA tant que les bombardements continuent, après le débat de députés du 13 novembre sur un retrait du traité de non-prolifération. Aucun traité ne limite plus les arsenaux russe et américain depuis l'expiration de New START en février : le repère reste à son palier le plus haut. Le score ne change pas.",
+      "aSurveiller": "D'éventuelles discussions sur le risque nucléaire entre Washington, Pékin et Moscou, le retour des inspecteurs de l'AIEA en Iran, et l'alimentation électrique de la centrale de Zaporijia."
     },
     "cyberattaques": {
-      "date": "2026-11-19",
-      "texte": "Un code malveillant glissé dans un outil du prestataire Optimizely a visé, à partir du 16 novembre, les cartes bancaires et les cryptoactifs des visiteurs de 178 sites, dont ceux d'Air France-KLM et d'IKEA ; le prestataire dit l'incident maîtrisé et le dommage total n'est pas connu. Aucune nouvelle attaque de sabotage n'a été relevée en France depuis l'attribution à l'Iran, le 9 novembre, de l'attaque contre les chaînes du froid. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
-      "aSurveiller": "Les suites de l'incident Optimizely pour les clients des sites touchés, d'éventuelles sanctions européennes après l'attribution des attaques à l'Iran, et le Panorama 2026 de l'ANSSI, attendu début 2027."
+      "date": "2026-11-20",
+      "texte": "La Commission européenne a été visée par une cyberattaque contre ses systèmes de ressources humaines et d'assurance maladie du personnel ; l'auteur n'est pas identifié et CERT-EU cherche à savoir si des données ont été volées. Pour le grand public, l'incident Optimizely a visé à partir du 16 novembre les cartes bancaires des visiteurs de 178 sites. Aucun nouveau sabotage n'a été relevé en France depuis l'attribution à l'Iran, le 9 novembre, des attaques contre les chaînes du froid. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
+      "aSurveiller": "Les conclusions de CERT-EU sur l'attaque contre la Commission, les suites de l'incident Optimizely pour les clients des sites touchés, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "texte": "Aucun nouvel attentat dans l'Union n'a été relevé depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet national polonais (six morts, quinze blessés). En France, la posture Vigipirate reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël. Europol a recensé moins d'attentats dans l'Union en 2025 qu'en 2024 ; le score ne change pas, faute de nouveau chiffre.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
@@ -474,6 +482,20 @@
     },
     {
       "date": "2026-11-19",
+      "global": 65.84,
+      "dimensions": {
+        "guerre-europe": 89.52,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.73,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-20",
       "global": 65.84,
       "dimensions": {
         "guerre-europe": 89.52,
