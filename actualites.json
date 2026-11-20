@@ -1,6 +1,26 @@
 {
-  "maj": "2026-11-20T05:08:58Z",
+  "maj": "2026-11-20T13:03:37Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-20",
+      "theme": "conflit",
+      "portee": "Pologne",
+      "autorite": "Euronews",
+      "titre": "Un objet non identifié tombe dans l'est de la Pologne pendant une attaque russe d'envergure contre l'Ukraine",
+      "resume": "Page en anglais, titre traduit. Le 20 novembre au matin, l'armée polonaise a signalé une violation présumée de son espace aérien liée à l'attaque russe ; un objet a pris feu après sa chute près de Chmielek (Lublin), sans blessé.",
+      "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    },
+    {
+      "date": "2026-11-19",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : vent fort, précipitations soutenues cette fin de semaine",
+      "resume": "Météo-France prévoit 40 à 60 mm de pluie jeudi et vendredi de la Manche au Boulonnais et dans le Sud-Ouest, des rafales de 100 à 130 km/h en Corse, jusqu'à 160 km/h au Cap corse, et 1 m de neige au-dessus de 2000 m dans les Alpes du Nord.",
+      "url": "https://meteofrance.com/actualites/meteo-vent-fort-precipitations-soutenues-cette-semaine",
+      "guide": "tempete"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-19",
@@ -33,6 +53,25 @@
     },
     {
       "date": "2026-11-18",
+      "theme": "penurie",
+      "portee": "France",
+      "autorite": "Agence nationale de sécurité du médicament et des produits de santé (ANSM)",
+      "titre": "Tensions en furosémide 20 et 40 mg : l'ANSM met en place de nouvelles mesures pour permettre la continuité de traitement des patients",
+      "resume": "Les fortes tensions sur le furosémide 20 et 40 mg devraient durer encore plusieurs mois en 2027 : importations, délivrance à l'unité dans la limite d'un mois, et préparation magistrale sans nouvelle ordonnance si le médicament manque.",
+      "url": "https://ansm.sante.fr/actualites/tensions-en-furosemide-20-et-40-mg-lansm-met-en-place-de-nouvelles-mesures-pour-permettre-la-continuite-de-traitement-des-patients"
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "penurie",
+      "portee": "France",
+      "autorite": "RTE (Réseau de transport d'électricité)",
+      "titre": "Perspectives pour le système électrique pour l'hiver 2026-2027",
+      "resume": "RTE juge faible le risque sur les pointes de l'hiver, même en cas de vague de froid, sans vigilance particulière ; seule une combinaison très défavorable (grand froid, vent faible, forte baisse du nucléaire) créerait des tensions.",
+      "url": "https://assets.rte-france.com/prod/public/2026-11/2026-11-18-synthese-passage-hiver-2026-2027.pdf",
+      "guide": "coupure-de-courant"
+    },
+    {
+      "date": "2026-11-18",
       "theme": "sante",
       "portee": "France",
       "autorite": "Santé publique France",
@@ -48,16 +87,6 @@
       "titre": "Une action urgente est nécessaire pour préserver l'efficacité des antibiotiques",
       "resume": "Page en anglais, titre traduit. Consommation humaine d'antibiotiques en 2025 : 5 % sous 2019, objectif moins 20 % en 2030 ; infections à K. pneumoniae résistant aux carbapénèmes : plus 72 %. Antibiotiques sur prescription seulement.",
       "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
-    },
-    {
-      "date": "2026-11-18",
-      "theme": "meteo",
-      "portee": "France",
-      "autorite": "Météo-France",
-      "titre": "Météo : vent fort et pluies soutenues cette semaine",
-      "resume": "Météo-France prévoit jeudi 19 novembre plus de 150 km/h, voire 170 km/h, de rafales dans la région du Cap corse et jusqu'à 100 mm de pluie dans l'intérieur de l'île, après 50 à 100 mm en 48 h entre la baie de Somme et le Pas-de-Calais.",
-      "url": "https://meteofrance.com/actualites/meteo-vent-fort-et-pluies-soutenues-cette-semaine",
-      "guide": "tempete"
     },
     {
       "nature": "evenement",
