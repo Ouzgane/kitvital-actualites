@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-21T05:05:47Z",
+  "maj": "2026-11-21T12:59:56Z",
   "entrees": [
     {
       "date": "2026-11-20",
@@ -9,6 +9,26 @@
       "titre": "Le groupe de coordination pour le gaz confirme que l'Union est prête pour l'hiver et souligne l'importance des stocks de gaz tout au long de l'hiver",
       "resume": "Page en anglais, titre traduit. Avec des stocks de gaz de l'UE autour de 70 %, aucun risque pour la sécurité d'approvisionnement n'est signalé cet hiver ; le groupe demande de ne pas trop les vider d'ici l'été.",
       "url": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en"
+    },
+    {
+      "date": "2026-11-20",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : vent fort, précipitations soutenues cette fin de semaine",
+      "resume": "Météo-France relève jusqu'à 70 mm de pluie entre la Somme et le Pas-de-Calais et des rafales jusqu'à 150 km/h en Corse ; après une accalmie samedi, pluie et vent reviennent dimanche sur la moitié nord, avec jusqu'à 1 m de neige dès 2000 m.",
+      "url": "https://meteofrance.com/actualites/meteo-vent-fort-precipitations-soutenues-cette-semaine",
+      "guide": "tempete"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-20",
+      "theme": "conflit",
+      "portee": "Danemark",
+      "autorite": "Euronews",
+      "titre": "Deux Danois soupçonnés d'un complot soutenu par la Russie pour tuer un rappeur ukrainien",
+      "resume": "Page en anglais, titre traduit. Selon la radio publique danoise DR, deux hommes détenus depuis septembre sont soupçonnés d'avoir été recrutés par le renseignement russe pour tuer le rappeur Kyivstoner ; ils auraient plaidé non coupable.",
+      "url": "https://www.euronews.com/2026/11/20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper"
     },
     {
       "nature": "evenement",
@@ -26,19 +46,9 @@
       "theme": "conflit",
       "portee": "Pologne",
       "autorite": "Euronews",
-      "titre": "Un objet non identifié tombe dans l'est de la Pologne pendant une attaque russe d'envergure contre l'Ukraine",
-      "resume": "Page en anglais, titre traduit. Le 20 novembre au matin, l'armée polonaise a signalé une violation présumée de son espace aérien liée à l'attaque russe ; un objet a pris feu après sa chute près de Chmielek (Lublin), sans blessé.",
+      "titre": "Tusk dénonce une « provocation » russe après la chute de missiles en Pologne",
+      "resume": "Page en anglais, titre traduit. Selon le ministre polonais de la Défense, un missile russe est tombé près de Nowy Lipowiec (Lublin), à 60 km de l'Ukraine, un autre missile et un drone ailleurs, sans blessé signalé.",
       "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
-    },
-    {
-      "date": "2026-11-19",
-      "theme": "meteo",
-      "portee": "France",
-      "autorite": "Météo-France",
-      "titre": "Météo : vent fort, précipitations soutenues cette fin de semaine",
-      "resume": "Météo-France prévoit 40 à 60 mm de pluie jeudi et vendredi de la Manche au Boulonnais et dans le Sud-Ouest, des rafales de 100 à 130 km/h en Corse, jusqu'à 160 km/h au Cap corse, et 1 m de neige au-dessus de 2000 m dans les Alpes du Nord.",
-      "url": "https://meteofrance.com/actualites/meteo-vent-fort-precipitations-soutenues-cette-semaine",
-      "guide": "tempete"
     },
     {
       "nature": "evenement",
@@ -108,6 +118,25 @@
       "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
     },
     {
+      "date": "2026-11-17",
+      "theme": "sante",
+      "portee": "République démocratique du Congo",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Allocution d'ouverture du directeur général de l'OMS à la troisième réunion du comité d'urgence du RSI sur l'épidémie de maladie à virus Bundibugyo en République démocratique du Congo",
+      "resume": "Page en anglais, titre traduit. Plus de 11 000 cas et 5 400 décès en RDC, dans 67 zones de santé de huit provinces, et 400 à 500 nouveaux cas par semaine ; le Kenya compte neuf cas, le Nigeria un cas importé. Le comité d'urgence est réuni.",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-third-ihr-emergency-committee-meeting-on-bundibugyo-virus-disease-epidemic-in-the-democratic-republic-of-the-congo---17-november-2026"
+    },
+    {
+      "date": "2026-11-17",
+      "theme": "preparation",
+      "portee": "Suède",
+      "autorite": "Krisinformation.se (portail d'information de crise du gouvernement suédois)",
+      "titre": "Test du nouveau système d'alerte suédois le 7 décembre",
+      "resume": "Page en anglais, titre traduit. Le 7 décembre à 15 h, SE-Alert sera testé dans toute la Suède : les smartphones à jour sonneront, vibreront et afficheront un message, sans application ni inscription ; prévenir enfants et personnes âgées.",
+      "url": "https://www.krisinformation.se/en/latest/news/test-of-swedish-new-warning-system-on-7-december/",
+      "guide": "etre-alerte"
+    },
+    {
       "nature": "evenement",
       "date": "2026-11-17",
       "theme": "conflit",
@@ -126,15 +155,6 @@
       "titre": "178 sites internet, dont Zoom, la BBC, IKEA et CNN, visés par une cyberattaque : 7 000 dollars volés en 9 heures",
       "resume": "Page en turc, titre traduit. Un code malveillant placé dans un outil d'Optimizely visait les cartes bancaires et cryptoactifs des visiteurs de 178 sites, dont Air France-KLM et IKEA ; Optimizely dit l'incident maîtrisé.",
       "url": "https://tr.euronews.com/2026/11/17/zoom-bbc-ikea-ve-cnn-dahil-178-internet-sitesi-siber-saldirinin-hedefi-oldu-9-saatte-7-bin"
-    },
-    {
-      "date": "2026-11-17",
-      "theme": "sante",
-      "portee": "République démocratique du Congo",
-      "autorite": "Organisation mondiale de la santé (OMS)",
-      "titre": "Allocution d'ouverture du directeur général de l'OMS à la troisième réunion du comité d'urgence du RSI sur l'épidémie de maladie à virus Bundibugyo en République démocratique du Congo",
-      "resume": "Page en anglais, titre traduit. Plus de 11 000 cas et 5 400 décès en RDC, dans 67 zones de santé de huit provinces, et 400 à 500 nouveaux cas par semaine ; le Kenya compte neuf cas, le Nigeria un cas importé. Le comité d'urgence est réuni.",
-      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-third-ihr-emergency-committee-meeting-on-bundibugyo-virus-disease-epidemic-in-the-democratic-republic-of-the-congo---17-november-2026"
     },
     {
       "nature": "evenement",
@@ -167,16 +187,6 @@
       "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
     },
     {
-      "date": "2026-11-17",
-      "theme": "preparation",
-      "portee": "Suède",
-      "autorite": "Krisinformation.se (portail d'information de crise du gouvernement suédois)",
-      "titre": "Test du nouveau système d'alerte suédois le 7 décembre",
-      "resume": "Page en anglais, titre traduit. Le 7 décembre à 15 h, SE-Alert sera testé dans toute la Suède : les smartphones à jour sonneront, vibreront et afficheront un message, sans application ni inscription ; prévenir enfants et personnes âgées.",
-      "url": "https://www.krisinformation.se/en/latest/news/test-of-swedish-new-warning-system-on-7-december/",
-      "guide": "etre-alerte"
-    },
-    {
       "nature": "evenement",
       "date": "2026-11-17",
       "theme": "conflit",
@@ -187,16 +197,6 @@
       "url": "https://www.euronews.com/2026/11/17/russian-strikes-hit-two-major-bridges-in-ukraines-capital-citys-mayor-says"
     },
     {
-      "nature": "evenement",
-      "date": "2026-11-16",
-      "theme": "conflit",
-      "portee": "Bulgarie",
-      "autorite": "Euronews",
-      "titre": "Douze membres d'équipage secourus après le chavirage d'un cargo au large de la Bulgarie, à la suite d'une frappe de drone présumée",
-      "resume": "Page en anglais, titre traduit. Le Betul 8, parti de Roumanie avec près de 3 000 tonnes de blé, a chaviré le 16 novembre dans la zone économique bulgare ; l'équipage dit avoir été touché par des drones marins. Les 12 marins sont secourus.",
-      "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
-    },
-    {
       "date": "2026-11-16",
       "theme": "meteo",
       "portee": "France",
@@ -205,6 +205,25 @@
       "resume": "Météo-France annonce une succession de perturbations océaniques cette semaine : pluies parfois soutenues, rafales pouvant atteindre ou dépasser 80 à 100 km/h mardi dans le nord-ouest, neige sur le relief, surtout dans les Alpes.",
       "url": "https://meteofrance.com/actualites/meteo-defile-de-perturbations-cette-semaine",
       "guide": "tempete"
+    },
+    {
+      "date": "2026-11-16",
+      "theme": "penurie",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (énergie)",
+      "titre": "Le groupe de coordination pour l'électricité estime le marché européen de l'électricité préparé pour l'hiver",
+      "resume": "Page en anglais, titre traduit. Réuni le 12 novembre, le groupe juge que l'UE devrait disposer de ressources suffisantes pour couvrir sa demande d'électricité de l'hiver 2026-2027, tout en continuant à surveiller le marché de près.",
+      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-16",
+      "theme": "conflit",
+      "portee": "Bulgarie",
+      "autorite": "Euronews",
+      "titre": "Douze membres d'équipage secourus après le chavirage d'un cargo au large de la Bulgarie, à la suite d'une frappe de drone présumée",
+      "resume": "Page en anglais, titre traduit. Le Betul 8, parti de Roumanie avec près de 3 000 tonnes de blé, a chaviré le 16 novembre dans la zone économique bulgare ; l'équipage dit avoir été touché par des drones marins. Les 12 marins sont secourus.",
+      "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
     },
     {
       "nature": "evenement",
@@ -225,15 +244,6 @@
       "titre": "Les États-Unis et l'Iran glissent vers une nouvelle guerre ouverte à mesure que les échanges de tirs s'intensifient",
       "resume": "Page en anglais, titre traduit. Frappes américaines dans le sud de l'Iran dimanche soir ; selon les Gardiens de la révolution, six pétroliers ont pris feu à Ormuz depuis dimanche, sans confirmation indépendante. Le pétrole a monté lundi.",
       "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
-    },
-    {
-      "date": "2026-11-16",
-      "theme": "penurie",
-      "portee": "Union européenne",
-      "autorite": "Commission européenne (énergie)",
-      "titre": "Le groupe de coordination pour l'électricité estime le marché européen de l'électricité préparé pour l'hiver",
-      "resume": "Page en anglais, titre traduit. Réuni le 12 novembre, le groupe juge que l'UE devrait disposer de ressources suffisantes pour couvrir sa demande d'électricité de l'hiver 2026-2027, tout en continuant à surveiller le marché de près.",
-      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
     },
     {
       "date": "2026-11-15",
@@ -303,6 +313,24 @@
       "guide": "chauffage-monoxyde-de-carbone"
     },
     {
+      "date": "2026-11-13",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo du week-end : plus frais et sec au nord et retour des pluies au sud",
+      "resume": "Météo-France prévoit samedi des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les hauteurs du Massif central, puis dimanche une nouvelle perturbation pluvieuse sur tout le pays.",
+      "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
+      "resume": "Page en anglais, titre traduit. Au 12 novembre, la RDC a déclaré 11 197 cas confirmés dont 5 471 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+    },
+    {
       "nature": "evenement",
       "date": "2026-11-13",
       "theme": "infrastructures",
@@ -343,24 +371,6 @@
       "url": "https://news.un.org/en/story/2026/11/1168804"
     },
     {
-      "date": "2026-11-13",
-      "theme": "meteo",
-      "portee": "France",
-      "autorite": "Météo-France",
-      "titre": "Météo du week-end : plus frais et sec au nord et retour des pluies au sud",
-      "resume": "Météo-France prévoit samedi des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les hauteurs du Massif central, puis dimanche une nouvelle perturbation pluvieuse sur tout le pays.",
-      "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
-    },
-    {
-      "date": "2026-11-13",
-      "theme": "sante",
-      "portee": "Union européenne",
-      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
-      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
-      "resume": "Page en anglais, titre traduit. Au 12 novembre, la RDC a déclaré 11 197 cas confirmés dont 5 471 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
-    },
-    {
       "date": "2026-11-12",
       "theme": "preparation",
       "portee": "Luxembourg",
@@ -380,6 +390,15 @@
       "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
     },
     {
+      "date": "2026-11-11",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Allocution d'ouverture du directeur général de l'OMS au point d'information des États membres sur l'épidémie d'Ebola en République démocratique du Congo",
+      "resume": "Page en anglais, titre traduit. L'OMS compte près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces ; l'épidémie reste une urgence de santé publique de portée internationale.",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
+    },
+    {
       "nature": "evenement",
       "date": "2026-11-11",
       "theme": "conflit",
@@ -389,15 +408,6 @@
       "resume": "Page en anglais, titre traduit. Dans la nuit du 10 au 11 novembre, quatre drones et des dizaines de ballons sont détectés au-dessus des pays baltes ; les trois pays appellent leurs habitants à se mettre à l'abri.",
       "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron",
       "guide": "etre-alerte"
-    },
-    {
-      "date": "2026-11-11",
-      "theme": "sante",
-      "portee": "Monde",
-      "autorite": "Organisation mondiale de la santé (OMS)",
-      "titre": "Allocution d'ouverture du directeur général de l'OMS au point d'information des États membres sur l'épidémie d'Ebola en République démocratique du Congo",
-      "resume": "Page en anglais, titre traduit. L'OMS compte près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces ; l'épidémie reste une urgence de santé publique de portée internationale.",
-      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
     },
     {
       "date": "2026-11-10",
