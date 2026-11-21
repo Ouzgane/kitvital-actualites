@@ -1,6 +1,25 @@
 {
-  "maj": "2026-11-20T13:03:37Z",
+  "maj": "2026-11-21T05:05:47Z",
   "entrees": [
+    {
+      "date": "2026-11-20",
+      "theme": "penurie",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (énergie)",
+      "titre": "Le groupe de coordination pour le gaz confirme que l'Union est prête pour l'hiver et souligne l'importance des stocks de gaz tout au long de l'hiver",
+      "resume": "Page en anglais, titre traduit. Avec des stocks de gaz de l'UE autour de 70 %, aucun risque pour la sécurité d'approvisionnement n'est signalé cet hiver ; le groupe demande de ne pas trop les vider d'ici l'été.",
+      "url": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-20",
+      "theme": "conflit",
+      "portee": "Pologne",
+      "autorite": "CBS News",
+      "titre": "La Pologne accuse la Russie de « provocation intentionnelle » après la chute de missiles sur le sol de l'OTAN ; au moins 8 morts en Ukraine",
+      "resume": "Page en anglais, titre traduit. Selon le ministre polonais de la Défense, deux missiles et un drone russes sont entrés dans le sud-est du pays, sans blessé ; le secrétaire général de l'OTAN parle de violations graves.",
+      "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-20",
