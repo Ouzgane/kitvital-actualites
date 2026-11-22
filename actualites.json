@@ -1,6 +1,16 @@
 {
-  "maj": "2026-11-22T05:01:14Z",
+  "maj": "2026-11-22T13:03:02Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-22",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Euronews",
+      "titre": "14 personnes portées disparues après une frappe de drone russe sur la région de Kyiv",
+      "resume": "Page en anglais, titre traduit. À Dymer, au nord de Kyiv, une frappe détruit une partie d'un immeuble ; selon le président Zelensky, 14 personnes restent introuvables ; les autorités régionales comptent un mort et au moins trois blessés.",
+      "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-21",
