@@ -1,6 +1,35 @@
 {
-  "maj": "2026-11-21T12:59:56Z",
+  "maj": "2026-11-22T05:01:14Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-21",
+      "theme": "conflit",
+      "portee": "Bahreïn",
+      "autorite": "Euronews",
+      "titre": "L'Iran attaque des bases américaines à Bahreïn alors que ses pétroliers se préparent à briser le blocus américain",
+      "resume": "Page en anglais, titre traduit. Le 21 novembre, selon les médias iraniens, l'Iran vise quatre bases américaines à Bahreïn, qui dit avoir intercepté plusieurs tirs, sans blessé ; l'UKMTO signale deux pétroliers touchés en quittant le Golfe.",
+      "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-21",
+      "theme": "conflit",
+      "portee": "Finlande",
+      "autorite": "Euronews",
+      "titre": "Un cargo russe touché par des drones dans le golfe de Finlande",
+      "resume": "Page en anglais, titre traduit. Selon les autorités finlandaises, le Sparta II, touché le 21 novembre en eaux internationales, a pris feu puis dérivé dans les eaux finlandaises ; équipage à bord, pas de pollution. Auteur inconnu.",
+      "url": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say"
+    },
+    {
+      "date": "2026-11-20",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Maladie à virus Ebola due au virus Bundibugyo : République démocratique du Congo, Kenya et Nigeria",
+      "resume": "Page en anglais, titre traduit. Au 17 novembre, 11 613 cas confirmés et 5 678 décès en RDC, 9 cas au Kenya ; le 18 novembre, l'OMS maintient l'urgence de santé publique de portée internationale.",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+    },
     {
       "date": "2026-11-20",
       "theme": "penurie",
