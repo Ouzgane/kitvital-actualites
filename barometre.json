@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-22T05:02:23Z",
-  "releve": "2026-11-22",
+  "maj": "2026-11-23T05:10:39Z",
+  "releve": "2026-11-23",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -23,32 +23,33 @@
   },
   "contexte": {
     "energie": "Guerre en Iran et détroit d'Ormuz bloqué : baril autour de 96 $ en moyenne depuis janvier, stocks de gaz au plus bas depuis plus de dix ans.",
-    "guerre-europe": "Négociations sans cessez-le-feu. De janvier à octobre, 2 957 civils tués en Ukraine selon l'ONU, plus que sur toute l'année 2025. Le 20 novembre, des missiles russes entrent dans l'espace aérien polonais."
+    "guerre-europe": "Négociations sans cessez-le-feu. De janvier à octobre, 2 957 civils tués en Ukraine selon l'ONU, plus que sur toute l'année 2025. Le 20 novembre, des missiles russes entrent dans l'espace aérien polonais.",
+    "climat": "Crues historiques dans l'Ouest en février, épisodes méditerranéens à l'automne, octobre le plus chaud jamais mesuré. La COP31 d'Antalya s'achève le 22 novembre sans accord sur le climat."
   },
   "actus": {
     "guerre-europe": [
       {
-        "date": "2026-11-21",
-        "texte": "Selon les autorités finlandaises, le cargo russe Sparta II, touché par des drones le 21 novembre dans les eaux internationales, à l'ouest de l'île de Suursaari, a pris feu puis dérivé dans les eaux finlandaises ; l'équipage reste à bord, sans pollution. L'auteur de l'attaque n'est pas connu.",
+        "date": "2026-11-22",
+        "texte": "Le 22 novembre, une frappe de drone russe détruit en partie un immeuble de cinq étages à Dymer, au nord de Kyiv. La police nationale ukrainienne compte 15 disparus, dont deux enfants ; le chef de l'administration régionale fait état de deux corps retrouvés et d'au moins quatre blessés.",
         "source": {
-          "titre": "Un cargo russe touché par des drones dans le golfe de Finlande (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say"
+          "titre": "15 personnes portées disparues après une frappe de drone russe sur la région de Kyiv (Euronews, 22 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
         }
       },
       {
-        "date": "2026-11-21",
-        "texte": "Le 21 novembre, un missile balistique russe tue un garçon de 7 ans et une jeune femme à Kryvyï Rih, ville natale de Volodymyr Zelensky, et blesse 60 personnes selon les autorités locales. Vladimir Poutine avait promis une riposte aux frappes ukrainiennes sur le pont de Crimée.",
+        "date": "2026-11-22",
+        "texte": "Des navires russes remorquent le 22 novembre le cargo Sparta II, touché la veille par deux drones dans le golfe de Finlande ; ses 16 membres d'équipage ont été évacués. Selon des responsables militaires finlandais cités par Euronews, l'Ukraine serait probablement responsable ; Kyiv n'a pas confirmé.",
         "source": {
-          "titre": "Une frappe de missile balistique sur la ville natale de Zelensky fait deux morts (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people"
+          "titre": "La Finlande confirme que la Russie remorque le cargo touché par des drones dans la Baltique (Euronews, 22 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack"
         }
       },
       {
-        "date": "2026-11-21",
-        "texte": "Emmanuel Macron estime que plusieurs partenaires européens ont connu en 24 heures des incidents graves marquant « un nouveau niveau d'agression » de la Russie : missiles tombés en Pologne, projet d'assassinat au Danemark selon le renseignement danois, tentative de sabotage en Estonie.",
+        "date": "2026-11-22",
+        "texte": "Le 22 novembre, le gouverneur de Kaliningrad dit qu'un objet suspect venu de Lituanie a déclenché une rare alerte aérienne, sans victime ni dégât signalés. La Lituanie rejette ces accusations et indique n'avoir relevé aucun drone dans son espace aérien la nuit précédente.",
         "source": {
-          "titre": "Emmanuel Macron met en garde contre un « nouveau niveau » d'agression russe (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression"
+          "titre": "Une alerte aérienne retentit à Kaliningrad après l'attaque d'un navire dans le golfe de Finlande (ABC News, avec l'AP, 22 novembre 2026)",
+          "url": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879"
         }
       },
       {
@@ -70,18 +71,26 @@
     ],
     "climat": [
       {
-        "date": "2026-11-21",
-        "texte": "La COP31 d'Antalya se prolonge au-delà du 20 novembre, faute d'accord sur la sortie des énergies fossiles : un deuxième projet de texte en a retiré toute mention. Plusieurs pays, dont la France et le Panama, demandent une transition claire hors des énergies fossiles.",
+        "date": "2026-11-22",
+        "texte": "La COP31 d'Antalya s'achève le 22 novembre sans accord, après deux jours de prolongation, faute de compromis sur les énergies fossiles ; l'Union européenne s'est formellement opposée au texte final. Le secrétaire général de l'ONU se dit profondément déçu.",
         "source": {
-          "titre": "Le désaccord sur les énergies fossiles prolonge les négociations de la COP31 (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
+          "titre": "La COP31 s'achève sans accord sur le climat (ONU Info, 22 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168855"
         }
       },
       {
-        "date": "2026-11-21",
-        "texte": "Le bulletin national de Vigicrues du 21 novembre à 5 h 55 maintient la Canche, dans le Pas-de-Calais, en vigilance orange, avec des débordements dommageables encore observés ; l'Authie connaît aussi une crue importante. Les niveaux ont atteint leur maximum et restent hauts.",
+        "date": "2026-11-22",
+        "texte": "La carte de vigilance de Météo-France diffusée le 22 novembre à 6 h place l'Ain et le Jura en vigilance orange pluie-inondation et le Pas-de-Calais en vigilance orange crues pour lundi 23 novembre ; aucun département n'est en rouge.",
         "source": {
-          "titre": "Bulletin national de vigilance crues du 21 novembre 2026 à 5 h 55 (Vigicrues)",
+          "titre": "Vigilance accessible, carte diffusée le 22 novembre 2026 à 6 h (Météo-France)",
+          "url": "https://vigilance.meteofrance.fr/fr/vigilance-accessible"
+        }
+      },
+      {
+        "date": "2026-11-22",
+        "texte": "Le bulletin national de Vigicrues du 22 novembre à 5 h 59 maintient la Canche (Pas-de-Calais) en vigilance orange, avec des débordements dommageables. De nouvelles pluies intenses sont attendues jusqu'à lundi sur les Alpes, les Vosges et le Jura, avec des débordements possibles sur la Loue, la Savoureuse et le Doubs.",
+        "source": {
+          "titre": "Bulletin national de vigilance crues du 22 novembre 2026 à 5 h 59 (Vigicrues)",
           "url": "https://www.vigicrues.gouv.fr/bulletin_national"
         }
       },
@@ -104,10 +113,10 @@
     ],
     "energie": [
       {
-        "date": "2026-11-21",
-        "texte": "Le 21 novembre à 9 h, 4 % des stations-service de France manquent d'au moins un carburant, comme le 19 novembre ; 8 % dans le Grand Est, région la plus touchée, 6 % en Centre-Val de Loire, 5 % en Bourgogne-Franche-Comté, 4 % en Île-de-France.",
+        "date": "2026-11-22",
+        "texte": "Le 22 novembre à 9 h, 4 % des stations-service de France manquent d'au moins un carburant, comme la veille ; 10 % dans le Grand Est, région la plus touchée, 7 % en Bourgogne-Franche-Comté, 6 % en Centre-Val de Loire, 5 % en Île-de-France et en Pays de la Loire.",
         "source": {
-          "titre": "Disponibilités carburants au 21 novembre 2026 à 9 h (prix-carburants.gouv.fr, site gouvernemental)",
+          "titre": "Disponibilités carburants au 22 novembre 2026 à 9 h (prix-carburants.gouv.fr, site gouvernemental)",
           "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
         }
       },
@@ -180,16 +189,24 @@
     ],
     "conflits-monde": [
       {
-        "date": "2026-11-21",
-        "texte": "Le 21 novembre, selon les médias iraniens, l'Iran vise quatre bases américaines à Bahreïn ; Bahreïn dit avoir intercepté plusieurs tirs, sans blessé, un incendie touchant un site industriel civil. L'UKMTO signale deux pétroliers touchés par des projectiles en quittant le Golfe, sans victime.",
+        "date": "2026-11-22",
+        "texte": "L'UKMTO signale le 22 novembre au soir un pétrolier impliqué dans un incident avec des forces militaires dans le golfe d'Oman, à l'est d'Ormuz. Selon la marine iranienne, citée par les médias iraniens, deux superpétroliers ont pris feu après avoir heurté des mines ; le lien entre les deux faits n'est pas établi.",
         "source": {
-          "titre": "L'Iran attaque des bases américaines à Bahreïn alors que ses pétroliers se préparent à briser le blocus (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+          "titre": "Incident « impliquant des forces militaires » signalé pour un pétrolier dans le détroit d'Ormuz (Euronews, 22 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+        }
+      },
+      {
+        "date": "2026-11-22",
+        "texte": "Un pétrolier iranien apparu sur les données de suivi dans le détroit d'Ormuz n'existe pas, selon le site TankerTrackers. Plus de 14 pétroliers restent rassemblés autour de l'île de Kharg ; l'armée américaine compte 130 jours de blocus des ports iraniens.",
+        "source": {
+          "titre": "Un pétrolier iranien signalé dans le détroit d'Ormuz n'existe pas, selon un site de suivi (Euronews, 22 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"
         }
       },
       {
         "date": "2026-11-21",
-        "texte": "Plus de 14 pétroliers iraniens seraient prêts au large de Kharg pour briser le blocus américain. Le vice-ministre iranien des Affaires étrangères qualifie ce blocus d'acte de guerre, et Téhéran menace de riposter, jusqu'aux infrastructures énergétiques du Golfe, si le convoi est attaqué.",
+        "texte": "Le 21 novembre, selon les médias iraniens, l'Iran vise quatre bases américaines à Bahreïn ; Bahreïn dit avoir intercepté plusieurs tirs, sans blessé, un incendie touchant un site industriel civil. L'UKMTO signale deux pétroliers touchés par des projectiles en quittant le Golfe, sans victime.",
         "source": {
           "titre": "L'Iran attaque des bases américaines à Bahreïn alors que ses pétroliers se préparent à briser le blocus (Euronews, 21 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
@@ -201,14 +218,6 @@
         "source": {
           "titre": "Guerre en Iran, suivi en direct du 20 et du 21 novembre 2026 (CBS News)",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        }
-      },
-      {
-        "date": "2026-11-19",
-        "texte": "Les Gardiens de la révolution affirment le 19 novembre que deux pétroliers de plus ont heurté des mines dans le détroit d'Ormuz, sans confirmation indépendante. ADNOC compte 11 blessés et un disparu dans l'équipage d'un de ses pétroliers frappé dans le détroit le 17 novembre au soir.",
-        "source": {
-          "titre": "Guerre en Iran, le direct du 19 novembre 2026 (CBS News)",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
         }
       },
       {
@@ -264,6 +273,14 @@
     ],
     "cyberattaques": [
       {
+        "date": "2026-11-22",
+        "texte": "Selon une carte de DigitalEurope relayée par Euronews, 16 incidents ont visé l'Europe du 18 octobre au 18 novembre : 11 cyberattaques, dont la mise en dégivrage de congélateurs de supermarchés début novembre, et 5 actions physiques. Sept n'ont aucun auteur désigné, trois ont été publiquement attribués.",
+        "source": {
+          "titre": "Congélateurs chauffés, GPS perdu et fausses alertes à la bombe : un mois de cyberattaques en Europe (Euronews, 22 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/22/hot-freezers-lost-gps-and-fake-bombs-europes-month-of-cyberattacks"
+        }
+      },
+      {
         "date": "2026-11-20",
         "texte": "Le groupe de pirates n0n publie des données marketing de clients de Visa, Mastercard et JPMorgan Chase, volées chez des prestataires, après une demande de rançon. Les trois entreprises confirment l'attaque et assurent qu'aucune donnée de paiement, comme les numéros de carte, n'a été touchée.",
         "source": {
@@ -277,14 +294,6 @@
         "source": {
           "titre": "Cyberattaque contre la Commission européenne : le personnel critique le manque de communication (Euronews, 20 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/20/european-commission-staff-criticise-lack-of-communication-over-cyberattack"
-        }
-      },
-      {
-        "date": "2026-11-16",
-        "texte": "Un code malveillant placé dans un outil du prestataire Optimizely vise les numéros de cartes bancaires et les cryptoactifs des visiteurs de 178 sites, dont ceux d'Air France-KLM, d'IKEA et de la BBC. Optimizely dit l'incident maîtrisé ; selon le chercheur qui l'a révélé, 7 040 dollars de cryptoactifs ont été détournés.",
-        "source": {
-          "titre": "Zoom, la BBC, IKEA et CNN parmi 178 sites visés par une cyberattaque (Euronews en turc, avec l'AFP, 17 novembre 2026)",
-          "url": "https://tr.euronews.com/2026/11/17/zoom-bbc-ikea-ve-cnn-dahil-178-internet-sitesi-siber-saldirinin-hedefi-oldu-9-saatte-7-bin"
         }
       },
       {
@@ -341,42 +350,42 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-22",
-      "texte": "Après la grande attaque russe de la nuit du 19 au 20 novembre, qui a fait entrer deux missiles et un drone en Pologne, les frappes continuent en Ukraine : un missile balistique a tué deux civils à Kryvyï Rih le 21 novembre. Le même jour, un cargo russe a été touché par des drones dans le golfe de Finlande, d'auteur inconnu, et Emmanuel Macron a parlé d'un nouveau niveau d'agression russe envers plusieurs pays européens. Le score du domaine reste à 90, porté par les 2 957 civils tués en Ukraine de janvier à octobre selon l'ONU.",
-      "aSurveiller": "Les suites données par la Pologne et l'OTAN à l'entrée de missiles russes, l'enquête finlandaise sur le cargo touché, et un éventuel cessez-le-feu, qui ferait baisser le score."
+      "date": "2026-11-23",
+      "texte": "Les frappes russes se poursuivent en Ukraine : à Dymer, au nord de Kyiv, un immeuble a été en partie détruit le 22 novembre, avec deux morts et 15 disparus selon les autorités. Dans la Baltique, des navires russes remorquent le cargo Sparta II, touché par des drones dans le golfe de Finlande, et une rare alerte aérienne a retenti à Kaliningrad, la Lituanie rejetant toute implication. Le score du domaine reste à 90, porté par les 2 957 civils tués en Ukraine de janvier à octobre selon l'ONU.",
+      "aSurveiller": "Les suites données par l'OTAN à l'entrée de missiles russes en Pologne, l'enquête sur l'attaque du Sparta II, et un éventuel cessez-le-feu, qui ferait baisser le score."
     },
     "climat": {
-      "date": "2026-11-22",
-      "texte": "Les crues ont atteint leur maximum dans le Pas-de-Calais : Vigicrues maintenait le 21 novembre au matin la Canche en vigilance orange, avec des débordements dommageables encore observés, et signalait une crue importante de l'Authie. Après l'accalmie de samedi, Météo-France annonçait le retour de la pluie et du vent dimanche sur la moitié nord. À Antalya, la COP31 s'est prolongée au-delà du 20 novembre, faute d'accord sur la sortie des énergies fossiles. Le score ne change pas.",
-      "aSurveiller": "Les vigilances de Météo-France et de Vigicrues avec le retour de la pluie et du vent à partir de dimanche, et l'issue de la COP31 d'Antalya."
+      "date": "2026-11-23",
+      "texte": "La COP31 d'Antalya s'est achevée le 22 novembre sans accord, faute de compromis sur les énergies fossiles : l'Union européenne s'est opposée au texte final, et le secrétaire général de l'ONU s'est dit profondément déçu. En France, la pluie est revenue : la carte de Météo-France diffusée le 22 novembre place l'Ain et le Jura en vigilance orange pluie-inondation et le Pas-de-Calais en orange crues pour ce lundi ; selon Vigicrues, la Canche devait rester haute tout le week-end. Le score ne change pas.",
+      "aSurveiller": "Les vigilances de Météo-France et de Vigicrues sur le Jura, l'Ain, le Doubs et le Pas-de-Calais, et les prochains épisodes de pluie et de vent de la fin novembre."
     },
     "energie": {
-      "date": "2026-11-22",
-      "texte": "La disponibilité des carburants reste stable : le 21 novembre à 9 h, 4 % des stations de France manquaient d'au moins un carburant, 8 % dans le Grand Est, la région la plus touchée. Le groupe de coordination pour le gaz de la Commission européenne ne relève aucun risque pour l'approvisionnement cet hiver, avec des stocks autour de 70 %. Le Brent, publié jusqu'au 17 novembre, est à 96 $ en moyenne depuis janvier, et les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans : le score du domaine reste à 59.",
-      "aSurveiller": "La disponibilité des carburants en station, surtout dans le Grand Est, les signaux Ecowatt de RTE en cas de froid, et un éventuel départ du convoi de pétroliers iraniens de Kharg."
+      "date": "2026-11-23",
+      "texte": "La disponibilité des carburants se tend un peu dans l'Est : le 22 novembre à 9 h, 10 % des stations du Grand Est manquaient d'au moins un carburant, contre 8 % la veille à la même heure, et 7 % en Bourgogne-Franche-Comté ; la moyenne nationale reste à 4 %. Le groupe de coordination pour le gaz de la Commission ne relève aucun risque pour l'approvisionnement cet hiver. Le Brent, publié jusqu'au 17 novembre, est à 96 $ en moyenne depuis janvier, et les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans : le score reste à 59.",
+      "aSurveiller": "La disponibilité des carburants en station dans le Grand Est et en Bourgogne-Franche-Comté, les signaux Ecowatt de RTE en cas de froid, et un éventuel départ du convoi de pétroliers iraniens de Kharg."
     },
     "epidemies": {
-      "date": "2026-11-22",
-      "texte": "Après l'avis de son comité d'urgence réuni le 17 novembre, le directeur général de l'OMS a jugé le 18 novembre que l'épidémie d'Ebola due au virus Bundibugyo reste une urgence de santé publique de portée internationale. L'OMS compte 11 613 cas confirmés et 5 678 décès en RDC au 17 novembre et juge le risque très élevé dans le pays, élevé au Kenya et au Nigeria ; l'ECDC le juge très faible pour l'Union. En France, grippe et bronchiolite sont en pré-épidémie dans plusieurs régions. Le score ne change pas.",
-      "aSurveiller": "Les recommandations temporaires publiées après le comité d'urgence de l'OMS, et un éventuel passage de la grippe ou de la bronchiolite en phase épidémique en France."
+      "date": "2026-11-23",
+      "texte": "L'OMS maintient l'urgence de santé publique de portée internationale pour l'épidémie d'Ebola due au virus Bundibugyo : elle compte 11 613 cas confirmés et 5 678 décès en RDC au 17 novembre, dans huit provinces, et 9 cas au Kenya, dont 2 décès. L'ECDC juge le risque très faible pour la population de l'Union, où quatre malades ont été évacués ou importés depuis mai. En France, grippe et bronchiolite sont en phase pré-épidémique dans plusieurs régions. Aucun fait nouveau depuis le 20 novembre ; le score ne change pas.",
+      "aSurveiller": "Le prochain point de l'OMS sur Ebola, les recommandations temporaires publiées après son comité d'urgence, et un éventuel passage de la grippe ou de la bronchiolite en phase épidémique en France."
     },
     "conflits-monde": {
-      "date": "2026-11-22",
-      "texte": "La confrontation entre l'Iran et les États-Unis s'étend au Golfe : selon les médias iraniens, l'Iran a visé le 21 novembre quatre bases américaines à Bahreïn, qui dit avoir intercepté plusieurs tirs sans blessé, et deux pétroliers ont été touchés en quittant le Golfe selon l'UKMTO. Plus de 14 pétroliers iraniens seraient prêts à Kharg pour tenter de briser le blocus américain. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
-      "aSurveiller": "Le départ éventuel du convoi de pétroliers iraniens et la réponse américaine, la sécurité du passage dans le détroit d'Ormuz, et les attaques visant les pays du Golfe."
+      "date": "2026-11-23",
+      "texte": "Le détroit d'Ormuz reste le principal foyer de tension : l'UKMTO a signalé le 22 novembre un pétrolier impliqué dans un incident avec des forces militaires dans le golfe d'Oman, et la marine iranienne dit que deux superpétroliers ont heurté des mines. Plus de 14 pétroliers iraniens restent rassemblés autour de l'île de Kharg face au blocus américain, en place depuis 130 jours selon l'armée américaine. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
+      "aSurveiller": "Une tentative du convoi iranien de forcer le blocus et la réponse américaine, la sécurité du passage dans le détroit d'Ormuz, et les attaques visant les pays du Golfe."
     },
     "nucleaire": {
-      "date": "2026-11-22",
-      "texte": "Le programme nucléaire iranien reste au centre des échanges : Donald Trump dit vouloir un accord permanent qui empêche l'Iran d'obtenir l'arme nucléaire, et selon CBS News, Téhéran refuse d'en discuter tant que le blocus naval américain n'est pas levé. L'Iran a redit le 19 novembre qu'il n'accepterait pas une coopération illimitée avec l'AIEA tant que les bombardements continuent. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut, et le score ne change pas.",
+      "date": "2026-11-23",
+      "texte": "Aucun fait nouveau n'a été relevé depuis le 21 novembre. Le programme nucléaire iranien reste au cœur des échanges : Donald Trump dit vouloir un accord permanent qui empêche l'Iran d'obtenir l'arme nucléaire, Téhéran refuse d'en discuter tant que le blocus naval américain n'est pas levé, et l'Iran refuse une coopération illimitée avec l'AIEA tant que les bombardements continuent. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut, et le score ne change pas.",
       "aSurveiller": "Le retour des inspecteurs de l'AIEA en Iran, une reprise des discussions sur le programme nucléaire iranien, et d'éventuels échanges sur le contrôle des armes entre Washington, Pékin et Moscou."
     },
     "cyberattaques": {
-      "date": "2026-11-22",
-      "texte": "Les attaques relevées ces derniers jours visent surtout des données : le groupe n0n a publié des données marketing de clients de Visa, Mastercard et JPMorgan volées chez des prestataires, sans donnée de paiement selon les entreprises, et l'attaque contre la Commission européenne a touché un nombre limité de systèmes selon une note interne. Aucun nouveau sabotage n'a été relevé en France depuis le 9 novembre. Le score ne change pas : il repose sur les incidents traités par l'ANSSI en 2025.",
-      "aSurveiller": "Les conclusions de CERT-EU sur l'attaque contre la Commission, les suites des fuites de données pour les clients concernés, et le Panorama 2026 de l'ANSSI, attendu début 2027."
+      "date": "2026-11-23",
+      "texte": "Selon une carte de DigitalEurope relayée par Euronews, 16 incidents ont visé l'Europe du 18 octobre au 18 novembre, dont 11 cyberattaques, comme la mise en dégivrage de congélateurs de supermarchés début novembre ; sept n'ont aucun auteur désigné. Les attaques récentes visent surtout des données, comme celles de clients de Visa, Mastercard et JPMorgan publiées par le groupe n0n. Aucun nouveau sabotage n'a été relevé en France depuis le 9 novembre ; le score ne change pas, il repose sur les incidents traités par l'ANSSI en 2025.",
+      "aSurveiller": "Les conclusions de CERT-EU sur l'attaque contre la Commission européenne, de nouvelles attaques contre les chaînes du froid, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "texte": "Aucun nouvel attentat dans l'Union n'a été relevé depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet national polonais (six morts, quinze blessés). En France, le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », à l'approche des marchés de Noël. Europol a recensé moins d'attentats dans l'Union en 2025 qu'en 2024 ; le score ne change pas, faute de nouveau chiffre.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
@@ -524,6 +533,20 @@
     },
     {
       "date": "2026-11-22",
+      "global": 65.83,
+      "dimensions": {
+        "guerre-europe": 89.52,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-23",
       "global": 65.83,
       "dimensions": {
         "guerre-europe": 89.52,

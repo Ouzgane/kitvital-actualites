@@ -1,14 +1,34 @@
 {
-  "maj": "2026-11-22T13:03:02Z",
+  "maj": "2026-11-23T05:10:49Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-22",
+      "theme": "conflit",
+      "portee": "Golfe",
+      "autorite": "Euronews",
+      "titre": "Incident « impliquant des forces militaires » signalé pour un pétrolier dans le détroit d'Ormuz",
+      "resume": "Page en anglais, titre traduit. L'UKMTO signale le 22 novembre un pétrolier impliqué dans un incident avec des forces militaires dans le golfe d'Oman ; selon la marine iranienne, deux superpétroliers ont pris feu sur des mines.",
+      "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-22",
+      "theme": "conflit",
+      "portee": "Pays baltes",
+      "autorite": "ABC News (avec l'AP)",
+      "titre": "Une alerte aérienne retentit quelques heures après l'attaque d'un navire à destination de la Russie dans le golfe de Finlande",
+      "resume": "Page en anglais, titre traduit. Le gouverneur de Kaliningrad signale un objet suspect venu de Lituanie, rare alerte aérienne sans dégât ; la Lituanie dément. L'équipage du cargo russe Sparta II, touché par des drones, a été évacué.",
+      "url": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-22",
       "theme": "conflit",
       "portee": "Ukraine",
       "autorite": "Euronews",
-      "titre": "14 personnes portées disparues après une frappe de drone russe sur la région de Kyiv",
-      "resume": "Page en anglais, titre traduit. À Dymer, au nord de Kyiv, une frappe détruit une partie d'un immeuble ; selon le président Zelensky, 14 personnes restent introuvables ; les autorités régionales comptent un mort et au moins trois blessés.",
+      "titre": "15 personnes portées disparues après une frappe de drone russe sur la région de Kyiv",
+      "resume": "Page en anglais, titre traduit. À Dymer, au nord de Kyiv, une frappe détruit en partie un immeuble ; la police nationale compte 15 disparus, dont deux enfants, et l'administration régionale deux morts et au moins quatre blessés.",
       "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
     },
     {
