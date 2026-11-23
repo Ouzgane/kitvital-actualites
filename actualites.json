@@ -1,6 +1,36 @@
 {
-  "maj": "2026-11-23T05:10:49Z",
+  "maj": "2026-11-23T13:05:50Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-23",
+      "theme": "infrastructures",
+      "portee": "Union européenne",
+      "autorite": "Euronews",
+      "titre": "Exclusif : des pirates soutenus par la Chine soupçonnés d'être derrière la cyberattaque en cours contre la Commission européenne",
+      "resume": "Page en anglais, titre traduit. Brèche non contenue, fuite confirmée de noms et d'adresses d'utilisateurs de l'EU Academy ; selon deux sources, la Commission soupçonne un groupe lié à la Chine, qui nie soutenir le piratage.",
+      "url": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-23",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Euronews",
+      "titre": "Des frappes aériennes russes tuent au moins 15 personnes dans la région de Kyiv, selon l'Ukraine",
+      "resume": "Page en anglais, titre traduit. À Dymer, la frappe sur un immeuble a fait au moins 11 morts selon l'administration régionale ; à Vyshneve, le maire compte trois morts et 15 blessés dans un supermarché ; un mort est signalé à Bila Tserkva.",
+      "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-23",
+      "theme": "conflit",
+      "portee": "Méditerranée",
+      "autorite": "Euronews",
+      "titre": "La mission de l'ONU en Libye demande une enquête après qu'un navire russe a été touché par des drones au large de Benghazi",
+      "resume": "Page en anglais, titre traduit. Dimanche, deux navires, dont un russe, sont frappés au large de Benghazi ; selon les autorités de l'est libyen, l'équipage est secouru, avec des blessés légers. L'ONU demande une enquête indépendante.",
+      "url": "https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-22",
@@ -456,17 +486,6 @@
       "titre": "Allocution d'ouverture du directeur général de l'OMS au point d'information des États membres sur l'épidémie d'Ebola en République démocratique du Congo",
       "resume": "Page en anglais, titre traduit. L'OMS compte près de 11 000 cas confirmés et plus de 5 300 décès en RDC, dans huit provinces ; l'épidémie reste une urgence de santé publique de portée internationale.",
       "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-11",
-      "theme": "conflit",
-      "portee": "Pays baltes",
-      "autorite": "Euronews",
-      "titre": "« Une nuit agitée et difficile » dans les pays baltes, où des avions de l'OTAN n'ont pas pu abattre un drone",
-      "resume": "Page en anglais, titre traduit. Dans la nuit du 10 au 11 novembre, quatre drones et des dizaines de ballons sont détectés au-dessus des pays baltes ; les trois pays appellent leurs habitants à se mettre à l'abri.",
-      "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron",
-      "guide": "etre-alerte"
     },
     {
       "date": "2026-11-10",
