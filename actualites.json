@@ -1,6 +1,26 @@
 {
-  "maj": "2026-11-23T13:05:50Z",
+  "maj": "2026-11-24T04:59:51Z",
   "entrees": [
+    {
+      "date": "2026-11-23",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : nouvelles pluies dans le Sud-Est et arrivée d’un temps hivernal",
+      "resume": "Météo-France annonce des cumuls de pluie importants des Cévennes à la Provence mardi, beaucoup de neige sur les Alpes, puis des pluies verglaçantes possibles mercredi au nord-est et une journée sans dégel jeudi par endroits.",
+      "url": "https://meteofrance.com/actualites/meteo-nouvelles-pluies-dans-le-sud-est-et-arrivee-dun-temps-hivernal",
+      "guide": "vague-de-froid"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-23",
+      "theme": "conflit",
+      "portee": "Finlande",
+      "autorite": "Euronews",
+      "titre": "La Finlande convoque l'ambassadeur de Russie et condamne ses « actions dangereuses et imprudentes » en Europe",
+      "resume": "Page en anglais, titre traduit. Un hélicoptère russe est soupçonné d'avoir violé l'espace aérien finlandais samedi au large de Loviisa, peut-être pour le cargo Sparta II, touché par des drones et remorqué par un navire russe.",
+      "url": "https://www.euronews.com/2026/11/23/finland-summons-russian-ambassador-as-it-condemns-russias-dangerous-and-reckless-actions-i"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-23",
@@ -27,8 +47,8 @@
       "theme": "conflit",
       "portee": "Méditerranée",
       "autorite": "Euronews",
-      "titre": "La mission de l'ONU en Libye demande une enquête après qu'un navire russe a été touché par des drones au large de Benghazi",
-      "resume": "Page en anglais, titre traduit. Dimanche, deux navires, dont un russe, sont frappés au large de Benghazi ; selon les autorités de l'est libyen, l'équipage est secouru, avec des blessés légers. L'ONU demande une enquête indépendante.",
+      "titre": "L'Ukraine est responsable des frappes de drones contre deux navires russes au large de la Libye, selon Zelensky",
+      "resume": "Page en anglais, titre traduit. Zelensky dit que la corvette Merkury a été coulée et un cargo touché à Benghazi ; selon les autorités de l'est libyen, l'équipage est secouru, avec des blessés légers. L'ONU demande une enquête indépendante.",
       "url": "https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi"
     },
     {
@@ -448,16 +468,6 @@
       "titre": "Des députés iraniens débattent d'un changement de doctrine nucléaire et d'une sortie du traité de non-prolifération",
       "resume": "Page en anglais, titre traduit. Des députés et l'Assemblée des experts appellent à examiner un retrait du traité ; aucun texte n'a été voté et le ministère des Affaires étrangères dit l'Iran attaché au traité.",
       "url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-13",
-      "theme": "penurie",
-      "portee": "Golfe",
-      "autorite": "ONU Info",
-      "titre": "Conseil de sécurité en direct : le calme fragile du Golfe mis à l'épreuve par les menaces sur la navigation à Ormuz",
-      "resume": "Page en anglais, titre traduit. Le Conseil de sécurité se réunit à la demande de Bahreïn ; selon les données maritimes britanniques, les passages dans le détroit d'Ormuz restent environ 65 % sous leur niveau d'avant-guerre.",
-      "url": "https://news.un.org/en/story/2026/11/1168804"
     },
     {
       "date": "2026-11-12",
