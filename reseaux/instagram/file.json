@@ -1,0 +1,127 @@
+{
+ "description": "File d'attente de la publication quotidienne Instagram de KitVital (@kitvital.fr, 17841476012641007). Une publication par jour à 12 h 15 (heure de Paris), 4 carrousels et 3 Reels par semaine, lots de 7 validés par le porteur. La tâche quotidienne publie la plus ancienne publication au statut « valide » dont la date est passée ou du jour, jamais plus d'une par jour, et rien si une publication est déjà sortie ce jour-là.",
+ "heure": "12:15",
+ "fuseau": "Europe/Paris",
+ "publications": [
+  {
+   "date": "2026-11-26",
+   "id": "reel-pays",
+   "titre": "3 jours, 7 jours ou 10 jours ?",
+   "format": "REELS",
+   "gabarit": "Reel",
+   "pilier": "Comprendre l'officiel (ailleurs en Europe)",
+   "video": "https://cdn.jsdelivr.net/gh/Ouzgane/kitvital-actualites@1135fb3c391109a9611cf3cddbff5fba070681af/reseaux/instagram/reel-pays-v1.mp4",
+   "thumb_offset": 0,
+   "share_to_feed": true,
+   "legende": "3 jours, 7 jours ou 10 jours ? Chaque pays d'Europe donne sa propre consigne pour tenir chez soi en cas de crise.\n\nFrance : 72 heures, selon le SGDSN.\nSuède : au moins une semaine (brochure « Om krisen eller kriget kommer », envoyée en 5,2 millions d'exemplaires).\nNorvège : une semaine.\nAllemagne : idéalement 10 jours.\n\nL'eau, l'argent liquide, l'iode, l'alerte : chaque pays a aussi ses propres chiffres. Le comparatif de 13 pays et de l'Union européenne est gratuit : lien en bio.\n\nSources : SGDSN, MCF (Suède), DSB (Norvège), BBK (Allemagne).\n\nEnvoyez-la à celui qui trouve que 3 jours, c'est beaucoup.\n\n#kit72h #preparation #europe #tousresponsables #kitdurgence",
+   "empreinte": "edcb0bde977b",
+   "signes": 668,
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-11-27",
+   "id": "13-inondation-sous-sol",
+   "titre": "Inondation : la voiture au sous-sol ?",
+   "format": "CAROUSEL",
+   "gabarit": "Vrai ou faux",
+   "pilier": "Réflexes « Que faire si… »",
+   "images": [
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/13-inondation-sous-sol-1.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/13-inondation-sous-sol-2.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/13-inondation-sous-sol-3.jpg"
+   ],
+   "legende": "Vrai ou faux : quand l'eau monte, on descend vite au parking mettre la voiture à l'abri ?\n\nFaux. Ne descendez jamais au sous-sol ni dans un parking souterrain : réfugiez-vous à l'étage, loin des points bas. Et ne prenez pas la voiture : moins de 30 cm d'eau suffisent à l'emporter.\n\nLes autres réflexes : ni à pied ni en voiture sur une route inondée, les enfants restent à l'école où ils sont en sécurité, et vous coupez gaz, chauffage et électricité dès que l'eau monte. Vous n'évacuez que sur ordre des autorités.\n\nSources : ministère de la Transition écologique, Météo-France.\n\nSe préparer, ce n'est pas prédire. La fiche inondation complète : lien en bio.\n\n#inondation #vigilancecrues #vraioufaux #preparation #kitdurgence",
+   "empreinte": "047abc80f3d2",
+   "signes": 727,
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-11-28",
+   "id": "reel-lampe",
+   "titre": "Le courant saute : la lampe du téléphone ?",
+   "format": "REELS",
+   "gabarit": "Reel",
+   "pilier": "Se préparer sans stress",
+   "video": null,
+   "thumb_offset": 0,
+   "share_to_feed": true,
+   "legende": "Le courant saute. Votre plan, c'est la lampe du téléphone ?\n\nPlus de 9 Français sur 10 n'ont pas de sac d'urgence prêt chez eux. Pourtant, une bonne partie du kit 72 h se trouve déjà dans vos placards : une lampe et des piles (plutôt que des bougies), une radio à piles, au moins 6 litres d'eau par personne, des repas sans cuisson, une trousse de secours et vos médicaments.\n\nRassemblez tout au même endroit, puis complétez. La liste officielle à cocher est gratuite : lien en bio.\n\nSources : Géorisques, SGDSN (guide « Tous responsables »), Croix-Rouge française (rapport 2024 sur la résilience).\n\nEnvoyez cette vidéo à celui qui éclaire avec son téléphone.\n\n#kitdurgence #coupuredecourant #kit72h #tousresponsables #preparation",
+   "empreinte": "534aea7b431a",
+   "signes": 730,
+   "note": "Version 1 produite le 24 novembre (fichier envoyé au porteur). À déposer dans le dépôt après validation : régénérer avec generateur-video-reel.md, encoder l'audio en AAC 128 kb/s sans liste d'édition, puis remplir « video ».",
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-11-29",
+   "id": "14-papiers-argent",
+   "titre": "Vos papiers en une pochette",
+   "format": "CAROUSEL",
+   "gabarit": "Fiche réflexe",
+   "pilier": "Se préparer sans stress",
+   "images": [
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/14-papiers-argent-1.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/14-papiers-argent-2.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/14-papiers-argent-3.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/14-papiers-argent-4.jpg"
+   ],
+   "legende": "Le plus rapide à préparer du kit 72 h : vos papiers. Une heure, une photocopieuse et une pochette.\n\nCopiez les pièces d'identité de chaque membre du foyer, le livret de famille, les ordonnances et les contrats d'assurance, et écrivez les numéros utiles sur papier. Rangez les copies dans une pochette vraiment étanche, avec un peu d'argent liquide en petites coupures. Les originaux restent à la maison, en lieu sûr.\n\nSources : Géorisques et SGDSN (liste officielle du kit 72 h).\n\nSe préparer, ce n'est pas prédire. La fiche papiers et argent liquide : lien en bio.\n\n#kit72h #kitdurgence #preparation #papiers #tousresponsables",
+   "empreinte": "d07a2c0f2bb8",
+   "signes": 627,
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-11-30",
+   "id": "reel-guerre",
+   "titre": "Guerre en France : ce que l'État a vraiment écrit",
+   "format": "REELS",
+   "gabarit": "Reel",
+   "pilier": "Comprendre l'officiel",
+   "video": "https://cdn.jsdelivr.net/gh/Ouzgane/kitvital-actualites@1135fb3c391109a9611cf3cddbff5fba070681af/reseaux/instagram/reel-guerre-v1.mp4",
+   "thumb_offset": 0,
+   "share_to_feed": true,
+   "legende": "Guerre en France : ce que l'État a vraiment écrit.\n\nLa Revue nationale stratégique 2025 l'écrit noir sur blanc : « La menace d'une guerre conventionnelle majeure sur le territoire national hexagonal n'est en revanche pas considérée comme crédible » (paragraphe 112). Le même texte évoque « un risque particulièrement élevé d'une guerre majeure de haute intensité en dehors du territoire national en Europe » à l'horizon 2030 (paragraphe 7).\n\nCe que l'État demande à chaque foyer, quelle que soit la crise : pouvoir tenir 72 heures. Au moins 6 litres d'eau par personne, une radio à piles, une lampe et des piles… La liste officielle complète, à cocher, est gratuite : lien en bio.\n\nSources : Revue nationale stratégique 2025 ; SGDSN, guide « Tous responsables » (novembre 2025) ; Géorisques.\n\nEnvoyez-la à un proche qui se pose la question.\n\n#kit72h #tousresponsables #preparation #securitecivile #kitdurgence",
+   "empreinte": "792944a82ac5",
+   "signes": 909,
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-12-01",
+   "id": "15-grand-froid",
+   "titre": "Grand froid : 5 réflexes",
+   "format": "CAROUSEL",
+   "gabarit": "Fiche réflexe",
+   "pilier": "Réflexes « Que faire si… »",
+   "images": [
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/15-grand-froid-1.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/15-grand-froid-2.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/15-grand-froid-3.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/15-grand-froid-4.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/15-grand-froid-5.jpg"
+   ],
+   "legende": "Grand froid : les 5 réflexes. Selon les agences régionales de santé, on parle de grand froid entre -10 et -18 °C ressentis.\n\n1. Plusieurs couches, avec la tête, le cou, les mains et les pieds.\n2. Limitez les sorties et les efforts, et évitez de sortir les bébés, même bien couverts.\n3. Chauffez sans surchauffer et aérez au moins une fois par jour.\n4. Jamais d'appareil de fortune pour vous chauffer : barbecue, brasero, réchaud ou groupe électrogène dégagent du monoxyde de carbone.\n5. Prenez des nouvelles des personnes âgées et isolées. Pour une personne à la rue, appelez le 115.\n\nFrissons, gestes maladroits, propos confus : appelez le 15 ou le 112.\n\nSources : ARS, Santé publique France, info.gouv.fr.\n\nSe préparer, ce n'est pas prédire. La fiche grand froid : lien en bio.\n\n#grandfroid #vaguedefroid #hiver #preparation #solidarite",
+   "empreinte": "0a88215c8250",
+   "signes": 838,
+   "lot": 1,
+   "statut": "a_valider"
+  },
+  {
+   "date": "2026-12-02",
+   "id": "06-premier-mercredi",
+   "titre": "Premier mercredi, la sirène",
+   "format": "CAROUSEL",
+   "images": [
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/06-premier-mercredi-1.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/06-premier-mercredi-2.jpg",
+    "https://raw.githubusercontent.com/Ouzgane/kitvital-actualites/main/reseaux/instagram/06-premier-mercredi-3.jpg"
+   ],
+   "lot": 1,
+   "statut": "tache_dediee",
+   "note": "Validée le 15 novembre ; publiée à 11 h 30 par la tâche trig_01HLb1jcETFdxCEtaRD8Cbar, avant le test des sirènes de midi."
+  }
+ ]
+}
