@@ -1,6 +1,16 @@
 {
-  "maj": "2026-11-24T04:59:51Z",
+  "maj": "2026-11-24T12:59:46Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-24",
+      "theme": "conflit",
+      "portee": "Golfe",
+      "autorite": "Euronews",
+      "titre": "L'Iran ordonne de fermer Ormuz « davantage, jour après jour » alors que le Qatar cherche à relancer les pourparlers de paix",
+      "resume": "Page en anglais, titre traduit. Le chef de l'armée iranienne a ordonné lundi à la marine de fermer davantage le détroit ; les Gardiens de la révolution affirment que trois pétroliers ont heurté des mines, fait non confirmé selon le JMIC.",
+      "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+    },
     {
       "date": "2026-11-23",
       "theme": "meteo",
@@ -458,16 +468,6 @@
       "titre": "Les États-Unis démentent la destruction d'un radar américain à Bahreïn par les Gardiens de la révolution",
       "resume": "Page en anglais, titre traduit. Les Gardiens de la révolution iraniens affirment avoir détruit un radar américain à Bahreïn ; selon le commandement américain, les deux drones lancés ont été abattus, sans blessé ni dégât.",
       "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-13",
-      "theme": "conflit",
-      "portee": "Iran",
-      "autorite": "Euronews",
-      "titre": "Des députés iraniens débattent d'un changement de doctrine nucléaire et d'une sortie du traité de non-prolifération",
-      "resume": "Page en anglais, titre traduit. Des députés et l'Assemblée des experts appellent à examiner un retrait du traité ; aucun texte n'a été voté et le ministère des Affaires étrangères dit l'Iran attaché au traité.",
-      "url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
     },
     {
       "date": "2026-11-12",
