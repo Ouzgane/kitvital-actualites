@@ -1,6 +1,25 @@
 {
-  "maj": "2026-11-25T05:00:38Z",
+  "maj": "2026-11-25T13:01:40Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-25",
+      "theme": "conflit",
+      "portee": "Iran",
+      "autorite": "Euronews",
+      "titre": "Les États-Unis demandent à leurs ressortissants de quitter l'Iran et avertissent que les hostilités pourraient s'intensifier rapidement",
+      "resume": "Page en anglais, titre traduit. Une alerte de l'ambassade virtuelle des États-Unis en Iran, publiée mercredi, demande aux Américains de quitter le pays immédiatement et de se préparer à des annulations de vols et fermetures d'espace aérien.",
+      "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast"
+    },
+    {
+      "date": "2026-11-24",
+      "theme": "sante",
+      "portee": "États-Unis",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Grippe A(H5N1) : États-Unis d'Amérique",
+      "resume": "Page en anglais, titre traduit. Trois cas humains de grippe A(H5N1) chez des employés de fermes laitières de l'État de Washington, dont un décès ; aucune transmission interhumaine, risque jugé faible pour la population générale.",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON629"
+    },
     {
       "date": "2026-11-24",
       "theme": "meteo",
@@ -476,16 +495,6 @@
       "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
       "resume": "Page en anglais, titre traduit. Au 12 novembre, la RDC a déclaré 11 197 cas confirmés dont 5 471 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
       "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-13",
-      "theme": "infrastructures",
-      "portee": "États-Unis",
-      "autorite": "ABC News",
-      "titre": "Levée de l'arrêt des vols dans tout le pays après plus de 4 heures : l'administration Trump met en cause une technologie ancienne et surchargée",
-      "resume": "Page en anglais, titre traduit. Aucun départ d'avion aux États-Unis de 15 h 54 à 20 h 15 (heure de New York) et des milliers de vols annulés ; le gouvernement accuse des routeurs surchargés, une cyberattaque ne semblant pas en cause.",
-      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
     },
     {
       "date": "2026-11-12",
