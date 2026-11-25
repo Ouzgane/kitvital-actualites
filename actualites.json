@@ -1,6 +1,25 @@
 {
-  "maj": "2026-11-24T12:59:46Z",
+  "maj": "2026-11-25T05:00:38Z",
   "entrees": [
+    {
+      "date": "2026-11-24",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Intensification des pluies en novembre 2026 : des niveaux de sécheresse différents selon les régions",
+      "resume": "Météo-France prévoit un mois de novembre proche des normales de pluie, voire excédentaire ; l'humidité des sols approche la normale, mais le quart nord-est et le sud-ouest restent fortement secs, à un niveau habituel vers la mi-octobre.",
+      "url": "https://meteofrance.com/actualites/intensification-des-pluies-en-novembre-2026-des-niveaux-de-secheresse-differents"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-24",
+      "theme": "conflit",
+      "portee": "Royaume-Uni",
+      "autorite": "Euronews",
+      "titre": "Le Royaume-Uni met en garde les fournisseurs de défense de l'Ukraine contre les sabotages russes",
+      "resume": "Page en anglais, titre traduit. Une alerte de l'agence britannique de sécurité protectrice (NPSA) et du ministère de la Défense, publiée mardi, signale plus de tentatives de sabotage russes contre des sites liés à la défense en Europe.",
+      "url": "https://www.euronews.com/2026/11/24/uk-warns-defence-suppliers-to-ukraine-over-russian-sabotage"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-24",
@@ -10,6 +29,15 @@
       "titre": "L'Iran ordonne de fermer Ormuz « davantage, jour après jour » alors que le Qatar cherche à relancer les pourparlers de paix",
       "resume": "Page en anglais, titre traduit. Le chef de l'armée iranienne a ordonné lundi à la marine de fermer davantage le détroit ; les Gardiens de la révolution affirment que trois pétroliers ont heurté des mines, fait non confirmé selon le JMIC.",
       "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+    },
+    {
+      "date": "2026-11-23",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Commission européenne (santé publique)",
+      "titre": "La Commission publie des feuilles de route sur les contre-mesures médicales pour renforcer la préparation de l'UE aux urgences sanitaires",
+      "resume": "Page en anglais, titre traduit. Cinq feuilles de route, chacune pour une menace type : grippe pandémique, Ebola et autres filovirus, dengue, entérobactéries résistantes aux carbapénèmes, menace chimique (agents neurotoxiques).",
+      "url": "https://health.ec.europa.eu/latest-updates/commission-publishes-medical-countermeasures-roadmaps-boost-eu-preparedness-health-emergencies-2026-11-23_en"
     },
     {
       "date": "2026-11-23",
@@ -458,16 +486,6 @@
       "titre": "Levée de l'arrêt des vols dans tout le pays après plus de 4 heures : l'administration Trump met en cause une technologie ancienne et surchargée",
       "resume": "Page en anglais, titre traduit. Aucun départ d'avion aux États-Unis de 15 h 54 à 20 h 15 (heure de New York) et des milliers de vols annulés ; le gouvernement accuse des routeurs surchargés, une cyberattaque ne semblant pas en cause.",
       "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-13",
-      "theme": "conflit",
-      "portee": "Moyen-Orient",
-      "autorite": "Euronews",
-      "titre": "Les États-Unis démentent la destruction d'un radar américain à Bahreïn par les Gardiens de la révolution",
-      "resume": "Page en anglais, titre traduit. Les Gardiens de la révolution iraniens affirment avoir détruit un radar américain à Bahreïn ; selon le commandement américain, les deux drones lancés ont été abattus, sans blessé ni dégât.",
-      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
     },
     {
       "date": "2026-11-12",
