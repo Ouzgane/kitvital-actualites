@@ -1,6 +1,36 @@
 {
-  "maj": "2026-11-26T05:08:03Z",
+  "maj": "2026-11-26T12:57:53Z",
   "entrees": [
+    {
+      "date": "2026-11-26",
+      "theme": "meteo",
+      "portee": "France",
+      "autorite": "Météo-France",
+      "titre": "Météo : temps hivernal sur le nord-est du pays",
+      "resume": "Gelées généralisées, parfois fortes, de jeudi à samedi, voire dimanche dans le Nord-Est, jusqu'à -6 °C près de la frontière belge vendredi au lever du jour ; du verglas peut se former sur les chaussées mouillées.",
+      "url": "https://meteofrance.com/actualites/meteo-temps-hivernal-sur-le-nord-est-du-pays",
+      "guide": "vague-de-froid"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-26",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Euronews (édition en russe)",
+      "titre": "Morts et blessés sous les frappes russes sur Kharkiv, Kyiv et la région de Donetsk",
+      "resume": "Page en russe, titre traduit. Selon Euronews, une frappe russe a tué 2 personnes dans un immeuble de Kharkiv le 26 novembre au matin et une frappe de missile a blessé 7 personnes à Kyiv ; 1 mort et 3 blessés dans la région de Donetsk.",
+      "url": "https://ru.euronews.com/2026/11/26/ru-killed-and-injured-in-russian-attacks-on-kharkiv-kyiv-and-the-donetsk-region"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-26",
+      "theme": "infrastructures",
+      "portee": "Danemark",
+      "autorite": "Euronews (avec l'AFP)",
+      "titre": "Nouvelle fuite de données au Danemark : 11 000 personnes touchées malgré le renforcement de la sécurité",
+      "resume": "Page en anglais, titre traduit. Le ministère danois du Numérique indique que des tiers non autorisés ont consulté les données du registre national (CPR) de 11 000 personnes ; l'accès a été stoppé par un nouveau système de surveillance.",
+      "url": "https://www.euronews.com/2026/11/26/new-danish-data-breach-hits-11000-despite-security-upgrades"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-26",
@@ -431,16 +461,6 @@
       "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
     },
     {
-      "nature": "evenement",
-      "date": "2026-11-16",
-      "theme": "conflit",
-      "portee": "Moyen-Orient",
-      "autorite": "Euronews",
-      "titre": "Les États-Unis et l'Iran glissent vers une nouvelle guerre ouverte à mesure que les échanges de tirs s'intensifient",
-      "resume": "Page en anglais, titre traduit. Frappes américaines dans le sud de l'Iran dimanche soir ; selon les Gardiens de la révolution, six pétroliers ont pris feu à Ormuz depuis dimanche, sans confirmation indépendante. Le pétrole a monté lundi.",
-      "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
-    },
-    {
       "date": "2026-11-15",
       "theme": "sante",
       "portee": "République démocratique du Congo",
@@ -448,16 +468,6 @@
       "titre": "Six mois après, l'accès aux communautés difficiles à atteindre est essentiel pour enrayer l'épidémie d'Ebola",
       "resume": "Page en anglais, titre traduit. Six mois après le début de l'épidémie due au virus Bundibugyo, l'OMS compte plus de 11 000 cas et 5 400 décès en RDC, avec 400 à 500 nouveaux cas encore signalés chaque semaine.",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-15",
-      "theme": "conflit",
-      "portee": "Estonie",
-      "autorite": "Euronews",
-      "titre": "Un fabricant estonien de drones visé par une tentative de sabotage « commanditée par le GRU », selon le Premier ministre",
-      "resume": "Page en anglais, titre traduit. La tentative visait samedi à provoquer explosion et incendie chez l'entreprise Threod ; les auteurs présumés sont détenus et l'Estonie se prépare à une possible fermeture de sa frontière avec la Russie.",
-      "url": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says"
     },
     {
       "date": "2026-11-13",
