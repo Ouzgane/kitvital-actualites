@@ -1,14 +1,14 @@
 {
-  "maj": "2026-11-25T05:02:12Z",
-  "releve": "2026-11-25",
+  "maj": "2026-11-26T05:07:48Z",
+  "releve": "2026-11-26",
   "annee": 2026,
   "valeurs": {
     "brent": {
       "v": 96.3,
       "environ": true,
-      "periode": "janvier au 17 novembre 2026",
+      "periode": "janvier au 24 novembre 2026",
       "source": {
-        "titre": "Prix quotidiens du Brent, du 2 janvier au 17 novembre 2026 (EIA, via FRED, série DCOILBRENTEU)",
+        "titre": "Prix quotidiens du Brent, du 2 janvier au 24 novembre 2026 (EIA, via FRED, série DCOILBRENTEU)",
         "url": "https://fred.stlouisfed.org/data/DCOILBRENTEU"
       }
     },
@@ -29,27 +29,27 @@
   "actus": {
     "guerre-europe": [
       {
+        "date": "2026-11-25",
+        "texte": "Selon le bilan des autorités ukrainiennes du 25 novembre, une attaque russe de drones a tué au moins 7 personnes dans six régions. Un site de production de gaz de Naftogaz, dans la région de Poltava, et une centrale thermique de DTEK ont été touchés. Kyiv dit avoir frappé trois raffineries russes.",
+        "source": {
+          "titre": "Les frappes russes tuent sept personnes en Ukraine, Kyiv frappe trois raffineries (Euronews, 25 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries"
+        }
+      },
+      {
+        "date": "2026-11-24",
+        "texte": "Selon l'ONU, au moins 7 civils ont été tués et près de 80 blessés en Ukraine en 24 heures, d'après les autorités. À Odessa, environ 80 000 foyers et entreprises sont privés de chauffage, et plus de 460 centres de réchauffement ont ouvert.",
+        "source": {
+          "titre": "En bref : crise des vaccins au Yémen, aide à l'Ukraine, un employé de l'UNRWA tué (ONU Info, 24 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168871"
+        }
+      },
+      {
         "date": "2026-11-24",
         "texte": "Le Royaume-Uni publie une alerte de sécurité pour les entreprises qui fournissent l'Ukraine : selon l'agence de sécurité protectrice (NPSA) et le ministère de la Défense, la Russie multiplie depuis quelques mois les tentatives de sabotage contre des sites liés à la défense en Europe, par exemple des incendies.",
         "source": {
           "titre": "Le Royaume-Uni met en garde les fournisseurs de défense de l'Ukraine contre les sabotages russes (Euronews, 24 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/24/uk-warns-defence-suppliers-to-ukraine-over-russian-sabotage"
-        }
-      },
-      {
-        "date": "2026-11-23",
-        "texte": "Selon les autorités ukrainiennes, des frappes russes ont tué au moins 15 personnes dans la région de Kyiv : au moins 11 dans un immeuble de Dymer, trois dans un supermarché de Vyshneve, où 15 personnes ont été blessées, et une à Bila Tserkva.",
-        "source": {
-          "titre": "Des frappes aériennes russes tuent au moins 15 personnes dans la région de Kyiv, selon l'Ukraine (Euronews, 23 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"
-        }
-      },
-      {
-        "date": "2026-11-23",
-        "texte": "La Finlande convoque l'ambassadeur de Russie : un hélicoptère russe est soupçonné d'avoir violé son espace aérien le 21 novembre au large de Loviisa, peut-être pour le cargo Sparta II, touché par des drones ce jour-là. Le 22 novembre, le cargo était remorqué par un navire russe, selon les garde-frontières finlandais.",
-        "source": {
-          "titre": "La Finlande convoque l'ambassadeur de Russie et condamne ses actions « dangereuses et imprudentes » en Europe (Euronews, 23 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/23/finland-summons-russian-ambassador-as-it-condemns-russias-dangerous-and-reckless-actions-i"
         }
       },
       {
@@ -71,6 +71,14 @@
     ],
     "climat": [
       {
+        "date": "2026-11-25",
+        "texte": "Selon le bulletin national de Vigicrues du 25 novembre à 9 h 55, la vigilance crues est au plus orange, sur le Gapeau (Var) : après un épisode méditerranéen, le Gapeau et le Real Martin sont en crue importante, et une réactivation est attendue l'après-midi dans le Vaucluse, le Var et les Alpes-Maritimes.",
+        "source": {
+          "titre": "Bulletin national de vigilance crues du 25 novembre 2026 à 9 h 55 (Vigicrues)",
+          "url": "https://www.vigicrues.gouv.fr/bulletin_national"
+        }
+      },
+      {
         "date": "2026-11-24",
         "texte": "Météo-France prévoit un mois de novembre proche des normales de pluie, voire excédentaire. L'humidité des sols approche enfin la normale, mais le quart nord-est et le sud-ouest restent fortement secs, à un niveau habituel vers la mi-octobre.",
         "source": {
@@ -84,14 +92,6 @@
         "source": {
           "titre": "Météo : nouvelles pluies dans le Sud-Est et arrivée d'un temps hivernal (Météo-France, 23 novembre 2026)",
           "url": "https://meteofrance.com/actualites/meteo-nouvelles-pluies-dans-le-sud-est-et-arrivee-dun-temps-hivernal"
-        }
-      },
-      {
-        "date": "2026-11-23",
-        "texte": "Selon le bulletin national de Vigicrues du 23 novembre à 21 h 55, la vigilance crues est au plus jaune : la Canche redescend en jaune après des débordements dommageables près de Brimeux et Beutin (Pas-de-Calais), et la Vire réagit modérément en Normandie.",
-        "source": {
-          "titre": "Bulletin d'information national de vigilance crues du 23 novembre 2026 à 21 h 55 (Vigicrues)",
-          "url": "https://www.vigicrues.gouv.fr/bulletin_national"
         }
       },
       {
@@ -113,11 +113,27 @@
     ],
     "energie": [
       {
-        "date": "2026-11-24",
-        "texte": "Le 24 novembre à 9 h, 4 % des stations-service de France manquent d'au moins un carburant, contre 5 % la veille au matin ; 10 % dans le Grand Est, 8 % en Bourgogne-Franche-Comté, 6 % en Centre-Val de Loire et en Île-de-France.",
+        "date": "2026-11-25",
+        "texte": "Le 25 novembre à 9 h, 3 % des stations-service de France manquent d'au moins un carburant, contre 4 % le 23 novembre à 17 h ; 7 % dans le Grand Est, 6 % en Bourgogne-Franche-Comté, 5 % en Centre-Val de Loire et en Île-de-France.",
         "source": {
-          "titre": "Disponibilités carburants, relevé du 24 novembre 2026 à 9 h (prix-carburants.gouv.fr, site gouvernemental)",
+          "titre": "Disponibilités carburants, relevé du 25 novembre 2026 à 9 h (prix-carburants.gouv.fr)",
           "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
+        }
+      },
+      {
+        "date": "2026-11-24",
+        "texte": "Selon les prix quotidiens de l'EIA publiés par la Réserve fédérale de Saint-Louis, le Brent s'échange entre 90,16 et 107,39 $ du 2 au 24 novembre, et à 91,80 $ le 24 novembre. Du 2 janvier au 24 novembre 2026, sa moyenne est d'environ 96,3 $.",
+        "source": {
+          "titre": "Prix quotidiens du Brent, du 2 janvier au 24 novembre 2026 (EIA, via FRED, série DCOILBRENTEU)",
+          "url": "https://fred.stlouisfed.org/data/DCOILBRENTEU"
+        }
+      },
+      {
+        "date": "2026-11-24",
+        "texte": "Le commissaire européen à l'énergie, Dan Jørgensen, prévient que l'hiver sera difficile à la pompe, avec une essence, un gazole et un gaz plus chers. Il juge que l'Europe doit se préparer au pire si le détroit d'Ormuz reste fermé, et confirme la fin prévue des importations de gaz russe l'an prochain.",
+        "source": {
+          "titre": "L'Union ne reviendra pas à l'énergie russe, quelle que soit l'issue des pourparlers, dit Dan Jørgensen (Euronews, 24 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur"
         }
       },
       {
@@ -129,37 +145,29 @@
         }
       },
       {
-        "date": "2026-11-19",
-        "texte": "Dans son World Energy Outlook, l'Agence internationale de l'énergie juge que la crise du détroit d'Ormuz est la plus grande menace pour la sécurité énergétique de l'histoire, au-delà des chocs pétroliers des années 1970 : les États ont subi des prix plus élevés et parfois des manques d'approvisionnement.",
-        "source": {
-          "titre": "Le conflit au Moyen-Orient, plus grande menace de l'histoire pour la sécurité énergétique selon l'AIE (Euronews, avec l'AFP, 19 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns"
-        }
-      },
-      {
         "date": "2026-11-18",
         "texte": "RTE estime que la sécurité d'approvisionnement en électricité ne nécessite pas de vigilance particulière pour l'hiver 2026-2027 et juge le risque de déséquilibre faible, malgré des stocks hydrauliques sous 50 % début novembre, contre 70 % en moyenne ; le nucléaire disposerait de 48,5 GW en moyenne de novembre à mars.",
         "source": {
           "titre": "Électricité : « pas de vigilance particulière » cet hiver selon le gestionnaire de réseau (Connaissance des énergies, 18 novembre 2026)",
           "url": "https://www.connaissancedesenergies.org/securite-dapprovisionnement-electrique-pas-de-vigilance-particuliere-cet-hiver"
         }
-      },
-      {
-        "date": "2026-11-17",
-        "texte": "Selon les prix quotidiens de l'EIA publiés par la Réserve fédérale de Saint-Louis, le Brent s'échange entre 90,16 et 107,39 $ du 2 au 17 novembre, après 123,93 $ en moyenne en octobre. Du 2 janvier au 17 novembre 2026, sa moyenne est d'environ 96,3 $.",
-        "source": {
-          "titre": "Prix quotidiens du Brent, du 2 janvier au 17 novembre 2026 (EIA, via FRED, série DCOILBRENTEU)",
-          "url": "https://fred.stlouisfed.org/data/DCOILBRENTEU"
-        }
       }
     ],
     "epidemies": [
       {
-        "date": "2026-11-24",
-        "texte": "Selon l'OMS, des équipes de riposte contre Ebola sont abritées depuis samedi dans une maternité de l'Ituri : les combats et des pluies torrentielles ont empêché de les déplacer en sécurité. D'après le dernier point de l'OMS, la RDC compte 11 613 cas confirmés et 5 678 décès.",
+        "date": "2026-11-25",
+        "texte": "Santé publique France, bulletin du 25 novembre : la grippe progresse dans toutes les classes d'âge et la plupart des régions de métropole sont en phase pré-épidémique ; la bronchiolite est en épidémie en Île-de-France ; le covid-19 augmente, avec un impact limité sur le recours aux soins.",
         "source": {
-          "titre": "RDC : inquiétude pour les équipes Ebola bloquées, alors que les violences contre les femmes et les filles s'aggravent (ONU Info, 24 novembre 2026)",
-          "url": "https://news.un.org/en/story/2026/11/1168865"
+          "titre": "Infections respiratoires aiguës, bulletin du 25 novembre 2026 (Santé publique France, page en anglais)",
+          "url": "https://www.santepubliquefrance.fr/en/flu/national-bulletin/acute-respiratory-infections-flu-bronchiolitis-covid-19-bulletin-dated-november-25-2026"
+        }
+      },
+      {
+        "date": "2026-11-23",
+        "texte": "Selon l'OMS, la RDC compte 11 762 cas confirmés d'Ebola et 5 775 décès au 20 novembre, dans huit provinces ; l'Ituri concentre plus des deux tiers des cas. Des combats près d'un hôpital de l'Ituri ont bloqué des équipes de riposte ; l'OMS compte plus de 87 attaques contre des structures de santé depuis janvier.",
+        "source": {
+          "titre": "De violents combats en Ituri bloquent des équipes de riposte contre Ebola, selon l'OMS (ONU Info, 23 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168858"
         }
       },
       {
@@ -179,14 +187,6 @@
         }
       },
       {
-        "date": "2026-11-18",
-        "texte": "Santé publique France, semaine du 9 au 15 novembre : la grippe est en phase pré-épidémique en Île-de-France et dans les Hauts-de-France, la bronchiolite aussi en Normandie ; le covid-19 est en nette hausse, avec un recours aux soins et un impact sur les décès encore faibles.",
-        "source": {
-          "titre": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19), bulletin du 18 novembre 2026 (Santé publique France)",
-          "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-11/bullnat_ira_20261118.pdf"
-        }
-      },
-      {
         "date": "2026-11-16",
         "texte": "Selon l'ECDC, la RDC compte 11 376 cas confirmés d'Ebola, dont 5 568 décès, au 15 novembre. Quatre malades ont été évacués ou importés dans l'Union depuis mai, dont un en France en juillet ; le risque reste jugé très faible pour la population européenne.",
         "source": {
@@ -196,6 +196,22 @@
       }
     ],
     "conflits-monde": [
+      {
+        "date": "2026-11-26",
+        "texte": "Selon l'UKMTO, un projectile non identifié a explosé le 25 novembre au soir près d'un pétrolier, à environ 50 milles nautiques à l'ouest de Dubaï, sans blessé. Les Houthis disent avoir visé Riyad et la raffinerie saoudienne de Ras Tanura ; l'Arabie saoudite dit avoir intercepté deux missiles visant la capitale.",
+        "source": {
+          "titre": "Explosion d'un projectile non identifié près d'un pétrolier à l'ouest de Dubaï (Euronews en persan, 26 novembre 2026)",
+          "url": "https://parsi.euronews.com/2026/11/26/unknown-projectile-explosion-near-tanker-west-dubai-houthi-saudi-attacks"
+        }
+      },
+      {
+        "date": "2026-11-25",
+        "texte": "Les États-Unis demandent à leurs ressortissants de quitter l'Iran immédiatement : leur ambassade virtuelle avertit que les hostilités pourraient s'intensifier rapidement, après des attaques iraniennes contre des sites américains à Bahreïn et au Koweït.",
+        "source": {
+          "titre": "Les États-Unis demandent à leurs ressortissants de quitter l'Iran (Euronews, 25 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast"
+        }
+      },
       {
         "date": "2026-11-24",
         "texte": "Le chef de l'armée iranienne ordonne de fermer Ormuz « davantage, jour après jour » jusqu'à satisfaction de ses sept conditions. Les Gardiens de la révolution disent que trois pétroliers ont heurté des mines lundi ; le JMIC ne le confirme pas et relève 114 passages assistés par les États-Unis du 19 au 21 novembre.",
@@ -213,30 +229,6 @@
         }
       },
       {
-        "date": "2026-11-23",
-        "texte": "L'Iran qualifie le blocus naval américain d'« agression militaire » et promet de le contrer par « tous les moyens », après que Donald Trump a dit que les navires qui tenteraient de le forcer iraient « au fond de la mer ». Selon Téhéran, Ormuz pourrait rouvrir deux heures après que Washington aura tenu ses engagements.",
-        "source": {
-          "titre": "L'Iran promet « tous les moyens » pour contrer le blocus américain d'Ormuz après une menace de Donald Trump (Euronews, 23 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
-        }
-      },
-      {
-        "date": "2026-11-23",
-        "texte": "Au port de Benghazi, en Libye, un navire de guerre russe a coulé le 22 novembre après des frappes de drones navals revendiquées par l'Ukraine, et un navire de commerce a été touché. La mission de l'ONU en Libye demande une enquête immédiate, indépendante et transparente.",
-        "source": {
-          "titre": "Libye : la mission de l'ONU demande une enquête sur les attaques du port de Benghazi (ONU Info, 23 novembre 2026)",
-          "url": "https://news.un.org/en/story/2026/11/1168857"
-        }
-      },
-      {
-        "date": "2026-11-21",
-        "texte": "Le 21 novembre, selon les médias iraniens, l'Iran vise quatre bases américaines à Bahreïn ; Bahreïn dit avoir intercepté plusieurs tirs, sans blessé, un incendie touchant un site industriel civil. L'UKMTO signale deux pétroliers touchés par des projectiles en quittant le Golfe, sans victime.",
-        "source": {
-          "titre": "L'Iran attaque des bases américaines à Bahreïn alors que ses pétroliers se préparent à briser le blocus (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
-        }
-      },
-      {
         "date": "2026-06-09",
         "texte": "L'UCDP compte 65 conflits impliquant un État en 2025, le plus haut niveau depuis 1946, dont 8 conflits entre États. Environ 244 600 personnes ont été tuées dans des violences organisées.",
         "source": {
@@ -247,19 +239,19 @@
     ],
     "nucleaire": [
       {
+        "date": "2026-11-25",
+        "texte": "Selon des renseignements occidentaux rapportés par Euronews, la Russie pourrait lancer dans les semaines à venir un satellite à capacité nucléaire. Moscou dément et dit respecter ses obligations internationales ; Mark Rutte assure que la défense de l'OTAN couvre aussi les menaces spatiales.",
+        "source": {
+          "titre": "Trump annonce de nouveaux droits de douane, sur fond de menace nucléaire russe dans l'espace (Euronews, 25 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat"
+        }
+      },
+      {
         "date": "2026-11-24",
         "texte": "Dans une déclaration commune, le Qatar et l'Allemagne appellent l'Iran à coopérer pleinement avec l'AIEA et rejettent toute fermeture d'Ormuz. Téhéran convoque le chargé d'affaires qatari et juge les accusations « totalement infondées et inacceptables » ; Doha dit poursuivre sa médiation.",
         "source": {
           "titre": "Le Qatar dit qu'il « n'acceptera pas » d'attaques après les protestations de l'Iran contre sa déclaration commune avec l'Allemagne (Euronews, 24 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german"
-        }
-      },
-      {
-        "date": "2026-11-21",
-        "texte": "Donald Trump dit le 21 novembre vouloir conclure avec l'Iran un accord permanent qui l'empêche d'obtenir l'arme nucléaire. Une délégation du Qatar a discuté environ deux heures avec des responsables iraniens la veille au soir.",
-        "source": {
-          "titre": "L'Iran attaque des bases américaines à Bahreïn alors que ses pétroliers se préparent à briser le blocus (Euronews, 21 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
         }
       },
       {
@@ -290,6 +282,14 @@
     "cyberattaques": [
       {
         "date": "2026-11-24",
+        "texte": "À Rome, la secrétaire générale adjointe de l'OTAN appelle les entreprises qui font fonctionner l'électricité et l'eau à se préparer aux cyberattaques, sabotages et brouillages GPS : plans de crise clairs, exercices communs avec les pouvoirs publics, information des salariés sur le niveau de menace.",
+        "source": {
+          "titre": "Discours de la secrétaire générale adjointe de l'OTAN au symposium sur la résilience, Rome (OTAN, 24 novembre 2026)",
+          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2026/11/24/keynote-speech-by-the-nato-deputy-secretary-general-at-the-nato-resilience-symposium"
+        }
+      },
+      {
+        "date": "2026-11-24",
         "texte": "Selon le Wall Street Journal, cité par CBS News, les États-Unis enquêtent sur des cyberattaques qui auraient visé jusqu'à 50 navires, dont des pétroliers ; l'Iran est le principal suspect, la Russie une piste possible.",
         "source": {
           "titre": "L'Iran dit qu'il utilisera tous les moyens pour mettre fin au blocus américain, suivi en direct (CBS News, 24 novembre 2026)",
@@ -302,14 +302,6 @@
         "source": {
           "titre": "Exclusif : des pirates soutenus par la Chine soupçonnés d'être derrière la cyberattaque en cours contre la Commission européenne (Euronews, 23 novembre 2026)",
           "url": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack"
-        }
-      },
-      {
-        "date": "2026-11-22",
-        "texte": "Selon une carte de DigitalEurope relayée par Euronews, 16 incidents ont visé l'Europe du 18 octobre au 18 novembre : 11 cyberattaques, dont la mise en dégivrage de congélateurs de supermarchés début novembre, et 5 actions physiques. Sept n'ont aucun auteur désigné, trois ont été publiquement attribués.",
-        "source": {
-          "titre": "Congélateurs chauffés, GPS perdu et fausses alertes à la bombe : un mois de cyberattaques en Europe (Euronews, 22 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/22/hot-freezers-lost-gps-and-fake-bombs-europes-month-of-cyberattacks"
         }
       },
       {
@@ -374,43 +366,43 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-25",
-      "texte": "Les frappes russes se poursuivent en Ukraine : au moins 15 morts dans la région de Kyiv selon le bilan ukrainien du 23 novembre. Ailleurs en Europe, les actions dites hybrides continuent : le Royaume-Uni a publié le 24 novembre une alerte de sécurité pour les entreprises qui fournissent l'Ukraine, face à des tentatives de sabotage russes, et la Finlande a convoqué l'ambassadeur de Russie. Le score du domaine reste à 90, porté par les 2 957 civils tués en Ukraine de janvier à octobre selon l'ONU.",
-      "aSurveiller": "Le point de l'ONU sur les civils tués en novembre, attendu mi-décembre, de nouveaux incidents de drones ou de sabotage dans un pays de l'Union, et un éventuel cessez-le-feu, qui ferait baisser le score."
+      "date": "2026-11-26",
+      "texte": "Les frappes russes sur l'Ukraine visent toujours l'énergie : au moins 7 morts selon le bilan ukrainien du 25 novembre, un site gazier et une centrale thermique touchés, et environ 80 000 foyers et entreprises sans chauffage à Odessa selon l'ONU. L'Ukraine frappe de son côté des raffineries russes. Hors d'Ukraine, les actions dites hybrides se poursuivent, comme l'a rappelé l'alerte britannique du 24 novembre sur les sabotages. Le score du domaine reste à 90, porté par les 2 957 civils tués de janvier à octobre selon l'ONU.",
+      "aSurveiller": "Le point de l'ONU sur les civils tués en novembre, attendu mi-décembre, de nouvelles frappes sur le réseau énergétique ukrainien avec le froid, et tout incident de drone ou de sabotage dans un pays de l'Union."
     },
     "climat": {
-      "date": "2026-11-25",
-      "texte": "Selon Météo-France, novembre devrait finir près des normales de pluie, voire au-dessus : l'humidité des sols approche la normale, mais le quart nord-est et le sud-ouest restent fortement secs. Un temps hivernal s'installe, avec de la neige sur les Alpes et des pluies verglaçantes possibles au nord-est. Dans le Pas-de-Calais, la Canche est redescendue en vigilance jaune après des débordements. Le score ne change pas.",
-      "aSurveiller": "Les vigilances neige-verglas, grand froid et pluie-inondation de Météo-France dans les prochains jours, notamment dans le Sud-Est, et le bilan mensuel de Copernicus, début décembre."
+      "date": "2026-11-26",
+      "texte": "Un épisode méditerranéen a touché le Var dans la nuit du 24 au 25 novembre : selon Vigicrues, le Gapeau et le Real Martin étaient en crue importante le 25 au matin, en vigilance orange, avec une réactivation attendue l'après-midi dans le Vaucluse, le Var et les Alpes-Maritimes. Ailleurs, un temps hivernal s'installe, et Météo-France note que les sols se rapprochent des normales mais restent secs dans le nord-est et le sud-ouest. Le score ne change pas.",
+      "aSurveiller": "Les vigilances pluie-inondation, crues et neige-verglas de Météo-France et de Vigicrues, dans le Sud-Est et le nord-est, et le bilan mensuel de Copernicus, début décembre."
     },
     "energie": {
-      "date": "2026-11-25",
-      "texte": "La disponibilité des carburants se détend un peu : le 24 novembre à 9 h, 4 % des stations manquaient d'au moins un carburant, contre 5 % la veille, mais encore 10 % dans le Grand Est. L'Iran ordonne de fermer davantage le détroit d'Ormuz. Le Brent, publié jusqu'au 17 novembre, est à 96 $ en moyenne depuis janvier, et les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans ; la Commission ne relève pas de risque pour l'approvisionnement cet hiver. Le score reste à 59.",
-      "aSurveiller": "Les stations en difficulté dans le Grand Est, la consommation de gaz et les signaux Ecowatt de RTE avec l'arrivée du froid, et le passage des pétroliers à Ormuz."
+      "date": "2026-11-26",
+      "texte": "La disponibilité des carburants continue de s'améliorer : le 25 novembre à 9 h, 3 % des stations manquaient d'au moins un carburant, 7 % dans le Grand Est. Le Brent, publié jusqu'au 24 novembre, est autour de 92 $ et sa moyenne depuis janvier d'environ 96 $ ; le commissaire européen à l'énergie prévient d'un hiver difficile à la pompe. Les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans, sans risque relevé par la Commission pour l'approvisionnement cet hiver. Le score reste à 59.",
+      "aSurveiller": "Les stations en difficulté dans le Grand Est, la consommation de gaz et les signaux Ecowatt de RTE avec le froid, et les attaques contre les installations pétrolières du Golfe."
     },
     "epidemies": {
-      "date": "2026-11-25",
-      "texte": "L'épidémie d'Ebola due au virus Bundibugyo continue en RDC, avec 11 613 cas confirmés et 5 678 décès selon le dernier point de l'OMS ; en Ituri, des équipes de riposte sont bloquées depuis samedi par les combats. L'urgence de santé publique de portée internationale est maintenue, et l'ECDC juge le risque très faible pour la population de l'Union. La Commission a publié des feuilles de route pour préparer l'Union aux urgences sanitaires. Le score ne change pas.",
-      "aSurveiller": "Le prochain point de l'OMS sur Ebola et le retour des équipes en Ituri, et le bulletin de Santé publique France sur la grippe et la bronchiolite, attendu cette semaine."
+      "date": "2026-11-26",
+      "texte": "L'épidémie d'Ebola due au virus Bundibugyo continue en RDC : 11 762 cas confirmés et 5 775 décès au 20 novembre selon l'OMS, dont plus des deux tiers en Ituri, où des équipes de riposte ont été bloquées par les combats. L'urgence de santé publique de portée internationale est maintenue, et l'ECDC juge le risque très faible pour la population de l'Union. En France, la grippe progresse, la plupart des régions sont en phase pré-épidémique et l'Île-de-France est en épidémie de bronchiolite. Le score ne change pas.",
+      "aSurveiller": "Le prochain point de l'OMS sur Ebola, et le prochain bulletin de Santé publique France, attendu la semaine prochaine, pour un éventuel passage de la grippe en phase épidémique."
     },
     "conflits-monde": {
-      "date": "2026-11-25",
-      "texte": "Le détroit d'Ormuz reste le principal foyer de tension : l'Iran ordonne de le fermer « davantage, jour après jour » tant que ses conditions ne sont pas remplies, et les incidents se succèdent, avec un pétrolier touché lundi au large des Émirats selon l'UKMTO, sans victime signalée. Le centre d'information maritime JMIC a compté 114 passages assistés par les États-Unis du 19 au 21 novembre, et le Qatar poursuit sa médiation. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
-      "aSurveiller": "La sécurité du passage à Ormuz et le sort des pétroliers iraniens face au blocus américain, la médiation du Qatar, et d'éventuelles nouvelles attaques contre des navires en Méditerranée et en mer Noire."
+      "date": "2026-11-26",
+      "texte": "Le Golfe reste le principal foyer de tension : le 25 novembre au soir, un projectile non identifié a explosé près d'un pétrolier à l'ouest de Dubaï, sans blessé selon l'UKMTO, et les Houthis disent avoir visé Riyad et la raffinerie saoudienne de Ras Tanura. Les États-Unis demandent à leurs ressortissants de quitter l'Iran, et Téhéran ordonne de fermer davantage le détroit d'Ormuz. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
+      "aSurveiller": "Le passage des navires à Ormuz et en mer Rouge, l'extension des attaques entre Houthis et Arabie saoudite aux installations pétrolières, et la médiation du Qatar."
     },
     "nucleaire": {
-      "date": "2026-11-25",
-      "texte": "Le programme nucléaire iranien reste lié à la crise d'Ormuz : le Qatar et l'Allemagne ont appelé l'Iran à coopérer pleinement avec l'AIEA, et Téhéran juge leurs accusations infondées ; Washington veut un accord permanent qui empêche l'Iran d'obtenir l'arme nucléaire, et l'Iran refuse toujours une coopération inconditionnelle avec l'AIEA. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut, et le score ne change pas.",
-      "aSurveiller": "Le retour des inspecteurs de l'AIEA en Iran, une reprise des discussions sur son programme nucléaire, et d'éventuels échanges sur le contrôle des armes entre Washington, Pékin et Moscou."
+      "date": "2026-11-26",
+      "texte": "Selon des informations de renseignement occidentales rapportées par Euronews, la Russie préparerait le lancement d'un satellite à capacité nucléaire ; Moscou dément, et Mark Rutte assure que la défense de l'OTAN couvre aussi l'espace. Le dossier iranien reste bloqué : l'Iran refuse toujours une coopération sans condition avec l'AIEA. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut et le score ne change pas.",
+      "aSurveiller": "Une confirmation ou un démenti du lancement d'un satellite russe à capacité nucléaire, le retour des inspecteurs de l'AIEA en Iran, et toute reprise d'échanges sur le contrôle des armes."
     },
     "cyberattaques": {
-      "date": "2026-11-25",
-      "texte": "Les cyberattaques touchent aussi la navigation : selon le Wall Street Journal, cité par CBS News, les États-Unis enquêtent sur des attaques informatiques qui auraient visé jusqu'à 50 navires, l'Iran étant le principal suspect. L'intrusion contre la Commission européenne, détectée le 22 octobre, n'est toujours pas entièrement contenue. Aucun nouveau sabotage n'a été relevé en France depuis le 9 novembre ; le score ne change pas, il repose sur les incidents traités par l'ANSSI en 2025.",
-      "aSurveiller": "Les conclusions des enquêtes sur la Commission européenne et sur les navires visés, d'éventuels messages d'hameçonnage visant les utilisateurs de l'EU Academy, et le Panorama 2026 de l'ANSSI, attendu début 2027."
+      "date": "2026-11-26",
+      "texte": "Le 24 novembre, l'OTAN a demandé aux entreprises qui assurent l'électricité et l'eau de se préparer aux cyberattaques, sabotages et brouillages GPS, avec des plans de crise et des exercices communs avec les pouvoirs publics. Les États-Unis enquêtent sur des attaques informatiques qui auraient visé jusqu'à 50 navires, et l'intrusion contre la Commission européenne n'est pas entièrement contenue. Aucun nouveau sabotage n'a été relevé en France depuis le 9 novembre ; le score ne change pas, il repose sur les incidents traités par l'ANSSI en 2025.",
+      "aSurveiller": "Les conclusions des enquêtes sur la Commission européenne et sur les navires visés, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-25",
-      "texte": "Aucun nouvel attentat dans l'Union n'a été relevé depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet polonais. En France, le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », depuis le 22 juin, avec une attention particulière aux zones d'affluence à l'approche des fêtes de Noël. Le score ne change pas, faute de nouveau chiffre.",
+      "date": "2026-11-26",
+      "texte": "Aucun nouvel attentat dans l'Union n'a été relevé depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet polonais. En France, le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », depuis le 22 juin, avec une attention particulière aux zones d'affluence à l'approche des fêtes de Noël et de l'ouverture des marchés. Le score ne change pas, faute de nouveau chiffre.",
       "aSurveiller": "Un passage de Vigipirate au stade « alerte attentat », et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
   },
@@ -599,6 +591,20 @@
     },
     {
       "date": "2026-11-25",
+      "global": 65.83,
+      "dimensions": {
+        "guerre-europe": 89.52,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-26",
       "global": 65.83,
       "dimensions": {
         "guerre-europe": 89.52,
