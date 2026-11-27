@@ -1,6 +1,26 @@
 {
-  "maj": "2026-11-27T05:24:13Z",
+  "maj": "2026-11-27T13:03:09Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-27",
+      "theme": "conflit",
+      "portee": "Lettonie",
+      "autorite": "Euronews (avec l'AFP)",
+      "titre": "Des avions de l'OTAN décollent après l'entrée brève d'un drone dans l'espace aérien letton",
+      "resume": "Page en anglais, titre traduit. Selon l'armée lettone, un drone non identifié a brièvement survolé la municipalité de Ludza dans la nuit ; alerte orange pour les habitants de 2 h 30 à 2 h 55 ; l'origine du drone n'est pas précisée.",
+      "url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-27",
+      "theme": "conflit",
+      "portee": "Koweït",
+      "autorite": "Euronews",
+      "titre": "L'Iran dément être responsable de la frappe de drones au Koweït qui a tué deux Italiens",
+      "resume": "Page en anglais, titre traduit. Selon le ministre italien Antonio Tajani, des drones ont frappé des installations militaires koweïtiennes, tuant deux spécialistes italiens ; l'Iran dément et propose une enquête conjointe.",
+      "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
+    },
     {
       "date": "2026-11-26",
       "theme": "meteo",
@@ -441,16 +461,6 @@
       "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
     },
     {
-      "nature": "evenement",
-      "date": "2026-11-17",
-      "theme": "conflit",
-      "portee": "Ukraine",
-      "autorite": "Euronews",
-      "titre": "La Russie va tenir une réunion d'urgence après qu'une attaque contre le pont de Crimée a provoqué l'effondrement d'une section",
-      "resume": "Page en anglais, titre traduit. Une attaque ukrainienne a fait s'effondrer une section du pont de 19 km reliant la Russie à la Crimée ; le gouvernement russe annonce une réunion de crise. À Kyiv, deux ponts ont été touchés le 16 au soir.",
-      "url": "https://www.euronews.com/2026/11/17/russian-strikes-hit-two-major-bridges-in-ukraines-capital-citys-mayor-says"
-    },
-    {
       "date": "2026-11-16",
       "theme": "meteo",
       "portee": "France",
@@ -468,16 +478,6 @@
       "titre": "Le groupe de coordination pour l'électricité estime le marché européen de l'électricité préparé pour l'hiver",
       "resume": "Page en anglais, titre traduit. Réuni le 12 novembre, le groupe juge que l'UE devrait disposer de ressources suffisantes pour couvrir sa demande d'électricité de l'hiver 2026-2027, tout en continuant à surveiller le marché de près.",
       "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-16",
-      "theme": "conflit",
-      "portee": "Bulgarie",
-      "autorite": "Euronews",
-      "titre": "Douze membres d'équipage secourus après le chavirage d'un cargo au large de la Bulgarie, à la suite d'une frappe de drone présumée",
-      "resume": "Page en anglais, titre traduit. Le Betul 8, parti de Roumanie avec près de 3 000 tonnes de blé, a chaviré le 16 novembre dans la zone économique bulgare ; l'équipage dit avoir été touché par des drones marins. Les 12 marins sont secourus.",
-      "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
     },
     {
       "date": "2026-11-15",
