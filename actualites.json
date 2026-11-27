@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-26T12:57:53Z",
+  "maj": "2026-11-27T05:24:13Z",
   "entrees": [
     {
       "date": "2026-11-26",
@@ -10,6 +10,16 @@
       "resume": "Gelées généralisées, parfois fortes, de jeudi à samedi, voire dimanche dans le Nord-Est, jusqu'à -6 °C près de la frontière belge vendredi au lever du jour ; du verglas peut se former sur les chaussées mouillées.",
       "url": "https://meteofrance.com/actualites/meteo-temps-hivernal-sur-le-nord-est-du-pays",
       "guide": "vague-de-froid"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-26",
+      "theme": "conflit",
+      "portee": "Koweït",
+      "autorite": "Euronews",
+      "titre": "Des vols civils déroutés alors que l'armée koweïtienne intercepte une attaque de drones iraniens",
+      "resume": "Page en anglais, titre traduit. Selon le ministère koweïtien de la Défense, l'armée a intercepté jeudi des drones iraniens visant une installation vitale ; des débris ont blessé quatre personnes. Des vols Europe-Asie ont été déroutés.",
+      "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack"
     },
     {
       "nature": "evenement",
@@ -40,6 +50,15 @@
       "titre": "Explosion d'un « projectile non identifié » près d'un pétrolier à l'ouest de Dubaï, au moment où s'intensifient les attaques houthies et saoudiennes",
       "resume": "Page en persan, titre traduit. Selon l'UKMTO, l'équipage est sain et sauf, sans dégât signalé ; les Houthis disent avoir visé Riyad et la raffinerie de Ras Tanura, l'Arabie saoudite dit avoir intercepté deux missiles visant la capitale.",
       "url": "https://parsi.euronews.com/2026/11/26/unknown-projectile-explosion-near-tanker-west-dubai-houthi-saudi-attacks"
+    },
+    {
+      "date": "2026-11-25",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "Évaluation rapide du risque de l'OMS : maladie à virus Ebola due au virus Bundibugyo, République démocratique du Congo, version 5",
+      "resume": "Page en anglais, titre traduit. L'OMS juge le risque très élevé en RDC, élevé au Kenya et au Nigeria, faible pour les pays bien équipés pour riposter ou peu liés aux zones touchées ; 10 990 cas confirmés et 5 354 décès en RDC au 8 novembre.",
+      "url": "https://www.who.int/publications/m/item/who-rapid-risk-assessment-ebola-disease-caused-by-bundibugyo-virus--democratic-republic-of-the-congo-v5"
     },
     {
       "date": "2026-11-25",
@@ -107,6 +126,16 @@
       "titre": "L'Iran ordonne de fermer Ormuz « davantage, jour après jour » alors que le Qatar cherche à relancer les pourparlers de paix",
       "resume": "Page en anglais, titre traduit. Le chef de l'armée iranienne a ordonné lundi à la marine de fermer davantage le détroit ; les Gardiens de la révolution affirment que trois pétroliers ont heurté des mines, fait non confirmé selon le JMIC.",
       "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+    },
+    {
+      "date": "2026-11-23",
+      "theme": "sante",
+      "portee": "France",
+      "autorite": "Santé publique France",
+      "titre": "Intoxications par le monoxyde de carbone. Adopter les bons gestes peut sauver des vies.",
+      "resume": "Environ 3 000 personnes sont intoxiquées chaque année en France par le monoxyde de carbone, une centaine en meurt : chauffage d'appoint deux heures de suite au plus, aérer dix minutes par jour, jamais de groupe électrogène en espace clos.",
+      "url": "https://www.santepubliquefrance.fr/presse/intoxications-par-le-monoxyde-de-carbone-adopter-les-bons-gestes-peut-sauver-des-vies",
+      "guide": "chauffage-monoxyde-de-carbone"
     },
     {
       "date": "2026-11-23",
@@ -449,16 +478,6 @@
       "titre": "Douze membres d'équipage secourus après le chavirage d'un cargo au large de la Bulgarie, à la suite d'une frappe de drone présumée",
       "resume": "Page en anglais, titre traduit. Le Betul 8, parti de Roumanie avec près de 3 000 tonnes de blé, a chaviré le 16 novembre dans la zone économique bulgare ; l'équipage dit avoir été touché par des drones marins. Les 12 marins sont secourus.",
       "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-16",
-      "theme": "conflit",
-      "portee": "Estonie",
-      "autorite": "Euronews",
-      "titre": "L'Estonie va fermer sa frontière avec la Russie après une tentative de « sabotage » contre un fabricant de drones, selon son ministre des Affaires étrangères",
-      "resume": "Page en anglais, titre traduit. L'Estonie fermera tous ses points de passage avec la Russie le 1er décembre, après un sabotage déjoué le 14 novembre que Tallinn attribue au renseignement militaire russe ; Moscou dit vouloir vérifier.",
-      "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
     },
     {
       "date": "2026-11-15",
