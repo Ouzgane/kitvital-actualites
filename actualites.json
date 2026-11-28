@@ -1,6 +1,43 @@
 {
-  "maj": "2026-11-27T13:03:09Z",
+  "maj": "2026-11-28T05:00:00Z",
   "entrees": [
+    {
+      "date": "2026-11-27",
+      "theme": "sante",
+      "portee": "Monde",
+      "autorite": "Organisation mondiale de la santé (OMS)",
+      "titre": "L'OMS publie des recommandations actualisées pour la riposte à Ebola et appelle à renforcer la sécurité et à accélérer la recherche",
+      "resume": "Page en anglais, titre traduit. Plus de 12 000 cas et 5 900 décès en RDC au 24 novembre ; l'urgence de portée internationale est maintenue ; les autres pays doivent repérer les voyageurs exposés sans entraver inutilement les vols.",
+      "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research"
+    },
+    {
+      "date": "2026-11-27",
+      "theme": "preparation",
+      "portee": "Union européenne",
+      "autorite": "Conseil de l'UE, Commission européenne et Service européen pour l'action extérieure",
+      "titre": "EU Integrated Resolve 2026 : l'Union achève avec succès un vaste exercice de réponse aux crises",
+      "resume": "Page en anglais, titre traduit. Mené du 19 octobre au 20 novembre, l'exercice a testé la réponse de l'Union à des menaces hybrides et à des imprévus touchant plusieurs pays, dont la coordination consulaire et le travail avec l'OTAN.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-integrated-resolve-2026-eu-successfully-concludes-wide-crisis-response-exercise-2026-11-27_en"
+    },
+    {
+      "date": "2026-11-27",
+      "theme": "infrastructures",
+      "portee": "Royaume-Uni",
+      "autorite": "Gouvernement britannique (ministère du Travail et des Retraites)",
+      "titre": "Perturbation temporaire de certains services en ligne du ministère du Travail et des Retraites",
+      "resume": "Page en anglais, titre traduit. Services en ligne coupés par précaution après un incident de cybersécurité ; prestations et pensions versées normalement ; le ministère ne demande jamais de données personnelles par SMS ou e-mail.",
+      "url": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services"
+    },
+    {
+      "nature": "evenement",
+      "date": "2026-11-27",
+      "theme": "conflit",
+      "portee": "Ukraine",
+      "autorite": "Euronews",
+      "titre": "Des frappes de drones russes touchent l'énergie, le rail et des infrastructures civiles en Ukraine et font des morts",
+      "resume": "Page en anglais, titre traduit. Selon les autorités ukrainiennes, 155 drones d'attaque lancés depuis le soir du 26 novembre, dont 110 abattus ; neuf régions touchées, des coupures de courant, quatre morts à Nijyn, Izioum et Kryvyï Rih.",
+      "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths"
+    },
     {
       "nature": "evenement",
       "date": "2026-11-27",
@@ -449,16 +486,6 @@
       "titre": "19 personnes secourues après qu'un gazier a été « touché » en mer Noire",
       "resume": "Page en anglais, titre traduit. Le Gas Husky, gazier libérien chargé de 3 400 tonnes de GPL pour la Roumanie, a été touché le 17 novembre à environ 50 milles nautiques de la côte bulgare, sans cause établie ; ses 19 marins sont secourus.",
       "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea"
-    },
-    {
-      "nature": "evenement",
-      "date": "2026-11-17",
-      "theme": "conflit",
-      "portee": "Moyen-Orient",
-      "autorite": "Euronews",
-      "titre": "Les États-Unis frappent des cibles sur l'île de Qeshm après que des mines iraniennes ont touché cinq navires à Ormuz",
-      "resume": "Page en anglais, titre traduit. Au moins cinq navires ont heurté des mines à Ormuz sur des routes que l'Iran juge non autorisées ; des responsables américains confirment des frappes sur des sites de lancement de missiles à Qeshm.",
-      "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
     },
     {
       "date": "2026-11-16",

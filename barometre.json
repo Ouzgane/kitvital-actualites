@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-27T05:24:05Z",
-  "releve": "2026-11-27",
+  "maj": "2026-11-28T05:01:17Z",
+  "releve": "2026-11-28",
   "annee": 2026,
   "valeurs": {
     "brent": {
@@ -29,11 +29,19 @@
   "actus": {
     "guerre-europe": [
       {
-        "date": "2026-11-26",
-        "texte": "Selon Euronews, une frappe russe a tué deux personnes dans un immeuble d'habitation de Kharkiv le 26 novembre au matin, et une troisième dans un établissement scolaire de la ville ; une frappe de missile a fait sept blessés à Kyiv. La défense aérienne ukrainienne dit avoir neutralisé 87 cibles.",
+        "date": "2026-11-27",
+        "texte": "Selon les autorités ukrainiennes citées par Euronews, la Russie a lancé 155 drones d'attaque depuis le soir du 26 novembre, dont 110 abattus. Le rail, l'énergie et des habitations sont touchés dans neuf régions, avec des coupures de courant ; quatre morts à Nijyn, Izioum et Kryvyï Rih.",
         "source": {
-          "titre": "La Russie lance des missiles et des drones sur l'Ukraine, au moins trois morts (Euronews, 26 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three"
+          "titre": "Des frappes de drones russes touchent l'énergie, le rail et des infrastructures civiles en Ukraine (Euronews, 27 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths"
+        }
+      },
+      {
+        "date": "2026-11-27",
+        "texte": "Selon l'armée lettone, un drone non identifié a brièvement survolé dans la nuit la municipalité de Ludza, dans l'est du pays ; des avions de l'OTAN ont décollé et les habitants ont reçu une alerte de 2 h 30 à 2 h 55. L'origine du drone n'est pas précisée.",
+        "source": {
+          "titre": "Des avions de l'OTAN décollent après l'entrée brève d'un drone dans l'espace aérien letton (Euronews, 27 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace"
         }
       },
       {
@@ -42,14 +50,6 @@
         "source": {
           "titre": "Déclaration commune du président des États-Unis et du secrétaire général de l'OTAN (OTAN, 26 novembre 2026)",
           "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general"
-        }
-      },
-      {
-        "date": "2026-11-26",
-        "texte": "Selon le porte-parole de l'OTAN cité par CBS News, les incidents en mer Noire sont passés de moins de 50 en 2025 à quatre ou cinq cents cette année ; la Fédération internationale des ouvriers du transport y compte au moins 40 morts sur la même période.",
-        "source": {
-          "titre": "Le front de la mer Noire dans la guerre entre la Russie et l'Ukraine (CBS News, 26 novembre 2026)",
-          "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/"
         }
       },
       {
@@ -71,6 +71,14 @@
     ],
     "climat": [
       {
+        "date": "2026-11-27",
+        "texte": "Selon la vigilance de Météo-France diffusée le 27 novembre à 6 h, aucun département n'est en orange ni en rouge le 27 et le 28 novembre ; 36 départements sont en jaune vendredi (grand froid, neige-verglas, avalanches, crues) et 28 samedi, presque tous pour le grand froid.",
+        "source": {
+          "titre": "Vigilance météorologique, diffusion du 27 novembre 2026 à 6 h (Météo-France)",
+          "url": "https://vigilance.meteofrance.fr/fr/vigilance-accessible"
+        }
+      },
+      {
         "date": "2026-11-26",
         "texte": "Météo-France annonce des gelées généralisées et parfois fortes de jeudi à samedi, jusqu'à dimanche dans le Nord-Est, avec -6 °C près de la frontière belge vendredi au lever du jour. Des plaques de verglas sont possibles sur les chaussées mouillées et des bruines verglaçantes très localisées.",
         "source": {
@@ -84,14 +92,6 @@
         "source": {
           "titre": "Bulletin national de vigilance crues du 26 novembre 2026 à 9 h 55 (Vigicrues)",
           "url": "https://www.vigicrues.gouv.fr/bulletin_national"
-        }
-      },
-      {
-        "date": "2026-11-24",
-        "texte": "Météo-France prévoit un mois de novembre proche des normales de pluie, voire excédentaire. L'humidité des sols approche enfin la normale, mais le quart nord-est et le sud-ouest restent fortement secs, à un niveau habituel vers la mi-octobre.",
-        "source": {
-          "titre": "Intensification des pluies en novembre 2026 : des niveaux de sécheresse différents selon les régions (Météo-France, 24 novembre 2026)",
-          "url": "https://meteofrance.com/actualites/intensification-des-pluies-en-novembre-2026-des-niveaux-de-secheresse-differents"
         }
       },
       {
@@ -113,10 +113,10 @@
     ],
     "energie": [
       {
-        "date": "2026-11-26",
-        "texte": "Le 26 novembre à 9 h, 3 % des stations-service de France manquent d'au moins un carburant ; 5 % dans le Grand Est, contre 7 % la veille, et 4 % en Bourgogne-Franche-Comté, en Centre-Val de Loire, en Île-de-France et dans les Pays de la Loire.",
+        "date": "2026-11-27",
+        "texte": "Le 27 novembre à 9 h, 3 % des stations-service de France manquent d'au moins un carburant ; 6 % dans le Grand Est, 5 % en Centre-Val de Loire, 4 % en Bourgogne-Franche-Comté et en Île-de-France.",
         "source": {
-          "titre": "Disponibilité des carburants dans les stations-service (prix-carburants.gouv.fr, 26 novembre 2026 à 9 h)",
+          "titre": "Disponibilité des carburants dans les stations-service (prix-carburants.gouv.fr, 27 novembre 2026 à 9 h)",
           "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
         }
       },
@@ -155,6 +155,14 @@
     ],
     "epidemies": [
       {
+        "date": "2026-11-27",
+        "texte": "L'OMS publie des recommandations temporaires actualisées : l'épidémie d'Ebola reste une urgence de santé publique de portée internationale, avec plus de 12 000 cas et 5 900 décès en RDC au 24 novembre. Les autres pays doivent repérer les voyageurs exposés sans entraver inutilement les vols.",
+        "source": {
+          "titre": "L'OMS publie des recommandations actualisées pour la riposte à Ebola (OMS, 27 novembre 2026)",
+          "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research"
+        }
+      },
+      {
         "date": "2026-11-26",
         "texte": "Selon l'ECDC, la RDC compte 12 021 cas confirmés d'Ebola, dont 5 904 décès, au 25 novembre ; 20 cas ont été signalés en Ouganda, 9 au Kenya et 1 au Nigeria, évacué en Suisse. Le risque d'infection reste jugé très faible pour les habitants de l'Union.",
         "source": {
@@ -185,23 +193,23 @@
           "titre": "De violents combats en Ituri bloquent des équipes de riposte contre Ebola, selon l'OMS (ONU Info, 23 novembre 2026)",
           "url": "https://news.un.org/en/story/2026/11/1168858"
         }
-      },
-      {
-        "date": "2026-11-20",
-        "texte": "L'OMS compte en RDC 11 613 cas confirmés d'Ebola et 5 678 décès au 17 novembre, dans 68 zones de santé de huit provinces, et 9 cas au Kenya, dont 2 décès. Le 18 novembre, son directeur général a jugé que l'épidémie reste une urgence de santé publique de portée internationale.",
-        "source": {
-          "titre": "Maladie à virus Bundibugyo : RDC, Kenya et Nigeria, point du 20 novembre 2026 (OMS)",
-          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
-        }
       }
     ],
     "conflits-monde": [
       {
-        "date": "2026-11-26",
-        "texte": "Le ministère koweïtien de la Défense dit que l'armée a intercepté jeudi des drones iraniens qui visaient une installation vitale ; des débris ont blessé quatre personnes. Les vols du couloir aérien entre l'Europe, le Golfe et l'Asie, qui passe par l'Irak, ont été déroutés.",
+        "date": "2026-11-27",
+        "texte": "Le ministre italien des Affaires étrangères dit que plusieurs drones iraniens ont frappé le 26 novembre des installations militaires du Koweït, tuant deux spécialistes italiens. L'Iran dément toute opération militaire et propose une enquête conjointe avec Rome et Koweït.",
         "source": {
-          "titre": "Des vols civils déroutés alors que l'armée koweïtienne intercepte une attaque de drones iraniens (Euronews, 26 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack"
+          "titre": "L'Iran dément être responsable de la frappe de drones au Koweït qui a tué deux Italiens (Euronews, 27 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
+        }
+      },
+      {
+        "date": "2026-11-27",
+        "texte": "Selon la FAO et le PAM, cités par ONU Info, la faim aiguë va s'aggraver d'ici six mois dans 16 points chauds, le conflit en étant la première cause dans 12 d'entre eux. Au Soudan, jusqu'à 13 zones du Darfour du Nord et du Kordofan du Sud pourraient connaître la famine d'ici janvier 2027.",
+        "source": {
+          "titre": "Le secrétaire général condamne les attaques de drones au Koweït, points chauds de la faim, déplacements au Kordofan (ONU Info, 27 novembre 2026)",
+          "url": "https://news.un.org/en/story/2026/11/1168893"
         }
       },
       {
@@ -218,14 +226,6 @@
         "source": {
           "titre": "Le commerce maritime stagne dans un contexte d'incertitude géopolitique (ONU Info, 26 novembre 2026)",
           "url": "https://news.un.org/en/story/2026/11/1168884"
-        }
-      },
-      {
-        "date": "2026-11-25",
-        "texte": "Les États-Unis demandent à leurs ressortissants de quitter l'Iran immédiatement : leur ambassade virtuelle avertit que les hostilités pourraient s'intensifier rapidement, après des attaques iraniennes contre des sites américains à Bahreïn et au Koweït.",
-        "source": {
-          "titre": "Les États-Unis demandent à leurs ressortissants de quitter l'Iran (Euronews, 25 novembre 2026)",
-          "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast"
         }
       },
       {
@@ -281,19 +281,27 @@
     ],
     "cyberattaques": [
       {
+        "date": "2026-11-27",
+        "texte": "Au Royaume-Uni, le ministère du Travail et des Retraites coupe par précaution, le 27 novembre au matin, une partie de ses services en ligne après un incident de cybersécurité détecté la veille au soir, que Downing Street dit « en cours ». Les prestations et pensions sont versées normalement.",
+        "source": {
+          "titre": "Un incident de cybersécurité « en cours » coupe des services en ligne du ministère britannique du Travail et des Retraites (Euronews, 27 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/27/live-and-ongoing-cyber-incident-takes-down-uk-department-for-work-and-pensions-online-serv"
+        }
+      },
+      {
+        "date": "2026-11-27",
+        "texte": "La police danoise a arrêté un homme de 18 ans, soupçonné d'avoir consulté sans autorisation le registre central des personnes et récupéré 11 000 numéros d'identification. L'intrusion, détectée le 23 novembre, a été stoppée par un nouveau système de surveillance.",
+        "source": {
+          "titre": "Le Danemark arrête un adolescent après une fuite de données touchant 11 000 personnes (Euronews, 27 novembre 2026)",
+          "url": "https://www.euronews.com/2026/11/27/denmark-arrests-teenager-over-data-breach-affecting-11000-people"
+        }
+      },
+      {
         "date": "2026-11-25",
         "texte": "Le CERT-FR de l'ANSSI publie des recommandations pour sécuriser les liaisons entre les sites d'une organisation, après avoir relevé de multiples compromissions de réseaux de télécommunications ; des technologies comme MPLS ou le satellite ne chiffrent pas nativement les communications.",
         "source": {
           "titre": "Recommandations de sécurisation des liaisons inter-sites (CERT-FR, ANSSI, 25 novembre 2026)",
           "url": "https://cert.cyber.gouv.fr/dur/CERTFR-2026-DUR-001/"
-        }
-      },
-      {
-        "date": "2026-11-24",
-        "texte": "À Rome, la secrétaire générale adjointe de l'OTAN appelle les entreprises qui font fonctionner l'électricité et l'eau à se préparer aux cyberattaques, sabotages et brouillages GPS : plans de crise clairs, exercices communs avec les pouvoirs publics, information des salariés sur le niveau de menace.",
-        "source": {
-          "titre": "Discours de la secrétaire générale adjointe de l'OTAN au symposium sur la résilience, Rome (OTAN, 24 novembre 2026)",
-          "url": "https://www.nato.int/en/news-and-events/events/transcripts/2026/11/24/keynote-speech-by-the-nato-deputy-secretary-general-at-the-nato-resilience-symposium"
         }
       },
       {
@@ -310,14 +318,6 @@
         "source": {
           "titre": "Campagnes de déstabilisation et sabotage menées contre les intérêts français par l'Iran (ANSSI, 9 novembre 2026)",
           "url": "https://www.cyber.gouv.fr/actualites/campagnes-de-d%C3%A9stabilisation-et-sabotage-men%C3%A9es-%C3%A0-lencontre-des-int%C3%A9r%C3%AAts-fran%C3%A7ais-par-la-r%C3%A9publique-islamique-diran/"
-        }
-      },
-      {
-        "date": "2026-03-11",
-        "texte": "L'ANSSI a traité 1 366 incidents en 2025, un niveau stable mais élevé. Elle note la montée d'attaques à motivation géopolitique contre l'énergie, l'eau et les transports.",
-        "source": {
-          "titre": "Panorama de la cybermenace 2025 (ANSSI, 11 mars 2026)",
-          "url": "https://cyber.gouv.fr/actualites/panorama-de-la-cybermenace-2025/"
         }
       }
     ],
@@ -366,43 +366,43 @@
   },
   "analyses": {
     "guerre-europe": {
-      "date": "2026-11-27",
-      "texte": "Les frappes russes continuent de toucher les villes ukrainiennes : trois morts à Kharkiv le 26 novembre selon Euronews, dont une personne dans un établissement scolaire, et sept blessés à Kyiv. Le même jour, le président américain et le secrétaire général de l'OTAN ont demandé à la Russie d'éviter toute action qui étendrait la guerre, alors que l'OTAN relève une forte hausse des incidents en mer Noire. Aucun cessez-le-feu n'est annoncé. Le score du domaine reste à 90, porté par les 2 957 civils tués de janvier à octobre selon l'ONU.",
-      "aSurveiller": "Le point de l'ONU sur les civils tués en novembre, attendu mi-décembre, les frappes sur le réseau énergétique ukrainien avec le froid, et tout incident en mer Noire ou dans l'espace aérien d'un pays de l'Union."
+      "date": "2026-11-28",
+      "texte": "Les frappes russes sur l'Ukraine continuent : depuis le soir du 26 novembre, 155 drones ont visé le rail, l'énergie et des habitations dans neuf régions, faisant quatre morts selon les autorités ukrainiennes. Le 27, un drone non identifié a brièvement survolé l'est de la Lettonie et des avions de l'OTAN ont décollé. Aucun cessez-le-feu n'est annoncé. Le score du domaine reste à 90, porté par les 2 957 civils tués de janvier à octobre selon l'ONU.",
+      "aSurveiller": "Le point de l'ONU sur les civils tués en novembre, attendu mi-décembre, les frappes sur le réseau énergétique ukrainien avec le froid, et tout incident dans l'espace aérien d'un pays de l'Union."
     },
     "climat": {
-      "date": "2026-11-27",
-      "texte": "Le froid s'installe : Météo-France annonce des gelées généralisées jusqu'au week-end, parfois fortes dans le Nord-Est, avec jusqu'à -6 °C près de la frontière belge et un risque de verglas le matin. Dans le Sud-Est, les crues de l'épisode méditerranéen du 25 novembre sont passées : selon Vigicrues, les décrues sont en cours et la vigilance crues est au plus jaune depuis le 26. Le score ne change pas.",
+      "date": "2026-11-28",
+      "texte": "Le froid s'installe sans vigilance orange : selon la carte de Météo-France diffusée le 27 novembre au matin, une trentaine de départements sont en jaune, surtout pour le grand froid, avec des gelées parfois fortes dans le Nord-Est jusqu'au week-end. Dans le Sud-Est, les crues de l'épisode méditerranéen du 25 novembre sont passées. Le score ne change pas : il repose sur le réchauffement mondial mesuré par Copernicus, dont le bilan de novembre est attendu début décembre.",
       "aSurveiller": "Les vigilances grand froid et neige-verglas de Météo-France dans le nord et l'est du pays, et le bilan mensuel de Copernicus, début décembre."
     },
     "energie": {
-      "date": "2026-11-27",
-      "texte": "La disponibilité des carburants continue de s'améliorer : le 26 novembre à 9 h, 3 % des stations manquaient d'au moins un carburant, 5 % dans le Grand Est. Le Brent reste autour de 91 $ et sa moyenne depuis janvier d'environ 96 $ ; l'Opep+ se réunit ce week-end. Les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans, sans risque relevé par la Commission pour l'approvisionnement cet hiver. Le score reste à 59.",
+      "date": "2026-11-28",
+      "texte": "La disponibilité des carburants reste bonne au niveau national : le 27 novembre à 9 h, 3 % des stations manquaient d'au moins un carburant, 6 % dans le Grand Est. Le Brent reste autour de 91 $ et sa moyenne depuis janvier d'environ 96 $ ; l'Opep+ se réunit ce week-end. Les stocks de gaz au 1er novembre restent les plus bas depuis plus de dix ans, sans risque relevé par la Commission pour l'approvisionnement cet hiver. Le score reste à 59.",
       "aSurveiller": "La réunion de l'Opep+ ce week-end, la consommation de gaz et les signaux Ecowatt de RTE avec le froid, et les attaques contre les installations pétrolières du Golfe."
     },
     "epidemies": {
-      "date": "2026-11-27",
-      "texte": "L'épidémie d'Ebola due au virus Bundibugyo continue en RDC : 12 021 cas confirmés et 5 904 décès au 25 novembre selon l'ECDC. Dans sa nouvelle évaluation du 25 novembre, l'OMS juge le risque très élevé en RDC et élevé au Kenya et au Nigeria ; l'ECDC estime toujours très faible le risque pour les habitants de l'Union, et l'urgence de santé publique de portée internationale est maintenue. En France, la grippe progresse et la plupart des régions sont en phase pré-épidémique ; le score ne change pas.",
+      "date": "2026-11-28",
+      "texte": "L'épidémie d'Ebola due au virus Bundibugyo continue en RDC : plus de 12 000 cas et 5 900 décès au 24 novembre selon l'OMS, qui maintient l'urgence de santé publique de portée internationale et appelle à renforcer la sécurité des équipes et à accélérer les essais de vaccins et de traitements. L'ECDC estime toujours très faible le risque pour les habitants de l'Union. En France, la grippe progresse et la plupart des régions sont en phase pré-épidémique ; le score ne change pas.",
       "aSurveiller": "Le prochain bulletin de Santé publique France, la semaine prochaine, pour un éventuel passage de la grippe en phase épidémique, et le prochain point de l'OMS sur Ebola."
     },
     "conflits-monde": {
-      "date": "2026-11-27",
-      "texte": "Les attaques se poursuivent dans le Golfe : le 26 novembre, le Koweït dit avoir intercepté des drones iraniens dont les débris ont blessé quatre personnes, et des vols entre l'Europe et l'Asie ont été déroutés. La veille au soir, un projectile avait explosé près d'un pétrolier à l'ouest de Dubaï. Selon la CNUCED, l'assurance d'un pétrolier contre le risque de guerre est passée d'environ 200 000 dollars à 1 million par voyage. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
-      "aSurveiller": "Le passage des navires à Ormuz et en mer Rouge, les attaques contre les pays du Golfe et leurs effets sur les vols, et la médiation du Qatar."
+      "date": "2026-11-28",
+      "texte": "Le 26 novembre, une attaque de drones contre des installations militaires du Koweït a tué deux spécialistes italiens : l'Italie l'attribue à l'Iran, qui dément et propose une enquête conjointe. Les incidents se poursuivent autour d'Ormuz et le coût d'assurance des pétroliers a fortement augmenté. Au Soudan, la FAO et le PAM redoutent la famine dans jusqu'à 13 zones d'ici janvier 2027. Le score ne bouge pas : il repose sur les chiffres annuels de 2025.",
+      "aSurveiller": "Les suites de l'attaque au Koweït et les attaques contre les pays du Golfe, le passage des navires à Ormuz et en mer Rouge, et la médiation du Qatar."
     },
     "nucleaire": {
-      "date": "2026-11-27",
-      "texte": "Aucun fait nouveau confirmé depuis le 25 novembre. Selon des informations de renseignement occidentales rapportées par Euronews, la Russie préparerait le lancement d'un satellite à capacité nucléaire, ce que Moscou dément. L'Iran refuse toujours une coopération sans condition avec l'AIEA tant que les bombardements continuent. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut et le score ne change pas.",
+      "date": "2026-11-28",
+      "texte": "Aucun fait nouveau confirmé depuis le 25 novembre, où des renseignements occidentaux rapportés par Euronews prêtaient à la Russie le projet de lancer un satellite à capacité nucléaire, ce que Moscou dément. L'Iran refuse toujours une coopération sans condition avec l'AIEA tant que les bombardements continuent. Aucun traité ne limite plus les arsenaux russe et américain depuis février : le repère reste à son palier le plus haut et le score ne change pas.",
       "aSurveiller": "Une confirmation ou un démenti du lancement d'un satellite russe à capacité nucléaire, le retour des inspecteurs de l'AIEA en Iran, et toute reprise d'échanges sur le contrôle des armes."
     },
     "cyberattaques": {
-      "date": "2026-11-27",
-      "texte": "Le 25 novembre, l'ANSSI a publié des recommandations pour sécuriser les liaisons entre les sites des organisations, après avoir relevé de multiples compromissions de réseaux de télécommunications. La veille, l'OTAN avait demandé aux entreprises de l'électricité et de l'eau de se préparer aux cyberattaques et aux sabotages, et l'intrusion contre la Commission européenne n'était pas entièrement contenue au 23 novembre. Aucun nouveau sabotage n'a été relevé en France depuis le 9 novembre ; le score ne change pas, il repose sur les incidents traités par l'ANSSI en 2025.",
-      "aSurveiller": "Les conclusions de l'enquête sur l'intrusion à la Commission européenne, toute attaque contre un service essentiel en France, et le Panorama 2026 de l'ANSSI, attendu début 2027."
+      "date": "2026-11-28",
+      "texte": "Au Royaume-Uni, un incident de cybersécurité a conduit le ministère du Travail et des Retraites à couper par précaution une partie de ses services en ligne le 27 novembre, sans effet sur le versement des prestations. Au Danemark, un homme de 18 ans a été arrêté après une nouvelle intrusion dans le registre des personnes. En France, aucun nouveau sabotage n'a été relevé depuis le 9 novembre ; le score ne change pas, il repose sur les incidents traités par l'ANSSI en 2025.",
+      "aSurveiller": "Les conclusions des enquêtes sur les intrusions au ministère britannique et à la Commission européenne, toute attaque contre un service essentiel en France, et le Panorama 2026 de l'ANSSI, attendu début 2027."
     },
     "terrorisme": {
-      "date": "2026-11-27",
-      "texte": "Aucun nouvel attentat n'a été relevé dans l'Union depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet polonais. En Allemagne, les marchés de Noël ouvrent sous haute sécurité, après les attentats de Berlin en 2016 et de Magdebourg en 2024. En France, le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », depuis le 22 juin. Le score ne change pas, faute de nouveau chiffre.",
+      "date": "2026-11-28",
+      "texte": "Aucun nouvel attentat n'a été relevé dans l'Union depuis la fusillade du 7 novembre à Cracovie, qualifiée d'infraction terroriste par le parquet polonais. En Allemagne, les marchés de Noël ont ouvert sous haute sécurité, après les attentats de Berlin en 2016 et de Magdebourg en 2024. En France, le plan Vigipirate reste au stade intermédiaire, « vigilance renforcée », depuis le 22 juin. Le score ne change pas, faute de nouveau chiffre.",
       "aSurveiller": "Un changement de stade du plan Vigipirate, et les consignes de sécurité pour les marchés de Noël et les fêtes de fin d'année."
     }
   },
@@ -619,6 +619,20 @@
     },
     {
       "date": "2026-11-27",
+      "global": 65.83,
+      "dimensions": {
+        "guerre-europe": 89.52,
+        "conflits-monde": 86.97,
+        "nucleaire": 89.88,
+        "cyberattaques": 86.6,
+        "terrorisme": 40,
+        "climat": 50,
+        "energie": 58.69,
+        "epidemies": 25
+      }
+    },
+    {
+      "date": "2026-11-28",
       "global": 65.83,
       "dimensions": {
         "guerre-europe": 89.52,
