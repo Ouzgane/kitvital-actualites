@@ -1,6 +1,16 @@
 {
-  "maj": "2026-11-28T05:00:00Z",
+  "maj": "2026-11-28T12:59:21Z",
   "entrees": [
+    {
+      "nature": "evenement",
+      "date": "2026-11-28",
+      "theme": "conflit",
+      "portee": "Golfe d'Oman",
+      "autorite": "Euronews",
+      "titre": "L'armée américaine tire sur un navire qui a violé le blocus des ports iraniens",
+      "resume": "Page en anglais, titre traduit. Selon l'armée américaine, le Pacific Archer, parti de Bandar Abbas, a été immobilisé dans le golfe d'Oman, équipage civil indemne ; six navires mis hors d'état et 158 déroutés depuis mi-juillet.",
+      "url": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports"
+    },
     {
       "date": "2026-11-27",
       "theme": "sante",
@@ -57,6 +67,15 @@
       "titre": "L'Iran dément être responsable de la frappe de drones au Koweït qui a tué deux Italiens",
       "resume": "Page en anglais, titre traduit. Selon le ministre italien Antonio Tajani, des drones ont frappé des installations militaires koweïtiennes, tuant deux spécialistes italiens ; l'Iran dément et propose une enquête conjointe.",
       "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
+    },
+    {
+      "date": "2026-11-26",
+      "theme": "sante",
+      "portee": "Union européenne",
+      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
+      "resume": "Page en anglais, titre traduit. Point du 26 novembre : la RDC compte 12 021 cas confirmés et 5 904 décès dans huit provinces ; l'ECDC juge très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
+      "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
     },
     {
       "date": "2026-11-26",
@@ -478,16 +497,6 @@
       "url": "https://ukraine.un.org/en/326337-ukraine-civilians-die-alarming-rates-amid-intensifying-attacks-un-human-rights-officials-say"
     },
     {
-      "nature": "evenement",
-      "date": "2026-11-17",
-      "theme": "conflit",
-      "portee": "Bulgarie",
-      "autorite": "Euronews",
-      "titre": "19 personnes secourues après qu'un gazier a été « touché » en mer Noire",
-      "resume": "Page en anglais, titre traduit. Le Gas Husky, gazier libérien chargé de 3 400 tonnes de GPL pour la Roumanie, a été touché le 17 novembre à environ 50 milles nautiques de la côte bulgare, sans cause établie ; ses 19 marins sont secourus.",
-      "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea"
-    },
-    {
       "date": "2026-11-16",
       "theme": "meteo",
       "portee": "France",
@@ -551,15 +560,6 @@
       "titre": "Météo du week-end : plus frais et sec au nord et retour des pluies au sud",
       "resume": "Météo-France prévoit samedi des gelées parfois fortes sur un large quart nord-est, jusqu'à -5 °C localement sur les hauteurs du Massif central, puis dimanche une nouvelle perturbation pluvieuse sur tout le pays.",
       "url": "https://meteofrance.com/actualites/meteo-temps-agite-et-pluvieux-cette-semaine"
-    },
-    {
-      "date": "2026-11-13",
-      "theme": "sante",
-      "portee": "Union européenne",
-      "autorite": "Centre européen de prévention et de contrôle des maladies (ECDC)",
-      "titre": "Maladie à virus Ebola : épidémie dans plusieurs pays en 2026",
-      "resume": "Page en anglais, titre traduit. Au 12 novembre, la RDC a déclaré 11 197 cas confirmés dont 5 471 décès ; l'ECDC estime très faible la probabilité d'infection pour les personnes vivant dans l'UE et l'EEE.",
-      "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
     },
     {
       "date": "2026-11-12",
